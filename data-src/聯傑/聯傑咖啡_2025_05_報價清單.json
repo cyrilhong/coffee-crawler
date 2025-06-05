@@ -1,0 +1,4200 @@
+[
+  {
+    "region": null,
+    "code": "1KY0177",
+    "name": "肯亞 涅里產區 卡洛圖處理廠 AB 級",
+    "eng_name": "Kenya Nyeri Karogoto Washed AB",
+    "specs": {
+      "moisture": "9.6%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 420
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 395
+        }
+      ]
+    },
+    "desc": "風味：白柚與甜桃清香，品飲帶陳皮梅、黑柿番茄 、黑糖甜韻、烤胡桃仁，整體酸甜平衡，",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "1KY0174",
+    "name": "肯亞 奇里雅加產區 凱恩處理廠 AB 級",
+    "eng_name": "Kenya Kirinyaga Kiangombe Washed AB",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 420
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 395
+        }
+      ]
+    },
+    "desc": "風味：聞香與品飲皆帶烏梅、仙楂，同時帶黑糖與烤甜杏，Body 飽滿，尾韻延綿",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "1RW0027",
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda Western Province Nyamasheke Kilimbi A1 Honey",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 410
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 390
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 380
+        }
+      ]
+    },
+    "desc": "風味：玉蘭花細緻雅香，品飲感受蜂蜜般滑順甜感，帶有龍眼乾與青梅，整體酸甜平衡，",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "1RW0028",
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda WPR Nyamasheke Kilimbi A1 Natural",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 400
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 380
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 380
+        }
+      ]
+    },
+    "desc": "風味：熱帶水果甜香氣，品飲時帶有甜桃、百香果、青梅、烤堅果，整體酸甜平衡，尾韻厚實",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "2CR0086",
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense La Guaca Black Honey",
+    "specs": {
+      "moisture": "10.3%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1680
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 4
+        }
+      ]
+    },
+    "desc": "風味：黑莓、柑橘、黑糖、黃色水果、茶感、酸甜平衡、口感輕盈",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "2CR0137",
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Finca Vista al Chirripo Natural Geisha",
+    "specs": {
+      "moisture": "9.6%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1350
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 880
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1300
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 850
+        }
+      ]
+    },
+    "desc": "風味：黃色花香、橙色水果調、桂圓、紅糖、酸質柔順、綿密甜美",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "4YE0003",
+    "name": "葉門 薩奈省 赫拉茲 馬娜卡 日曬",
+    "eng_name": "Yemen Sana'a Haraaz Manakha Natural",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.69"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1250
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 1200
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 688
+        }
+      ]
+    },
+    "desc": "風味：甜菸草、香草植物、香料、檀香、麵包、深色莓果 、紅酒、口感濃郁、糖漿般的口感",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "3CO0268",
+    "name": "哥倫比亞 考卡山谷省 無暇莊園 經典系列",
+    "eng_name": "Colombia Cauca Finca Inmaculada Family Reserve",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2750
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 2450
+        }
+      ]
+    },
+    "desc": "風味：梅子、烏梅、黑李，品飲甜感佳，糖葫蘆、紅糖、蜂蜜、蜜餞、牛軋糖、焙香烏龍茶、",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "3CO0266",
+    "name": "哥倫比亞 托利馬省 二氧化碳浸漬",
+    "eng_name": "Colombia Tolima Carbonic Maceration Natural Red",
+    "specs": {
+      "moisture": "10.4%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 860
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 810
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 840
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 790
+        }
+      ]
+    },
+    "desc": "風味：熱帶水果、葡萄優格、榛果、黑巧克力、柑橘、熟果、酸甜平衡、尾段酸質活潑",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "3CO0252",
+    "name": "哥倫比亞 娜玲瓏 社區小農 希望批次",
+    "eng_name": "Colombia Narino La Esperanza Washed",
+    "specs": {
+      "moisture": "10.9%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1520
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 4
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 2
+        }
+      ]
+    },
+    "desc": "風味：榛果、紅糖、黑糖、橙香、紅莓、葡萄柚、酸值優雅輕盈、茶感餘韻順口",
+    "low_stock": true
+  },
+  {
+    "region": "衣索比亞 / 水洗",
+    "code": "1ET0449",
+    "name": "衣索比亞 西達馬 班莎 聖塔維尼村",
+    "eng_name": "Ethiopia Sidama Bensa Shantawene Buncho Washed G1",
+    "specs": {
+      "moisture": "9.1%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：優雅的橙花清香，品飲感受柑橘、黃檸檬、甜奶油，口感圓潤，Body 平衡適中",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 水洗",
+    "code": "1ET002Y25",
+    "name": "衣索比亞 西達馬 班莎鎮 薩佳拉",
+    "eng_name": "Ethiopia Sidama Bensa Sagara Hechi Washed G1",
+    "specs": {
+      "moisture": "10%",
+      "water_activity": "0.50"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：乾香帶有橙花清香，品飲撲鼻而至的佛手柑與萊姆，伴隨黑李、紅柚，整體酸甜平衡，尾韻延綿。",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 水洗",
+    "code": "1ET005Y25",
+    "name": "衣索比亞 西達馬 班莎鎮 達摩村",
+    "eng_name": "Ethiopia Sidama Bensa Damo Washed G1",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    },
+    "desc": "風味：濃郁的甜橙果香，品飲帶有柑橘、紅莓果、黃檸檬，絲滑丁香奶油口感，整體風味飽滿，甜感佳",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 水洗",
+    "code": "1ET003Y25",
+    "name": "衣索比亞 蓋德奧 耶加雪菲 科契爾鎮",
+    "eng_name": "Ethiopia Gedeo Yirgacheffe Kochere Washed G2",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 375
+        }
+      ]
+    },
+    "desc": "風味：淡雅山茶花清香，品飲帶有甜橙、小紅莓與檸檬酸質，口感乾淨明亮，酸質上揚，尾韻延綿",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 水洗",
+    "code": "1ET001Y25",
+    "name": "衣索比亞 西達馬 班莎鎮 水洗 G2",
+    "eng_name": "Ethiopia Sidama Bensa Washed G2",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 375
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 355
+        }
+      ]
+    },
+    "desc": "風味：紅莓果的乾香氣，品飲感受杏桃、橙皮、薑茶、黑糖，整體口感輕盈，甜感尤佳",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 水洗",
+    "code": "1ET004Y25",
+    "name": "衣索比亞 蓋德奧 耶加雪菲 維娜果鎮",
+    "eng_name": "Ethiopia Gedeo Yirgacheffe Wenago Mokanisa Washed G2",
+    "specs": {
+      "moisture": "10.4%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 365
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 335
+        }
+      ]
+    },
+    "desc": "風味：乾香帶有檸檬與佛手柑，品飲時帶越橘果醬與紅莓果，紅糖尾韻，整體風味乾淨平衡",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 蜜處理",
+    "code": "1ET008Y25",
+    "name": "衣索比亞 西達馬 班莎鎮 康卡納處理廠",
+    "eng_name": "Ethiopia Sidama Bensa Qonqona Orange Blossom Double",
+    "specs": {
+      "moisture": "7.6%",
+      "water_activity": "0.47"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 680
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 650
+        }
+      ]
+    },
+    "desc": "風味：乾香與品飲皆為濃郁的橙花香氣，並帶有黃色水果，如哈密瓜、香瓜、柑橘酸甜，整體風",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 蜜處理",
+    "code": "1ET006Y25",
+    "name": "衣索比亞 西達馬 班莎鎮 康卡納處理廠",
+    "eng_name": "Ethiopia Sidama Bensa Qonqona Rose Double Anaerobic",
+    "specs": {
+      "moisture": "8.6%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 680
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 650
+        }
+      ]
+    },
+    "desc": "風味：乾香為淡雅的玫瑰與白桃甜香，入口帶有荔枝、甜桃、蘋果青茶，整體風味飽滿，",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 蜜處理",
+    "code": "1ET007Y25",
+    "name": "衣索比亞 西達馬 班莎鎮 康卡納處理廠",
+    "eng_name": "Ethiopia Sidama Bensa Qonqona Lychee Double Anaerobic",
+    "specs": {
+      "moisture": "8.2%",
+      "water_activity": "0.47"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 690
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 660
+        }
+      ]
+    },
+    "desc": "風味：乾香感受白桃的甜香氣，入口帶有香甜的荔枝、水蜜桃、水果茶，整體風味飽滿，",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 蜜處理",
+    "code": "1ET0448",
+    "name": "衣索比亞 西達馬 班莎 聖塔維尼村",
+    "eng_name": "Ethiopia Sidama Bensa Shantawene Gatta Honey G1",
+    "specs": {
+      "moisture": "9.1%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 550
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 530
+        }
+      ]
+    },
+    "desc": "風味：乾香與品飲皆為飽滿的杏桃與蜂蜜滋味，同時品嘗到蜜蘋果、砂糖橘、杏仁瓦片，整體",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 蜜處理",
+    "code": "1ET0447",
+    "name": "衣索比亞 蓋德奧 耶加雪菲 喬蓓莎村",
+    "eng_name": "Ethiopia Gedeo Yirgacheffe Gedeb Chelbesa Danche",
+    "specs": {
+      "moisture": "10.4%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 550
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 530
+        }
+      ]
+    },
+    "desc": "風味：聞香帶有紅莓果、紅花香氣，品飲帶有青檸檬與甜橙，整體酸質上揚、口感細膩",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 蜜處理",
+    "code": "1ET0387",
+    "name": "衣索比亞 西達馬 班莎 聖塔維尼村",
+    "eng_name": "Ethiopia Sidama Bensa Shantawene Buncho Honey G1",
+    "specs": {
+      "moisture": "9.2%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 460
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 440
+        }
+      ]
+    },
+    "desc": "風味：細緻的白花香氣，品飲則有越橘果醬與蜂蜜般甜韻，同時伴隨黃色水果果汁感，口感圓",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 日曬",
+    "code": "1ET0458",
+    "name": "衣索比亞 西達馬 西阿爾西區 卡卡夏鎮",
+    "eng_name": "Ethiopia Sidama West Arsi Kokosa Yiromnesh Roba",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1130
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1100
+        }
+      ]
+    },
+    "desc": "風味：奔放熱帶水果與梅酒甜香氣，品飲帶有葡萄、百香果、血橙、檸檬糖，整體風味飽滿多汁、酸質",
+    "low_stock": false
+  },
+  {
+    "region": "衣索比亞 / 日曬",
+    "code": "1ET0464",
+    "name": "衣索比亞 西達馬 水豚君 日曬",
+    "eng_name": "Ethiopia Sidama Natural PB G1",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：強烈的莓果香氣，帶有紅色水果如酒漬櫻桃、紅肉李，與青檸檬的酸質，風味複雜飽滿，",
+    "low_stock": false
+  },
+  {
+    "region": "非洲 / 肯亞",
+    "code": "1KY0070",
+    "name": "肯亞 涅里產區 蜂蜜 Top AA 級",
+    "eng_name": "Kenya Nyeri Asali Top Washed AA",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：仙楂與蜜餞香氣，品飲帶青梅、黑醋栗、黑糖甜感、檸檬酸質，以柚子茶收尾",
+    "low_stock": false
+  },
+  {
+    "region": "非洲 / 肯亞",
+    "code": "1KY0178",
+    "name": "肯亞 奇里雅加產區 卡姆旺處理廠 AA 級",
+    "eng_name": "Kenya Kirinyaga Kamwangi Washed AA",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 435
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 415
+        }
+      ]
+    },
+    "desc": "風味：脆梅的酸香氣風味，同時帶黑糖、蜜餞、烏龍茶韻，整體 Body 飽滿，口感圓滑",
+    "low_stock": false
+  },
+  {
+    "region": "非洲 / 肯亞",
+    "code": "1KY0069",
+    "name": "肯亞 涅里產區 蜂蜜 Top AB 級",
+    "eng_name": "Kenya Nyeri Asali Top Washed AB",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 430
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 410
+        }
+      ]
+    },
+    "desc": "風味：檸檬、柑橘香氣，入口感受烏梅、黑糖滑順口感，尾韻甘甜細緻",
+    "low_stock": false
+  },
+  {
+    "region": "非洲 / 肯亞",
+    "code": "1KY0017",
+    "name": "肯亞 AA 級 FAQ",
+    "eng_name": "Kenya FAQ Washed AA",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 320
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 300
+        }
+      ]
+    },
+    "desc": "風味：聞香與品飲皆為飽滿的酸梅、仙楂，並帶有厚實黑糖甜韻、梅子乾，整體酸甜平衡，",
+    "low_stock": false
+  },
+  {
+    "region": "盧安達 / 水洗",
+    "code": "1RW0030",
+    "name": "盧安達 西部省 亞瑪雪克",
+    "eng_name": "Rwanda Western Province Nyamasheke Rugali",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 310
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 290
+        }
+      ]
+    },
+    "desc": "風味：黑莓、橙皮、蔗糖、檸檬草、酸甜平衡、口感乾淨內斂",
+    "low_stock": false
+  },
+  {
+    "region": "盧安達 / 蜜處理",
+    "code": "1RW0025",
+    "name": "盧安達 北部省 亞畢胡 席拉處理廠",
+    "eng_name": "Rwanda Northern Province Nyabihu Shyira A1 Honey",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 490
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 470
+        }
+      ]
+    },
+    "desc": "風味：黃色水果甜香氣，品飲帶有杏桃、砂糖橘、黃檸檬，整體 Body 平衡，黑糖圓潤口感，",
+    "low_stock": false
+  },
+  {
+    "region": "盧安達 / 蜜處理",
+    "code": "1RW0017",
+    "name": "盧安達 北部省 如霖朶 天空之城",
+    "eng_name": "Rwanda Northern Province Rulindo Juru A1 Sc 15+ Honey",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 430
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 410
+        }
+      ]
+    },
+    "desc": "風味：乾香與品飲帶有甜橙香氣，同時感受柳橙、黑李、香吉士、青檸檬，整體 Body 厚實，",
+    "low_stock": false
+  },
+  {
+    "region": "盧安達 / 蜜處理",
+    "code": "1RW0027",
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda Western Province Nyamasheke Kilimbi A1 Honey",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 410
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 390
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 380
+        }
+      ]
+    },
+    "desc": "風味：玉蘭花細緻雅香，品飲感受蜂蜜般滑順甜感，帶有龍眼乾與青梅，整體酸甜平衡，",
+    "low_stock": false
+  },
+  {
+    "region": "盧安達 / 日曬",
+    "code": "1RW0026",
+    "name": "盧安達 北部省 亞畢胡 席拉處理廠",
+    "eng_name": "Rwanda Northern Province Nyabihu Shyira A1 Natural",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 495
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 475
+        }
+      ]
+    },
+    "desc": "風味：聞香與品飲皆帶有橙皮香氣，入口感受黑李、紅櫻桃、檸檬，整體酸質上揚 ，Body 厚",
+    "low_stock": true
+  },
+  {
+    "region": "盧安達 / 日曬",
+    "code": "1RW0028",
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda WPR Nyamasheke Kilimbi A1 Natural",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 400
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 380
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 380
+        }
+      ]
+    },
+    "desc": "風味：熱帶水果甜香氣，品飲時帶有甜桃、百香果、青梅、烤堅果，整體酸甜平衡，尾韻厚實",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0239",
+    "name": "哥斯大黎加 塔拉珠 聖伊西多羅處理場",
+    "eng_name": "Costa Rica Los Santos San Isidro Labrador WH Geisha",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2050
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 2000
+        }
+      ]
+    },
+    "desc": "風味：乾香有白色花香、萊姆、青檸上揚香氣、品飲時前段花香、佛手柑、杏桃酸甜香氣、可以感受",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0226",
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Bojo Los Tucanes White",
+    "specs": {
+      "moisture": "10.9%",
+      "water_activity": "0.63"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1500
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1250
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1450
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1200
+        }
+      ]
+    },
+    "desc": "風味：白花香、新鮮柑橘、焦糖、酸質明亮細緻、口感滑順甜美",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0200",
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Bojo Los Tucanes Red",
+    "specs": {
+      "moisture": "10.3%",
+      "water_activity": "0.7"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1150
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1100
+        }
+      ]
+    },
+    "desc": "風味：乾香可以感受到深色水果、葡萄香氣、品飲時有淡雅紅色花香、紅色莓果乾、甜橙香氣、紅糖",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0236",
+    "name": "哥斯大黎加 布蘭卡 里瓦斯人處理廠",
+    "eng_name": "Costa Rica Brunca Rivense Finca Vista al Chirripo",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1150
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1100
+        }
+      ]
+    },
+    "desc": "風味：乾香帶核水果、黃色檸檬、楓糖、杏仁果，口感有黃色水果果汁感、圓潤滑順、尾韻冬瓜糖，",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0224",
+    "name": "哥斯大黎加 西部谷地 安潔莉娜莊園 黃蜜",
+    "eng_name": "Costa Rica West Valley Finca Angelina Yellow Honey",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 530
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 500
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 510
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 480
+        }
+      ]
+    },
+    "desc": "風味：焦糖、堅果、奶油、蜂蜜、花香、柑橘、砂糖橘、烏龍茶香、入口酸質活潑、甜感細緻、",
+    "low_stock": true
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0191",
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense La Guaca Passion Honey",
+    "specs": {
+      "moisture": "10.3%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 495
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 475
+        }
+      ]
+    },
+    "desc": "風味：乾香有百香果、黑糖、巧克力香氣、杯測時百香果香氣、鳳梨果乾酸甜感、尾段紅糖、",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0148",
+    "name": "哥斯大黎加 布蘭卡 里瓦斯人處理廠",
+    "eng_name": "Costa Rica Brunca Rivense Vista al Chirripo Black Honey",
+    "specs": {
+      "moisture": "10.3%",
+      "water_activity": "0.60"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：乾香有熱帶水果、巧克力、品飲時淡淡芒果香氣、熟橘、李子、黑糖、甜感佳、酸質鮮明",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0192",
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense Las Torres Passion Honey",
+    "specs": {
+      "moisture": "8.5%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 485
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 450
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 465
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：百香果、鳳梨、熱帶水果、葡萄、黑糖、可可、巧克力、酸甜平衡、口感滑順",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0211",
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Red Honey",
+    "specs": {
+      "moisture": "10.9%",
+      "water_activity": "0.63"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：磨開時有深色水果、黑糖香氣、啜吸時有莓果、紅肉李、帶核水果、酸甜平衡明亮",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0217",
+    "name": "哥斯大黎加 西部谷地 葉爾莎處理廠",
+    "eng_name": "Costa Rica West Valley Helsar White Honey",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 430
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 400
+        }
+      ]
+    },
+    "desc": "風味：柑橘、紅糖、紅棗、乳脂感、酸甜平衡、滑順甜美",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0055",
+    "name": "哥斯大黎加 西部谷地 葉爾莎處理廠",
+    "eng_name": "Costa Rica West Valley Helsar De Zarcero Yellow Honey",
+    "specs": {
+      "moisture": "11.0%",
+      "water_activity": "0.62"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 380
+        }
+      ]
+    },
+    "desc": "風味：柑橘、甜橙、奶油、黑糖、堅果、李子乾、深色莓果、Body 平衡厚實",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0215",
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense Yellow Honey",
+    "specs": {
+      "moisture": "9.3%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 360
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 340
+        }
+      ]
+    },
+    "desc": "風味：乾香有橙皮、堅果、熱帶水果香氣、品飲時可以感受到熱帶水果酸甜感、牛奶巧克力、",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 蜜處理",
+    "code": "2CR0216",
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense Red Honey",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 360
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 340
+        }
+      ]
+    },
+    "desc": "風味：磨開時乾香有柑橘、熟果甜香、品飲時有烤橘子、熱帶水果、李子、尾段帶有黑糖甜感",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 日曬",
+    "code": "2CR0240",
+    "name": "哥斯大黎加 塔拉珠 聖伊西多羅處理廠",
+    "eng_name": "Costa Rica Los Santos San Isidro Labrador Natural Geisha",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2050
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 2000
+        }
+      ]
+    },
+    "desc": "風味：磨開時有奔放花香、白桃、甜橙香氣、品飲時有白花香氣、佛手柑、蜂蜜甜感、伯爵茶",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 日曬",
+    "code": "2CR0229",
+    "name": "哥斯大黎加 塔拉珠 聖伊西多羅處理廠",
+    "eng_name": "Costa Rica Los Santos Labrador Geisha Anaerobic Natural",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2100
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 2050
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1850
+        }
+      ]
+    },
+    "desc": "風味：百香果、鳳梨果乾、熱帶水果、紅色花香、莓果酸值、果汁感、風味細緻、酸甜平衡、",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 日曬",
+    "code": "2CR0233",
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Bajo Los Tucanes Natural",
+    "specs": {
+      "moisture": "10.5%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1500
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1450
+        }
+      ]
+    },
+    "desc": "風味：花香、甜桃、李子、莓果、黑糖、飽滿多汁、酸值明亮、尾韻綿長",
+    "low_stock": false
+  },
+  {
+    "region": "哥斯大黎加 / 日曬",
+    "code": "2CR0237",
+    "name": "哥斯大黎加 西部谷地 葉爾莎處理廠",
+    "eng_name": "Costa Rica West Valley Helsar Santa Luica Natural",
+    "specs": {
+      "moisture": "9.1%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 510
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 5
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    },
+    "desc": "風味：乾香有熱帶水果、水果酒、啜吸時蘋果醋鮮明酸質、莓果果乾、鳳梨酸甜、尾韻酒香巧克力",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 水洗",
+    "code": "2HO0143",
+    "name": "宏都拉斯 聖文森處理廠 薩爾莎莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente La Salsa Benjamin Paz",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2450
+        }
+      ]
+    },
+    "desc": "風味：乾香橙花、佛手柑、蜂蜜、黃檸檬香氣，濕香氣有明顯白花和檸檬香氣，品飲時檸檬酸",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 水洗",
+    "code": "2HO0168",
+    "name": "宏都拉斯 因堤布卡 薩波特莊園",
+    "eng_name": "Honduras Intibuca El Zapote Wilmer Alexi Grau Montoya",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1920
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1870
+        }
+      ]
+    },
+    "desc": "風味：乾香有奔放茉莉花、柑橘、杏桃香氣、品飲時白花香氣依舊、蜂蜜檸檬、紅玉紅茶、風味細緻、",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 水洗",
+    "code": "2HO0126",
+    "name": "宏都拉斯 聖文森處理廠 大腳怪莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Arturo Paz Washed",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.60"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1850
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1800
+        }
+      ]
+    },
+    "desc": "風味：白花、甜橙、檸檬、紅糖、茶感、酸甜平衡、風味細緻",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 水洗",
+    "code": "2HO0152",
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Pedro Sagastume",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1550
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1500
+        }
+      ]
+    },
+    "desc": "風味：淡雅花香、檸檬草、紅糖、杏桃、黑李、風味細緻、尾韻甜佳",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 水洗",
+    "code": "2HO0151",
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Pedro Sagastume",
+    "specs": {
+      "moisture": "8.4%",
+      "water_activity": "0.44"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 540
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 520
+        }
+      ]
+    },
+    "desc": "風味：乾香有梅子、黑李、甘蔗甜香氣、品飲時以梅子以及甜橙調性為主、有黑糖、甘蔗香氣、",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 水洗",
+    "code": "2HO0150",
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Pedro Sagastume",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 490
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 470
+        }
+      ]
+    },
+    "desc": "風味：橙皮、柑橘、桃子、黑糖、Body 圓潤厚實",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0169",
+    "name": "宏都拉斯 聖塔芭芭拉 蜂巢莊園 大衛小農",
+    "eng_name": "Honduras Santa Barbara La Colmena David Omar Muñoz",
+    "specs": {
+      "moisture": "10.9%",
+      "water_activity": "0.62"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1950
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1900
+        }
+      ]
+    },
+    "desc": "風味：乾香有細緻白花、檸檬香氣、品飲時白花香氣綿延、甜橙的酸甜感、檸檬草、蜂蜜甜香、",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0140",
+    "name": "宏都拉斯 鞏瑪雅瓜 小樹莊園 荷西小農",
+    "eng_name": "Honduras Comayagua El Rentono Jose Luis Suazo",
+    "specs": {
+      "moisture": "9.3%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1880
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1750
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1830
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1700
+        }
+      ]
+    },
+    "desc": "風味：茉莉花、佛手柑、荔枝、鮮橙、檸檬草、百香果、茶感尾韻綿長",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0158",
+    "name": "宏都拉斯 聖文森處理廠 花漾梅洛莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Miraflores Juan",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1480
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1430
+        }
+      ]
+    },
+    "desc": "風味：黃花香氣、柑橘、黃色水果、檸檬、黑糖、尾韻甜感綿長",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0095",
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Famila Sagastume",
+    "specs": {
+      "moisture": "8.6%",
+      "water_activity": "0.9"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 470
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 5
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 450
+        }
+      ]
+    },
+    "desc": "風味：乾香有杏桃、蜜餞香氣、品飲時有烏梅、紅肉李、黑糖蜜餞、甜度高、口感飽滿圓潤",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0156",
+    "name": "宏都拉斯 聖文森處理廠 美景莊園",
+    "eng_name": "Honduras La Paz Buena Vista Alfredo Benitez Honey",
+    "specs": {
+      "moisture": "9.3%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 440
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 5
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    },
+    "desc": "風味：研磨時有甘蔗、奶油、堅果香氣、品飲時有蜜餞、甘草、紅肉李香氣、紅糖甜感、",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0144",
+    "name": "宏都拉斯 聖文森處理廠 花漾梅洛莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Miraflores Juan",
+    "specs": {
+      "moisture": "8.9%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 395
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 375
+        }
+      ]
+    },
+    "desc": "風味：烏梅、桂圓、蜜餞、黑糖、奶油堅果、入口圓潤、平衡滑順",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0147",
+    "name": "宏都拉斯 聖文森處理廠 創世莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Genesis Belarmino",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 395
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 375
+        }
+      ]
+    },
+    "desc": "風味：蜂蜜、橙酸、蜜餞、烏梅、桂圓、香草、黑糖、酸甜平衡",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 蜜處理",
+    "code": "2HO0128",
+    "name": "宏都拉斯 聖文森處理廠 美景莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Bella Vista Alex",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 430
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 390
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 410
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 370
+        }
+      ]
+    },
+    "desc": "風味：巧克力、柑橘、葡萄乾、太妃糖、紅糖、鳳梨、芒果、細緻酸質",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 日曬",
+    "code": "2HO0166",
+    "name": "宏都拉斯 聖文森處理廠 金松莊園 埃德",
+    "eng_name": "Honduras Santa Barbara San Vicente Pino de Oro",
+    "specs": {
+      "moisture": "9.1%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1550
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1500
+        }
+      ]
+    },
+    "desc": "風味：乾香有淡雅深色花香、葡萄香、品飲時有深色莓果、紫葡萄、深色花朵、尾韻酒香巧克",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 日曬",
+    "code": "2HO0160",
+    "name": "宏都拉斯 聖文森處理廠 里約莊園",
+    "eng_name": "Honduras La Paz El Rio Agustin Bonilla Natural",
+    "specs": {
+      "moisture": "9.1%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 430
+        }
+      ]
+    },
+    "desc": "風味：聞香時有熟果、巧克力、奶油香氣、品飲時有深色莓果、黃色水果、奶油、黑糖、Body",
+    "low_stock": false
+  },
+  {
+    "region": "宏都拉斯 / 日曬",
+    "code": "2HO0162",
+    "name": "宏都拉斯 聖文森處理廠 托爾莊園",
+    "eng_name": "Honduras La Paz El Toril Fremin Reyes Natural",
+    "specs": {
+      "moisture": "9.1%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    },
+    "desc": "風味：磨開時有紅色莓果、黑糖香氣、品飲時有熟果酸甜、水果茶香、甜橙、黑李、酸甜平衡、",
+    "low_stock": false
+  },
+  {
+    "region": "瓜地馬拉 / 水洗",
+    "code": "2GT0084",
+    "name": "瓜地馬拉 阿卡特南果 美妙莊園 水洗",
+    "eng_name": "Guatemala Acatenango Finca La Hermosa Geisha",
+    "specs": {
+      "moisture": "11.4%",
+      "water_activity": "0.62"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1100
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 1050
+        }
+      ]
+    },
+    "desc": "風味：磨開後帶雞蛋花、蜂蜜、佛手柑香氣，入喉後花香氣依舊迷人且帶柚子香，甜感佳、細緻奶",
+    "low_stock": false
+  },
+  {
+    "region": "瓜地馬拉 / 日曬",
+    "code": "2GT0088",
+    "name": "瓜地馬拉 安提瓜 聖艾格尼絲莊園 日曬",
+    "eng_name": "Guatemala Antigua Santa Inés Bourbon Geisha Natural",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1300
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1250
+        }
+      ]
+    },
+    "desc": "風味：磨開後乾香白色花朵、萊姆及柑橘香氣撲鼻、並有黑糖的甜香，濕香氣為明顯柑橘調，",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0304",
+    "name": "巴拿馬 波奎特 小毛驢莊園 水洗 藝妓",
+    "eng_name": "Panama Boquete El Burro Washed Geisha #170323",
+    "specs": {
+      "moisture": "8.5%",
+      "water_activity": "0.46"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 4600
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 4550
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 7
+        }
+      ]
+    },
+    "desc": "風味：百合花、白柚、柑橘、荔枝、蜜餞、紅糖、烏龍茶香、蜜香紅茶、典雅酸質、層次多變",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0338",
+    "name": "巴拿馬 波奎特 科特瓦 女巫莊園 水洗",
+    "eng_name": "Panama Boquete Kotowa Las Brujas Washed Geisha",
+    "specs": {
+      "moisture": "7.6%",
+      "water_activity": "0.45"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2950
+        }
+      ]
+    },
+    "desc": "風味：乾香帶有淡雅花香、柑橘、薄荷香氣、品飲時可以感受到甜橙香氣、梅子綠茶 Body、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0344",
+    "name": "巴拿馬 瓦肯山谷 卡門 帕洛瑪莊園",
+    "eng_name": "Panama Volcan Palomar Washed Geisha #C5",
+    "specs": {
+      "moisture": "9.6%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2980
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2930
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        }
+      ]
+    },
+    "desc": "風味：乾香帶有輕盈橙花、佛手柑香氣、品飲時橙花香氣依舊、檸檬明亮酸值、Body 中等茶",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0291",
+    "name": "巴拿馬 波奎特 阿爾鐵里莊園 艾爾地塊",
+    "eng_name": "Panama Boquete Altieri Ale Washed Geisha",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 3500
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 3450
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 2888
+        }
+      ]
+    },
+    "desc": "風味：紅莓果、濃郁花香、荔枝果凍、水蜜桃、紅糖、酸甜平衡滑順、輕盈細緻",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0307",
+    "name": "巴拿馬 波奎特 凱薩路易斯精選",
+    "eng_name": "Panama Boquete Casa Ruiz Candela Washed Geisha",
+    "specs": {
+      "moisture": "7.8%",
+      "water_activity": "0.41"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2650
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "15KG",
+          "price": 2600
+        }
+      ]
+    },
+    "desc": "風味：香草、柑橘、奶油感、橙皮、紅糖、花蜜、尾韻甜感綿長",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0322",
+    "name": "巴拿馬 波奎特 蕾利達莊園 水洗 藝妓",
+    "eng_name": "Panama Boquete Lerida Estate Washed Geisha Lot#4",
+    "specs": {
+      "moisture": "8.0%",
+      "water_activity": "0.47"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2500
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2450
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        }
+      ]
+    },
+    "desc": "風味：研磨時濃郁花香、甜桃、佛手柑香氣、品飲時帶白花香氣、佛手柑酸甜質地、紅糖飽滿",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0296",
+    "name": "巴拿馬 波奎特 科特瓦 鄧肯莊園 水洗",
+    "eng_name": "Panama Boquete Kotowa Duncan Washed Geisha #A322",
+    "specs": {
+      "moisture": "9.0%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2200
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2150
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 5
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1988
+        }
+      ]
+    },
+    "desc": "風味：檸檬、紅糖、蜂蜜、茉莉花、百合花、荔枝、杏桃、香氣清新細緻",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0298",
+    "name": "巴拿馬 波奎特 科特瓦 鄧肯莊園 精選",
+    "eng_name": "Panama Boquete Kotowa Duncan Selection Washed Geisha",
+    "specs": {
+      "moisture": "8.7%",
+      "water_activity": "0.48"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2300
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2250
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1988
+        }
+      ]
+    },
+    "desc": "風味：柑橘、白花、橙汁、黃色水果、香草、烤餅乾、黑糖、果乾、奶油感、平衡滑順",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0280",
+    "name": "巴拿馬 瓦肯山谷 卡門莊園 半水洗",
+    "eng_name": "Panama Volcan Carmen Estate Semi Washed Geisha",
+    "specs": {
+      "moisture": "10.3%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2030
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 1980
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 5
+        }
+      ]
+    },
+    "desc": "風味：白柚、佛手柑、荔枝、茉莉花香、甜感佳、酸質細緻、入口滑順綿密",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 水洗",
+    "code": "2PA0300",
+    "name": "巴拿馬 波奎特 艾利達莊園 水洗 卡杜",
+    "eng_name": "Panama Boquete Elida Washed Catuai #2 301223",
+    "specs": {
+      "moisture": "9.0%",
+      "water_activity": "0.49"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 680
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 660
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 7
+        }
+      ]
+    },
+    "desc": "風味：紅糖、柳橙、果汁感、烏龍茶香、奶油、榛果、酸甜平衡、口感滑順",
+    "low_stock": true
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0313",
+    "name": "巴拿馬 波奎特 阿爾鐵里莊園",
+    "eng_name": "Panama Boquete Altieri Alessa Natural Dry Fermentation",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 4300
+        }
+      ]
+    },
+    "desc": "風味：乾香有淡雅紫葡萄、百香果香氣、品飲時紫葡萄香氣依舊、淡雅水蜜桃、酒漬櫻桃、整",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0271",
+    "name": "巴拿馬 波奎特 阿布 珈尼凡帝斯莊園",
+    "eng_name": "Panama Boquete Abu Double Anaerobic Natural Geisha",
+    "specs": {
+      "moisture": "9.6%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 4750
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 4000
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 4700
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 3950
+        }
+      ]
+    },
+    "desc": "風味：莓果、葡萄柚、橘子軟糖、太妃糖、甜感佳、口感厚實圓潤",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0339",
+    "name": "巴拿馬 波奎特 科特瓦 女巫莊園 日曬",
+    "eng_name": "Panama Boquete Kotowa Las Bruhas Natural Geisha",
+    "specs": {
+      "moisture": "7.5%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 3300
+        }
+      ]
+    },
+    "desc": "風味：磨開時有紅色花香、深色熟果、葡萄軟糖香氣、啜吸時有淡淡麝香葡萄、檸檬、水蜜桃、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0282",
+    "name": "巴拿馬 波奎特 馬林塞福斯莊園",
+    "eng_name": "Panama Boquete Marine Service Ruben Anaerobic",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2650
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        }
+      ]
+    },
+    "desc": "風味：莓果、柑橘、熟果、焦糖奶油、深色花朵、淡雅花香、香甜圓潤",
+    "low_stock": true
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0277",
+    "name": "巴拿馬 凱薩路易斯精選 德里亞斯莊園",
+    "eng_name": "Panama Casa Ruiz Las Delicias Natural Geisha",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 3000
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "15KG",
+          "price": 2950
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 2500
+        }
+      ]
+    },
+    "desc": "風味：砂糖橘、土鳳梨、黃色水果、柑橘、酸甜平衡柔滑",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0309",
+    "name": "巴拿馬 波奎特 凱薩路易斯精選",
+    "eng_name": "Panama Boquete Casa Ruiz Palma's Natural Geisha",
+    "specs": {
+      "moisture": "8.5%",
+      "water_activity": "0.47"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2550
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "15KG",
+          "price": 2500
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 2488
+        }
+      ]
+    },
+    "desc": "風味：蜜棗、烤焦糖、奶油堅果、明亮柑橘、果乾、淡雅花香、甜感佳、風味平衡",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0299",
+    "name": "巴拿馬 波奎特 科特瓦 鄧肯莊園",
+    "eng_name": "Panama Boquete Kotowa Duncan Selection Natural",
+    "specs": {
+      "moisture": "11.2%",
+      "water_activity": "0.62"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2800
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2750
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 2488
+        }
+      ]
+    },
+    "desc": "風味：白花、葡萄、楓糖、荔枝、橘子、橙汁、香草、奶油堅果、酸甜優雅細緻",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0352",
+    "name": "巴拿馬 波奎特 艾利達精選 科切亞 厭氧",
+    "eng_name": "Panama Boquete Elida Selction Cochea Natural ASD",
+    "specs": {
+      "moisture": "7.5%",
+      "water_activity": "0.48"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2060
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2010
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 7
+        }
+      ]
+    },
+    "desc": "風味：乾香有莓果香氣、果乾、辛香料、品飲時有柑橘、榛果、黑巧克力、甜感厚實、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0341",
+    "name": "巴拿馬 波奎特 科特瓦 卡羅萊納莊園 日",
+    "eng_name": "Panama Boquete Kotowa Carolina Natural Geisha #1801-",
+    "specs": {
+      "moisture": "9.3%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1500
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 1450
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        }
+      ]
+    },
+    "desc": "風味：磨開時有輕盈花香、烤熟橘、黑糖香氣、品飲時有甜橙酸甜、金莎巧克力般的榛果香氣、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0303",
+    "name": "巴拿馬 波奎特 艾利達莊園",
+    "eng_name": "Panama Boquete Elida ASD Natural Catuai #291222",
+    "specs": {
+      "moisture": "8.1%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 960
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 900
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 940
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 7
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 880
+        }
+      ]
+    },
+    "desc": "風味：黑糖、酒漬櫻桃、水蜜桃、熱帶水果、鳳梨果乾、李子、巧克力、烏龍茶",
+    "low_stock": true
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0311",
+    "name": "巴拿馬 波奎特 密涅瓦莊園 日曬",
+    "eng_name": "Panama Boquete Finca Minerva Natural Pacamara Lot5",
+    "specs": {
+      "moisture": "8.3%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 930
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 910
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 13
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 63
+        }
+      ]
+    },
+    "desc": "風味：金桔、堅果甜、香吉士、黑糖、香草、鳳梨乾、百香果、葡萄柚、酸質鮮明",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0354",
+    "name": "巴拿馬 波奎特 堂貝托莊園 日曬",
+    "eng_name": "Panama Boquete Don Beto Natural Pacamara",
+    "specs": {
+      "moisture": "9.6%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        },
+        {
+          "type": "盒裝",
+          "weight": "15KG",
+          "price": 700
+        }
+      ]
+    },
+    "desc": "風味：研磨時有紅肉李、果乾、焦糖堅果香氣、品飲時有葡萄香氣、黑色莓果酸甜感、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0347",
+    "name": "巴拿馬 波奎特 艾利達莊園 日曬",
+    "eng_name": "Panama Boquete Elida Natural Catuai #42 310124",
+    "specs": {
+      "moisture": "8.5%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 680
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 660
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 7
+        }
+      ]
+    },
+    "desc": "風味：聞香時有黃花、甜橙香氣、啜吸時有熱帶水果調性、甜桃香氣及甜感、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 日曬",
+    "code": "2PA0353",
+    "name": "巴拿馬 波奎特 凱薩路易斯 日曬",
+    "eng_name": "Panama Boquete Casa Ruiz Natural Caturra Catuai",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 380
+        },
+        {
+          "type": "盒裝",
+          "weight": "15KG",
+          "price": 360
+        }
+      ]
+    },
+    "desc": "風味：聞香時有熱帶水果、甜堅果、奶油香氣、啜吸時有帶核水果、莓果果乾、橙皮、",
+    "low_stock": false
+  },
+  {
+    "region": "巴拿馬 / 果乾",
+    "code": "2PA0176",
+    "name": "巴拿馬 波奎特 艾利達莊園 卡杜艾種 果乾",
+    "eng_name": "Panama Boquete Elida Catuai Cascara Natural",
+    "specs": {},
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 400
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 380
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 11
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 35
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 300
+        }
+      ]
+    },
+    "desc": null,
+    "low_stock": false
+  },
+  {
+    "region": "薩爾瓦多 / 日曬",
+    "code": "2SV0017",
+    "name": "薩爾瓦多 阿帕內卡山脈 莉茉莊園 厭氧日曬",
+    "eng_name": "Salvador Ahuachapan El Limo Anaerobic Natural Icatu",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.62"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 480
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 440
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 460
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 420
+        }
+      ]
+    },
+    "desc": "2024/10/20 重測風味：黑醋栗、櫻桃、黑森林蛋糕、鳳梨果醬、柑橘、巧克力、酸甜平衡、",
+    "low_stock": false
+  },
+  {
+    "region": "薩爾瓦多 / 日曬",
+    "code": "2SV0016",
+    "name": "薩爾瓦多 阿帕內卡山脈 神祇莊園",
+    "eng_name": "Salvador Ahuachapan El Guarumal Anaerobic Natural",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 480
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 430
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 460
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 410
+        }
+      ]
+    },
+    "desc": "2024/10/20 重測風味：帶核水果、微熟果香氣、焦糖、核果、水果茶、酸值溫潤、口感滑順",
+    "low_stock": false
+  },
+  {
+    "region": "薩爾瓦多 / 日曬",
+    "code": "2SV0018",
+    "name": "薩爾瓦多 阿帕內卡山脈 雅塔斯莊園",
+    "eng_name": "Salvador Ahuachapan Las LLantas Anaerobic Natural",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 420
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 400
+        }
+      ]
+    },
+    "desc": "2024/10/20 重測風味：深色莓果、紅葡萄、香瓜、柑橘、可可、酸甜平衡、Body 飽滿、口感滑",
+    "low_stock": false
+  },
+  {
+    "region": "薩爾瓦多 / 日曬",
+    "code": "2SV0015",
+    "name": "薩爾瓦多 阿帕內卡山脈 神祇莊園 厭氧日曬",
+    "eng_name": "Salvador Ahuachapan Finca La Providencia Anaerobic",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 410
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 390
+        }
+      ]
+    },
+    "desc": "2024/10/20 重測風味：鳳梨、熱帶水果、深色莓果、巧克力、甜感佳、酸值乾淨明亮、口感滑",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO006Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Washed Geisha",
+    "specs": {
+      "moisture": "8.9%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 880
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 860
+        }
+      ]
+    },
+    "desc": "風味：磨開後乾香有淡雅白色花香、柚子及茶香、濕香氣帶有柑橘伴隨花香、入口後檸檬紅茶、",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO008Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Washed Pacamara",
+    "specs": {
+      "moisture": "8.9%",
+      "water_activity": "0.49"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 700
+        }
+      ]
+    },
+    "desc": "風味：乾香帶有深色莓果、黑糖和核果甜香氣、入喉後有葡萄柚、巧克力和黃肉李子、酸甜平衡、",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO0278",
+    "name": "哥倫比亞 薇拉省 獵鷹計畫 水洗",
+    "eng_name": "Colombia Huila La Argentina Las Aguilas Washed Chiroso",
+    "specs": {
+      "moisture": "10.3%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 700
+        }
+      ]
+    },
+    "desc": "風味：研磨時有淡雅花香、柑橘、帶核水果香氣、品飲時有檸檬愛玉、杏桃、佛手柑、李子溫",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO0253",
+    "name": "哥倫比亞 薇拉省 深紅花語 水洗",
+    "eng_name": "Colombia Huila El Silencio Red Washed Pink Bourbon",
+    "specs": {
+      "moisture": "10.0%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 660
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 640
+        }
+      ]
+    },
+    "desc": "風味：磨開時有細緻花香、甜橙、莓果香氣、品飲時有蜜地瓜香甜、柑橘香氣、莓果酸甜、漬",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO0279",
+    "name": "哥倫比亞 薇拉省 卡門佐社區",
+    "eng_name": "Colombia Huila Timana Camenzo Community Aerobic",
+    "specs": {
+      "moisture": "11.5%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 480
+        },
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 460
+        }
+      ]
+    },
+    "desc": "風味：乾香有橙皮、香草、奶油香氣、啜吸時有熟果、帶核水果酸甜、尾韻有堅果巧克力綿延",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO0270",
+    "name": "哥倫比亞 考卡省 薇拉省 方程式精選",
+    "eng_name": "Colombia Cauca Huila Equation Washed Caturra #00192",
+    "specs": {
+      "moisture": "10.5%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 420
+        },
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 400
+        }
+      ]
+    },
+    "desc": "風味：聞香時有柑橘、黑糖、蜜地瓜香氣、品飲時有葡萄柚酸甜風味、黑糖加上甘蔗的甜香氣、",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO0275",
+    "name": "哥倫比亞 金迪奧省 聖塔莫尼卡 盧茲",
+    "eng_name": "Colombia Quindio Santa Monica Luz Helena Salazar",
+    "specs": {
+      "moisture": "10.9%",
+      "water_activity": "0.61"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 390
+        },
+        {
+          "type": "袋裝",
+          "weight": "24KG",
+          "price": 370
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 42
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 5
+        }
+      ]
+    },
+    "desc": "風味：乾香帶黑莓、柑橘、深色莓果、帶核水果香氣，啜吸時柑橘、青梅、酸值明亮、",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO0252",
+    "name": "哥倫比亞 娜玲瓏 社區小農 希望批次",
+    "eng_name": "Colombia Narino La Esperanza Washed",
+    "specs": {
+      "moisture": "10.9%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 420
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 380
+        }
+      ]
+    },
+    "desc": "風味：榛果、紅糖、黑糖、橙香、紅莓、葡萄柚、酸值優雅輕盈、茶感餘韻順口",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 水洗",
+    "code": "3CO001Y24",
+    "name": "哥倫比亞 薇拉省 水洗 Supremo 級",
+    "eng_name": "Colombia Huila Washed Supremo",
+    "specs": {
+      "moisture": "11.6%",
+      "water_activity": "0.65"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 330
+        },
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 310
+        }
+      ]
+    },
+    "desc": "風味：帶核水果乾、甜堅果、黑糖、圓潤飽滿、尾韻甜感佳",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO0276",
+    "name": "哥倫比亞 金迪奧省 蘋果馬丁尼 蜜處理",
+    "eng_name": "Colombia Quindio Casa Negra Appletini Honey Castillo",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.63"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 980
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 960
+        }
+      ]
+    },
+    "desc": "風味：蘋果西打、氣泡蘋果酒、蘋果果醬，口感酸甜感明亮、Body 厚實、果汁感極佳、",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO0277",
+    "name": "哥倫比亞 金迪奧省 杏桃芒果 蜜處理",
+    "eng_name": "Colombia Quindio Casa Negra Appricot Mango Honey",
+    "specs": {
+      "moisture": "8.8%",
+      "water_activity": "0.57"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 980
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 960
+        }
+      ]
+    },
+    "desc": "風味：聞香時有芒果牛奶、椰奶、桃子香氣、品飲時有芒果糯米飯甜香、杏桃香氣、椰奶尾韻",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO005Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Lychee Fruit Honey",
+    "specs": {
+      "moisture": "10.7%",
+      "water_activity": "0.60"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 860
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 840
+        }
+      ]
+    },
+    "desc": "風味：玫瑰花香、荔枝果凍、熱帶水果軟糖、尾韻帶水蜜桃清甜、果汁感極佳、酸甜平衡",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO004Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Strawberry Honey",
+    "specs": {
+      "moisture": "8.3%",
+      "water_activity": "0.46"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 860
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 840
+        }
+      ]
+    },
+    "desc": "風味：成熟草莓香氣、草莓果醬、覆盆莓軟糖、酸質明亮、水果感表現佳",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO002Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Peach Fruit Honey",
+    "specs": {
+      "moisture": "8.6%",
+      "water_activity": "0.48"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 840
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 820
+        }
+      ]
+    },
+    "desc": "風味：新鮮水蜜桃香氣、奶茶香、草莓奶昔、杏桃、水蜜桃軟糖、尾韻帶有荔枝甜感",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO007Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Mango Fruit Honey",
+    "specs": {
+      "moisture": "8.8%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 830
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 810
+        }
+      ]
+    },
+    "desc": "風味：熟芒果甜香氣、熱帶水果茶、蘋果汁、芒果軟糖、芒果乾甜感、酸甜平衡",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO003Y24",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Honey Dew Honey",
+    "specs": {
+      "moisture": "9.2%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 820
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 800
+        }
+      ]
+    },
+    "desc": "風味：多汁甜瓜香氣、金萱茶香、鳳梨果乾、甜瓜、蜜柑、整體輕盈上揚",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO0263",
+    "name": "哥倫比亞 金迪奧省 香蕉蛋糕 蜜處理",
+    "eng_name": "Colombia Quindio Blue Java Banana Honey Castillo",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 980
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 960
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 799
+        }
+      ]
+    },
+    "desc": "風味：香蕉磅蛋糕、成熟香蕉、香蕉奶昔、香蕉果乾",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 蜜處理",
+    "code": "3CO0247",
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Banana Crepe Fruit",
+    "specs": {
+      "moisture": "9.8%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 688
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 688
+        }
+      ]
+    },
+    "desc": "風味：新鮮香蕉、草莓、巧克力、焦糖、甜感佳",
+    "low_stock": false
+  },
+  {
+    "region": "哥倫比亞 / 日曬",
+    "code": "3CO0268",
+    "name": "哥倫比亞 考卡山谷省 無暇莊園 經典系列",
+    "eng_name": "Colombia Cauca Finca Inmaculada Family Reserve",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2750
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 2450
+        }
+      ]
+    },
+    "desc": "風味：梅子、烏梅、黑李，品飲甜感佳，糖葫蘆、紅糖、蜂蜜、蜜餞、牛軋糖、焙香烏龍茶、層次多",
+    "low_stock": true
+  },
+  {
+    "region": "哥倫比亞 / 日曬",
+    "code": "3CO0266",
+    "name": "哥倫比亞 托利馬省 二氧化碳浸漬",
+    "eng_name": "Colombia Tolima Carbonic Maceration Natural Red",
+    "specs": {
+      "moisture": "10.4%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 860
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 810
+        },
+        {
+          "type": "盒裝",
+          "weight": "24KG",
+          "price": 840
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 790
+        }
+      ]
+    },
+    "desc": "風味：熱帶水果、葡萄優格、榛果、黑巧克力、柑橘、熟果、酸甜平衡、尾段酸質活潑",
+    "low_stock": false
+  },
+  {
+    "region": "厄瓜多 / 水洗",
+    "code": "3EC0085",
+    "name": "厄瓜多 洛哈省 諾莉雅莊園",
+    "eng_name": "Ecuador Loja Noria DF Anaerobic Washed Green Geisha",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.52"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 3600
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        }
+      ]
+    },
+    "desc": "風味：乾香有淡雅白花、紅色莓果、黑糖、蜜地瓜香氣、品飲時有白花香、黑醋栗酸甜、太妃",
+    "low_stock": true
+  },
+  {
+    "region": "厄瓜多 / 水洗",
+    "code": "3EC0084",
+    "name": "厄瓜多 洛哈省 伊萊莎莊園",
+    "eng_name": "Ecuador Loja Eliza DF Anaerobic Washed Green Geisha",
+    "specs": {
+      "moisture": "8.8%",
+      "water_activity": "0.53"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2600
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 1
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 2550
+        }
+      ]
+    },
+    "desc": "風味：磨開時有紅色花香、甜橙、黃色水果香氣、啜吸時有花香、砂糖檸檬、紅糖甜感、酸質",
+    "low_stock": true
+  },
+  {
+    "region": "厄瓜多 / 水洗",
+    "code": "3EC003Y24",
+    "name": "厄瓜多 洛哈省 薇卡莊園 厭氧水洗",
+    "eng_name": "Sidra 厄瓜多金盃 No.6",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 2600
+        },
+        {
+          "type": "盒裝",
+          "weight": "1KG",
+          "price": 2500
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 22
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 68
+        }
+      ]
+    },
+    "desc": "風味：乾香帶有洛神花、小紅莓，入口時有木瓜、洛神花果乾、番石榴，風味清晰、酸甜飽滿，餘韻",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 水洗",
+    "code": "3PE013Y24",
+    "name": "秘魯 卡哈瑪卡 聖胡安 曠野花鳴",
+    "eng_name": "Peru Cajamarca San Juan Washed Geisha",
+    "specs": {
+      "moisture": "9.5%",
+      "water_activity": "0.54"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1480
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1430
+        }
+      ]
+    },
+    "desc": "風味：乾香有淡雅黃花、甜橙、杏桃乾香氣、品飲時黃花香氣依舊、花蜜、佛手柑、鳳梨果乾酸甜",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 水洗",
+    "code": "3PE0034",
+    "name": "秘魯 亞馬遜 米拉弗洛雷斯莊園",
+    "eng_name": "Peru Amazonas Miraflores Washed Geisha",
+    "specs": {
+      "moisture": "10.2%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1350
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1250
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 1300
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 1200
+        }
+      ]
+    },
+    "desc": "風味：白花、白桃、紅糖、榛果、檸檬紅茶、入口乾淨、Body 平衡滑順、尾韻甜感回甘",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 水洗",
+    "code": "3PE010Y24",
+    "name": "秘魯 卡哈瑪卡 墨提斯莊園 水洗 藝妓",
+    "eng_name": "Lot 1",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1220
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 1170
+        }
+      ]
+    },
+    "desc": "風味：研磨時帶有白花、柑橘香氣以及些許深色莓果酸甜感、品飲時有白花香氣、柑橘、葡萄、李子",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 水洗",
+    "code": "3PE008Y24",
+    "name": "秘魯 卡哈瑪卡 啟研之芽 水洗 紅藝妓",
+    "eng_name": "Peru Cajamarca Experimental Seed Washed Red Geisha",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1200
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 1150
+        }
+      ]
+    },
+    "desc": "風味：研磨時有黃花、柑橘、伯爵茶香氣、啜吸時有淡雅花香、柑橘、甜桃香氣、大吉嶺紅茶、尾運",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 水洗",
+    "code": "3PE001Y24",
+    "name": "秘魯 亞馬遜 桑托斯莊園 水洗 藝妓",
+    "eng_name": "Peru Amazonas Los Santos Washed Geisha",
+    "specs": {
+      "moisture": "8.7%",
+      "water_activity": "0.49"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 990
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 940
+        }
+      ]
+    },
+    "desc": "風味：磨開時嗅到奔放白花、白桃、檸檬清香、品飲時白花香氣依舊濃郁、帶有檸檬紅茶酸甜感、白",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 水洗",
+    "code": "3PE011Y24",
+    "name": "秘魯 卡哈瑪卡 墨提斯莊園 水洗 卡杜拉",
+    "eng_name": "Lot 1",
+    "specs": {
+      "moisture": "9.9%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    },
+    "desc": "風味：聞乾香時深色莓果、熟橘、黑糖甜感香氣、品飲時有柑橘香氣、紅肉李酸甜感、烤堅果甜感、",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 蜜處理",
+    "code": "3PE004Y24",
+    "name": "秘魯 亞馬遜 桑托斯莊園 黑蜜 藝妓",
+    "eng_name": "Peru Amazonas Los Santos Black Honey Geisha",
+    "specs": {
+      "moisture": "9.6%",
+      "water_activity": "0.51"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 970
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 920
+        }
+      ]
+    },
+    "desc": "風味：聞乾香時有淡雅花香、蜜柑、檸檬清香、品飲時有輕盈黃花香氣、檸檬、黃肉李、杏桃、",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 蜜處理",
+    "code": "3PE0006",
+    "name": "秘魯 亞馬遜 桑托斯莊園 蜜處理 藝妓",
+    "eng_name": "Peru Amazonas Los Santos Honey Geisha",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 980
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 850
+        },
+        {
+          "type": "盒裝",
+          "weight": "30KG",
+          "price": 930
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 800
+        }
+      ]
+    },
+    "desc": "風味：橙花、橙汁、香吉士、莓果、黑醋栗、李子、黑糖、果汁感、酸甜平衡、風味宜人",
+    "low_stock": false
+  },
+  {
+    "region": "秘魯 / 日曬",
+    "code": "3PE009Y24",
+    "name": "秘魯 卡哈瑪卡 阿巴卡小農 日曬",
+    "eng_name": "Peru Cajamarca Luis Abarca Natural Caturra Lot 1",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.56"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 490
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 470
+        }
+      ]
+    },
+    "desc": "風味：乾香時有熱帶水果、水果軟糖、酒漬櫻桃香氣、品飲時有百香果酸甜感、鳳梨果乾香氣、葡萄",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 濕剝 / 水洗",
+    "code": "4IN015Y25",
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區 瑟雷寧",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Serinen Hybrid Washed",
+    "specs": {
+      "moisture": "8.6%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 475
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 455
+        }
+      ]
+    },
+    "desc": "風味：熱帶水果香氣、黃花香、蜜餞烏梅、砂糖橘、草本、甜感突出、口感圓潤",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 濕剝 / 水洗",
+    "code": "4IN016Y25",
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區",
+    "eng_name": "Gilbas X 厭氧濕剝",
+    "specs": {
+      "moisture": "9.7%",
+      "water_activity": "0.63"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 455
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 435
+        }
+      ]
+    },
+    "desc": "風味：橙皮香氣、乾橘果乾、梅子果醬、仙草蜜、李子、酸甜飽滿",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 濕剝 / 水洗",
+    "code": "4IN017Y25",
+    "name": "印尼 蘇門答臘 蘇北省 林東區",
+    "eng_name": "Indonesia Sumatra SUM-North Lintong TP GLBS",
+    "specs": {
+      "moisture": "12.2%",
+      "water_activity": "0.67"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 440
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    },
+    "desc": "風味：話梅香氣、橘子果乾、仙草蜜、棕櫚糖甜感延續、口感厚實",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 濕剝 / 水洗",
+    "code": "4IN013Y25",
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區 黃金曼",
+    "eng_name": "Indonesia SUM ACEH Gayo GLBS Sc20",
+    "specs": {
+      "moisture": "11.4%",
+      "water_activity": "0.63"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 415
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 395
+        }
+      ]
+    },
+    "desc": "風味：柑橘果乾香氣、仙草茶、黃色熟果、烏梅、紅糖甜感",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 濕剝 / 水洗",
+    "code": "4IN019Y25",
+    "name": "印尼 百花島 圖拉加吉 厭氧水洗",
+    "eng_name": "Indonesia Flores Ende Tura Jaji Anaerobic Washed",
+    "specs": {
+      "moisture": "8.5%",
+      "water_activity": "0.47"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 415
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 395
+        }
+      ]
+    },
+    "desc": "風味：陳皮、核果、焦糖、可可、草本木質調性、入口後帶酸甜感、口感厚實圓潤",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 濕剝 / 水洗",
+    "code": "4IN0063",
+    "name": "印尼 蘇門答臘 迦佑區 經典曼特寧",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Mandheling TP G1 GLBS",
+    "specs": {
+      "moisture": "11.0%",
+      "water_activity": "0.58"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 375
+        }
+      ]
+    },
+    "desc": "風味：乾香有柑橘及橙皮、帶著仙草及核果調性、入口後有細緻的酸質和黑糖甜感、酸甜平衡、",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 蜜處理",
+    "code": "4IN020Y25",
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區 蜜處理",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Honey",
+    "specs": {
+      "moisture": "8.6%",
+      "water_activity": "0.48"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 465
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 445
+        }
+      ]
+    },
+    "desc": "風味：紅色莓果香氣、甜桃、黃肉李子、仙草蜜、紅糖甜感、酸甜平衡",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 日曬",
+    "code": "4IN021Y25",
+    "name": "印尼 爪哇島 西爪哇省 加魯 日曬",
+    "eng_name": "Indonesia Java West Java Garut Natural",
+    "specs": {
+      "moisture": "9.4%",
+      "water_activity": "0.55"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 495
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 24
+        },
+        {
+          "type": "未知",
+          "weight": "KG",
+          "price": 8
+        }
+      ]
+    },
+    "desc": "風味：紅色莓果香氣、奶油、熱帶水果、柑橘、楓糖甜感、酸甜飽滿、甜感突出",
+    "low_stock": false
+  },
+  {
+    "region": "印尼 / 日曬",
+    "code": "4IN012Y25",
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Arkhan Natural",
+    "specs": {
+      "moisture": "9.3%",
+      "water_activity": "0.60"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 455
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 435
+        }
+      ]
+    },
+    "desc": "風味：洛神香氣、熱帶水果、烏梅果乾、酸甜平衡、蔗糖甜感延續",
+    "low_stock": false
+  },
+  {
+    "region": "亞洲 / 葉門",
+    "code": "4YE0003",
+    "name": "葉門 薩奈省 赫拉茲 馬娜卡 日曬",
+    "eng_name": "Yemen Sana'a Haraaz Manakha Natural",
+    "specs": {
+      "moisture": "10.1%",
+      "water_activity": "0.59"
+    },
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "1KG",
+          "price": 1250
+        },
+        {
+          "type": "盒裝",
+          "weight": "20KG",
+          "price": 1200
+        },
+        {
+          "type": "未知",
+          "weight": "1KG",
+          "price": 688
+        }
+      ]
+    },
+    "desc": "風味：甜菸草、香草植物、香料、檀香、麵包、深色莓果 、紅酒、口感濃郁、糖漿般的口感",
+    "low_stock": false
+  }
+]

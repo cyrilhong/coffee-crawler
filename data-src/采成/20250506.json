@@ -1,0 +1,388 @@
+[
+    {
+      "product_code": "510080",
+      "year": "2025",
+      "new": true,
+      "name": "衣索比亞 耶加雪菲 艾瑞佳 TOP G3 日曬",
+      "eng_name": "Ethiopia Yirgacheffee Aricha TOP G3 Natural",
+      "country": "衣索比亞",
+      "category": "商業用配豆",
+      "process": "日曬",
+      "specs": {
+        "moisture": "11.4%",
+        "density": "758 g/l"
+      },
+      "description": "杏仁、腰果、柑橘、堅果、烤餅乾、口感厚實、結構好、甜感好",
+      "price_info": {
+        "status": "已售完"
+      }
+    },
+    {
+      "product_code": "O25009",
+      "year": "2025",
+      "new": true,
+      "name": "衣索比亞 西達摩 G4 日曬",
+      "eng_name": "Ethiopia Natural Sidama G4",
+      "country": "衣索比亞",
+      "category": "商業用配豆",
+      "process": "日曬",
+      "specs": {
+        "moisture": "11%",
+        "density": "758 g/l"
+      },
+      "description": "巧克力、堅果、烤榛果、口感厚實",
+      "price_info": {
+        "status": "已售完"
+      }
+    },
+    {
+      "product_code": "060412",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 吉瑪 G5 日曬",
+      "eng_name": "Ethiopia djimmah G5 Natural",
+      "country": "衣索比亞",
+      "category": "商業用配豆",
+      "process": "日曬",
+      "specs": {
+        "moisture": "12.1%",
+        "density": "714 g/l"
+      },
+      "description": "爆米花、奶油甜感強、開心果、鐵塔奶油、杏仁",
+      "price_info": {
+        "status": "已售完"
+      }
+    },
+    {
+      "product_code": "O24001",
+      "year": "2024",
+      "new": true,
+      "name": "哥倫比亞 薇拉產區 Supremo 17/18 水洗",
+      "eng_name": "Colombia Huila Supremo 17/18 Washed",
+      "country": "哥倫比亞",
+      "category": "商業用配豆",
+      "process": "水洗",
+      "specs": {
+        "moisture": null,
+        "density": null
+      },
+      "description": "麥芽、堅果、巧克力、甜感佳",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 350},
+          {"type": "散裝", "weight": "10KG", "price": 320}
+        ]
+      }
+    },
+    {
+      "product_code": "O25008",
+      "year": "2025",
+      "new": true,
+      "name": "巴西 喜哈多 NY2, Cerrado, 17/18, SS FC 日曬",
+      "eng_name": "Brasil Cerrado NY2, Cerrado, 17/18, SS FC Natural",
+      "country": "巴西",
+      "category": "商業用配豆",
+      "process": "日曬",
+      "specs": {
+        "moisture": "10.5%",
+        "density": "789 g/l"
+      },
+      "description": "巧克力、堅果、開心果、杏仁、濃郁甘醇",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 370},
+          {"type": "袋裝", "weight": "30KG", "price": 340}
+        ]
+      }
+    },
+    {
+      "product_code": "O25002",
+      "year": "2025",
+      "new": true,
+      "name": "印尼 迦佑曼特寧 特優 TOP G1 三次手選 溼刨",
+      "eng_name": "Indonesia Gayo Mandheling TOP G1",
+      "country": "印尼",
+      "category": "商業用配豆",
+      "process": "特殊處理法",
+      "specs": {
+        "moisture": "11.7%",
+        "density": "798 g/l"
+      },
+      "description": "甜紅糖、奶油、水果乾、香草、黑巧克力、濃厚口感、尾韻豐富",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 390},
+          {"type": "袋裝", "weight": "30KG", "price": 360}
+        ]
+      }
+    },
+    {
+      "product_code": "O25010",
+      "year": "2025",
+      "new": true,
+      "name": "瓜地馬拉 薇薇特南果 SHB 水洗",
+      "eng_name": "Guatemala Huehuetenango SHB Washed",
+      "country": "瓜地馬拉",
+      "category": "商業用配豆",
+      "process": "水洗",
+      "specs": {
+        "moisture": "10.2%",
+        "density": "819 g/l"
+      },
+      "description": "杏仁、榛果、奶油、桃子",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 370},
+          {"type": "袋裝", "weight": "30KG", "price": 340}
+        ]
+      }
+    },
+    {
+      "product_code": "050044",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 西達摩 柏娜 德美卡波洽 紅野牛 G1 白蜜",
+      "eng_name": "Ethiopia Sidama Bona Zuria Woreda, Demeka Becha White Honey G1",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "特殊處理法",
+      "specs": {
+        "moisture": null,
+        "density": null
+      },
+      "description": "甜香明顯、柳橙、橘子、紅蘋果、櫻桃、荔枝、茉莉花、綠茶、櫻桃及綠茶餘韻長、酸質明亮、BODY 圓潤",
+      "note": "咖啡業者 GK Coffee 提供",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 540},
+          {"type": "袋裝", "weight": "30KG", "price": 510}
+        ]
+      }
+    },
+    {
+      "product_code": "050045",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 西達摩 柏娜 德美卡波洽 牛魔王 G1 輕厭氧",
+      "eng_name": "Ethiopia Sidama Bona Zuria Woreda, Demeka Becha Anaerobic G1",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "特殊處理法",
+      "specs": {
+        "moisture": "11.3%",
+        "density": "765 g/l"
+      },
+      "description": "百香果、杏桃、蜜漬柑橘、椪柑、杏桃及柑橘餘韻長、酸質豐富、BODY 細緻",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 560},
+          {"type": "袋裝", "weight": "30KG", "price": 530}
+        ]
+      }
+    },
+    {
+      "product_code": "050046",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 西達摩 柏娜 光丘 400+紅拇指 G1 紅蜜",
+      "eng_name": "Ethiopia Sidama Bona Zuria Woreda, Gowacho RED Honey G1",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "特殊處理法",
+      "specs": {
+        "moisture": "11%",
+        "density": "774 g/l"
+      },
+      "description": "檸檬、柑橘、蜂蜜、檸檬果乾、水蜜桃果乾、蘋果果乾、水蜜桃餘韻長、BODY 圓潤",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 560},
+          {"type": "袋裝", "weight": "30KG", "price": 530}
+        ]
+      }
+    },
+    {
+      "product_code": "510085",
+      "year": "2025",
+      "new": true,
+      "name": "衣索比亞 西達摩 柏娜露里亞 圓豆 小可愛 G1 日曬",
+      "eng_name": "Ethiopia Sidamo Bona Zuria Peaberry Cutie G1 Natural",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "日曬",
+      "specs": {
+        "moisture": "11.7%",
+        "density": "765 g/l"
+      },
+      "description": "莓果、覆盆子、烏梅甜、柳橙、黑莓、蜜蘋果甜、甜感佳",
+      "note": "瑕疵稍多約 3.9%，風味是沒問題的",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 430},
+          {"type": "袋裝", "weight": "30KG", "price": 400},
+          {"type": "原價", "weight": null, "price": 410}
+        ]
+      }
+    },
+    {
+      "product_code": "510084",
+      "year": "2025",
+      "new": true,
+      "name": "衣索比亞 西達摩 柏娜露里亞 圓豆 小可愛 G1 水洗",
+      "eng_name": "Ethiopia Sidamo Bona Zuria Peaberry Cutie G1 Washed",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "水洗",
+      "specs": {
+        "moisture": "11.4%",
+        "density": "764 g/l"
+      },
+      "description": "柑橘、蜜桃、黑糖、伯爵紅茶韻、龍眼蜜、口感厚實",
+      "price_info": {
+        "status": "已售完"
+      }
+    },
+    {
+      "product_code": "510081",
+      "year": "2025",
+      "new": true,
+      "name": "衣索比亞 班奇馬吉 黑鑽藝伎 G1 日曬",
+      "eng_name": "Ethiopia Bench Maji Gesha Farm Black Diamond Natural G1",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "日曬",
+      "specs": {
+        "moisture": "11%",
+        "density": "752 g/l"
+      },
+      "description": "青蘋果、焦糖、桂花香、柑橘、口感滑順飽滿、紅醋栗",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 460},
+          {"type": "袋裝", "weight": "30KG", "price": 430}
+        ]
+      }
+    },
+    {
+      "product_code": "510082",
+      "year": "2025",
+      "new": true,
+      "name": "衣索比亞 西達摩 柏娜 光丘 400+紅拇指 G1 輕厭氧",
+      "eng_name": "Ethiopia Sidama Bona Zuria Woreda, Gowacho Anaerobic G1",
+      "country": "衣索比亞",
+      "category": "西達摩/輕厭氧&蜜處理",
+      "process": "特殊處理法",
+      "specs": {
+        "moisture": "11.2%",
+        "density": "770 g/l"
+      },
+      "description": "超甜、甘蔗、玫瑰、荔枝、花香、水蜜桃、香氣甜感豐富、酸質活潑、口感質地好",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 540},
+          {"type": "袋裝", "weight": "30KG", "price": 510}
+        ]
+      }
+    },
+    {
+      "product_code": "050336",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 古吉 阿朵拉 夏奇索 安費菈菈 蜜柑 G1 水洗",
+      "eng_name": "Ethiopia Guji Adola Rede Shakiso Anfarara G1 washed",
+      "country": "衣索比亞",
+      "category": "古吉/水洗",
+      "process": "水洗",
+      "specs": {
+        "moisture": "11.8%",
+        "density": "770 g/l"
+      },
+      "description": "荔枝、柑橘、綠茶、檸檬、木瓜甜、百香果、酸質明亮、BODY 中等",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 460},
+          {"type": "袋裝", "weight": "30KG", "price": 430}
+        ]
+      }
+    },
+    {
+      "product_code": "050335",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 耶加雪菲 艾瑞加 恰拉家族 G1 日曬",
+      "eng_name": "Ethiopia Yirgacheffee Aricha Chala Family Natural G1",
+      "country": "衣索比亞",
+      "category": "耶加雪菲/日曬",
+      "process": "日曬",
+      "specs": {
+        "moisture": "10.9%",
+        "density": "766 g/l"
+      },
+      "description": "堅果、杏仁、腰果、蜂蜜、荔枝、水蜜桃、焦糖、口感厚實",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 480},
+          {"type": "袋裝", "weight": "30KG", "price": 450}
+        ]
+      }
+    },
+    {
+      "product_code": "050342",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 古吉 阿朵拉 夏奇索 安費菈菈 微醺莓果 G1 日曬",
+      "eng_name": "Ethiopia Guji Adola Rede Shakiso Anfarara G1 Natural",
+      "country": "衣索比亞",
+      "category": "古吉/日曬",
+      "process": "日曬",
+      "specs": {
+        "moisture": "11.9%",
+        "density": "759 g/l"
+      },
+      "description": "蜂蜜、莓果、焦糖、紅葡萄、酸質細緻",
+      "note": "未熟豆較多，不影響風味",
+      "price_info": {
+        "units": [
+          {"type": "散裝", "weight": "5KG", "price": 430},
+          {"type": "袋裝", "weight": "30KG", "price": 400},
+          {"type": "原價", "weight": null, "price": 430}
+        ]
+      }
+    },
+    {
+      "product_code": "050334",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 耶加雪菲 艾瑞加 恰拉家族 G1 水洗",
+      "eng_name": "Ethiopia Yirgacheffee Aricha Chala Family G1 Washed",
+      "country": "衣索比亞",
+      "category": "耶加雪菲/水洗",
+      "process": "水洗",
+      "specs": {
+        "moisture": "11.6%",
+        "density": "768 g/l"
+      },
+      "description": "柑橘、荔枝、柳橙、焦糖、茉莉、綠茶、綠茶餘韻長、酸質豐富、甜感強、BODY 滑順、溫厚荔枝甜明顯",
+      "price_info": {
+        "status": "已售完"
+      }
+    },
+    {
+      "product_code": "060409",
+      "year": "2024",
+      "new": true,
+      "name": "衣索比亞 耶加雪菲 艾瑞加 G2 水洗",
+      "eng_name": "Ethiopia Yirgacheffee Aricha G2 washed",
+      "country": "衣索比亞",
+      "category": "耶加雪菲/水洗",
+      "process": "水洗",
+      "specs": {
+        "moisture": "10.6%",
+        "density": "766 g/l"
+      },
+      "description": "蓮霧、蘋果、焦糖、奶油、伯爵紅茶餘韻、焦糖香、酸質明亮、口感結構強",
+      "price_info": {
+        "status": null
+      }
+    }
+  ]

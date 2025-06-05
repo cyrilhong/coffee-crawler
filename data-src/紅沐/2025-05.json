@@ -1,0 +1,461 @@
+[
+    {
+        "coffee_code": "衣索比亞_古吉_布谷_高棚_日曬_G1",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2025",
+        "processing": "日曬",
+        "region": "古吉 Buku",
+        "estate": "未知",
+        "altitude": "2095-2300m",
+        "variety": "Kurume, Diga, Wulisho",
+        "flavor": "草莓、藍莓、熱帶水果、酸甜平衡",
+        "bag_price_30kg": {
+            "origin": 550,
+            "promo": 535
+        },
+        "bulk_price": {
+            "origin": 550,
+            "promotion": 535
+        }
+    },
+    {
+        "coffee_code": "衣索比亞_古吉_罕貝拉_水洗_G1",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2025",
+        "processing": "水洗",
+        "region": "古吉 Hambela",
+        "estate": "未知",
+        "altitude": "2095-2122m",
+        "variety": "Kurume, Diga, Wulisho",
+        "flavor": "柑橘、紅茶、花香、酸甜平衡",
+        "bag_price_30kg": {
+            "origin": 550,
+            "promo": 535
+        },
+        "bulk_price": {
+            "origin": 550,
+            "promotion": 535
+        }
+    },
+    {
+        "coffee_code": "衣索比亞_1931_藝妓_日曬_G1",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2025",
+        "processing": "日曬",
+        "region": "未知",
+        "estate": "未知",
+        "altitude": "2200m",
+        "variety": "Geisha",
+        "flavor": "藍莓、花香、熱帶水果、酸甜平衡",
+        "bag_price_30kg": {
+            "origin": 590,
+            "promo": 570
+        },
+        "bulk_price": {
+            "origin": 590,
+            "promotion": 570
+        }
+    },
+    {
+        "coffee_code": "秘藍_Jazz_塔拉珠_畢哈瓜_日曬",
+        "promotion": "",
+        "country": "哥斯大黎加",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "塔拉珠",
+        "estate": "畢哈瓜莊園",
+        "altitude": "1800-2000m",
+        "variety": "F1 Millennium (H10)",
+        "flavor": "藍莓、蜂蜜、葡萄、葡萄乾、無花果，熱帶水果風味，層次豐富",
+        "bag_price_30kg": {
+            "origin": 650,
+            "promo": 650
+        },
+        "bag_price_5kg": {
+            "origin": 670,
+            "promo": 670
+        },
+        "bag_price_1kg": {
+            "origin": 690,
+            "promo": 690
+        }
+    },
+    {
+        "coffee_code": "哥斯大黎加_蜜月_卡里薩爾_蜜處理",
+        "promotion": "2022 COE",
+        "country": "哥斯大黎加",
+        "season": "2024",
+        "processing": "蜜處理",
+        "region": "中央谷地",
+        "estate": "卡里薩爾莊園",
+        "altitude": "1500-1600m",
+        "variety": "SL28",
+        "flavor": "焦糖、紅糖、柑橘、葡萄、蜂蜜，整體口感豐富多汁",
+        "bag_price_30kg": {
+            "origin": 850,
+            "promo": 850
+        },
+        "bag_price_5kg": {
+            "origin": 870,
+            "promo": 870
+        },
+        "bag_price_1kg": {
+            "origin": 890,
+            "promo": 890
+        }
+    },
+    {
+        "coffee_code": "土元素_烏列爾_神木莊園_維拉羅伯_紅蜜處理",
+        "promotion": "",
+        "country": "哥斯大黎加",
+        "season": "2024",
+        "processing": "紅蜜處理",
+        "region": "西部山谷",
+        "estate": "神木莊園",
+        "altitude": "1600-1700m",
+        "variety": "Villalobos",
+        "flavor": "榛果、葡萄、柳橙、蜂蜜、紅糖、焦糖、杏仁，均衡風味",
+        "bag_price_30kg": {
+            "origin": 475,
+            "promo": 350,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 495,
+            "promo": 430,
+            "sold_out": true
+        },
+        "bag_price_1kg": {
+            "origin": 525,
+            "promo": 525,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "火元素_米歇爾_卡里薩爾_卡杜拉_水洗",
+        "promotion": "",
+        "country": "哥斯大黎加",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "中央山谷",
+        "estate": "卡里薩爾莊園",
+        "altitude": "1500-1600m",
+        "variety": "Caturra",
+        "flavor": "桃子、杏桃、焦糖、榛子、蜂蜜、奶油、櫻桃、柳橙，豐富多汁、圓潤飽滿口感，乾淨清爽",
+        "bag_price_30kg": {
+            "origin": 425,
+            "promo": 350,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 445,
+            "promo": 380,
+            "sold_out": true
+        },
+        "bag_price_1kg": {
+            "origin": 475,
+            "promo": 475,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "水元素_加百列_康波斯_藝妓_日曬",
+        "promotion": "",
+        "country": "哥斯大黎加",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "布倫卡",
+        "estate": "康波斯莊園",
+        "altitude": "1800-2000m",
+        "variety": "Geisha",
+        "flavor": "草莓、桃子、柑橘、葡萄、奶油、茉莉花、楓糖漿",
+        "bag_price_30kg": {
+            "origin": 0,
+            "promo": 0,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 925,
+            "promo": 830,
+            "sold_out": true
+        },
+        "bag_price_1kg": {
+            "origin": 950,
+            "promo": 950,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "漫漫春風_印尼_亞齊_迦佑_全水洗_Alinagata",
+        "promotion": "2022 競標 US$175/kg",
+        "country": "印尼",
+        "season": "2024",
+        "processing": "全水洗",
+        "region": "亞齊 迦佑",
+        "estate": "Alinagata 處理廠",
+        "altitude": "1500-1600m",
+        "variety": "Gayo1, Gayo2, P88, Ateng",
+        "flavor": "雪松，柑橘、夏威夷果、檸檬紅茶、紅糖，酸值溫和，尾韻綿長，整體平衡乾淨",
+        "bag_price_30kg": {
+            "origin": 0,
+            "promo": 0,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 450,
+            "promo": 450,
+            "sold_out": true
+        },
+        "bag_price_1kg": {
+            "origin": 470,
+            "promo": 470,
+            "sold_out": true
+        }
+    },
+    {
+        "coffee_code": "綠幽靈_印尼_亞齊_迦佑_半水洗_Alinagata",
+        "promotion": "",
+        "country": "印尼",
+        "season": "2024",
+        "processing": "半水洗",
+        "region": "亞齊 迦佑",
+        "estate": "Alinagata 處理廠",
+        "altitude": "1500-1600m",
+        "variety": "Gayo1, Gayo2, P88, Ateng",
+        "flavor": "雪松、香草牛奶，帶點熱帶水果風味，可可、黑糖，口感圓潤，尾韻綿長",
+        "bag_price_30kg": {
+            "origin": 0,
+            "promo": 0,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 350,
+            "promo": 350,
+            "sold_out": false
+        },
+        "bag_price_1kg": {
+            "origin": 380,
+            "promo": 380,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "印尼_亞齊_迦佑_蜜處理_Alinagata",
+        "promotion": "",
+        "country": "印尼",
+        "season": "2024",
+        "processing": "蜜處理",
+        "region": "亞齊 迦佑",
+        "estate": "Alinagata 雅麗娜卡達處理廠",
+        "altitude": "1500-1600m",
+        "variety": "Gayo1, Gayo2, P88, Ateng",
+        "flavor": "焦糖紅茶、蜂蜜、紅糖",
+        "bag_price_30kg": {
+            "origin": 370,
+            "promo": 370,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        },
+        "bag_price_1kg": {
+            "origin": 425,
+            "promo": 425,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "印尼_亞齊_迦佑_Bourbon_半水洗_Alinagata",
+        "promotion": "",
+        "country": "印尼",
+        "season": "2024",
+        "processing": "半水洗",
+        "region": "亞齊 迦佑",
+        "estate": "Alinagata 處理廠",
+        "altitude": "1500-1600m",
+        "variety": "Bourbon",
+        "flavor": "木質草本調性帶點堅果，柑橘酸值，黑糖甜感，整體風味乾淨",
+        "bag_price_30kg": {
+            "origin": 360,
+            "promo": 360,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 385,
+            "promo": 385,
+            "sold_out": false
+        },
+        "bag_price_1kg": {
+            "origin": 410,
+            "promo": 410,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "印尼_亞齊_迦佑_Timtim_半水洗_Alinagata",
+        "promotion": "",
+        "country": "印尼",
+        "season": "2024",
+        "processing": "半水洗",
+        "region": "亞齊 迦佑",
+        "estate": "Alinagata 處理廠",
+        "altitude": "1200-1600m",
+        "variety": "Timtim",
+        "flavor": "乾香奶油、起司香氣，入口木質草本調性，李子、烏龍茶、尾韻淡淡熟果味，乾淨度高",
+        "bag_price_30kg": {
+            "origin": 380,
+            "promo": 380,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 405,
+            "promo": 405,
+            "sold_out": false
+        },
+        "bag_price_1kg": {
+            "origin": 430,
+            "promo": 430,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "印尼_亞齊_迦佑_酒香處理_Alinagata",
+        "promotion": "",
+        "country": "印尼",
+        "season": "2024",
+        "processing": "酒香處理",
+        "region": "亞齊 迦佑",
+        "estate": "Alinagata 處理廠",
+        "altitude": "1500-1600m",
+        "variety": "Gayo1, Gayo2, P88, Ateng",
+        "flavor": "蘭姆葡萄、莓果、紅酒、李子、酸值明亮、乾淨度高",
+        "bag_price_30kg": {
+            "origin": 0,
+            "promo": 0,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 485,
+            "promo": 485,
+            "sold_out": false
+        },
+        "bag_price_1kg": {
+            "origin": 510,
+            "promo": 510,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Gerbata_厭氧日曬_G1",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "厭氧日曬",
+        "region": "Gerbata",
+        "estate": "未知",
+        "altitude": "1870-1943m",
+        "variety": "Heirloom",
+        "flavor": "花香、藍莓、黑莓、水果軟糖、可可，整體平衡，耐喝且餘韻持久",
+        "bag_price_30kg": {
+          "origin": 395,
+          "promo": 395,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 420,
+          "promo": 420,
+          "sold_out": true
+        },
+        "bag_price_1kg": {
+          "origin": 450,
+          "promo": 450,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "西達摩_龐貝_水洗",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "西達摩",
+        "estate": "未知",
+        "altitude": "1950-2150m",
+        "variety": "74110 & 74158",
+        "flavor": "茉莉花香、橘皮、青檸檬、橙花、蜂蜜紅茶，風味具層次且細緻",
+        "bag_price_30kg": {
+          "origin": 480,
+          "promo": 480,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 505,
+          "promo": 505,
+          "sold_out": false
+        },
+        "bag_price_1kg": {
+          "origin": 530,
+          "promo": 530,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "衣索比亞_古吉_科查_高棚日曬_G2",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "高棚日曬",
+        "region": "古吉 科查",
+        "estate": "未知",
+        "altitude": "1850-2200m",
+        "variety": "74110",
+        "flavor": "焦糖紅茶、玫瑰、草莓、紅蘋果，風味明亮且層次豐富",
+        "bag_price_30kg": {
+          "origin": 375,
+          "promo": 375,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 395,
+          "promo": 395,
+          "sold_out": false
+        },
+        "bag_price_1kg": {
+          "origin": 420,
+          "promo": 420,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "貝貝卡_班奇馬吉_藝妓原生種_日曬",
+        "promotion": "",
+        "country": "未知",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "貝貝卡 班奇馬吉",
+        "estate": "未知",
+        "altitude": "1100-1600m",
+        "variety": "Geisha",
+        "flavor": "香草、茉莉、熱帶水果，整體平衡乾淨",
+        "bag_price_30kg": {
+          "origin": 380,
+          "promo": 380,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 405,
+          "promo": 405,
+          "sold_out": true
+        },
+        "bag_price_1kg": {
+          "origin": 430,
+          "promo": 430,
+          "sold_out": true
+        }
+      }
+]

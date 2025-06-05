@@ -16,7 +16,7 @@ main/venv/
 # 大型資料檔案與中間結果
 *.xlsx
 *.bin
-*.json
+# *.json
 *.txt
 *.md
 
@@ -32,6 +32,3 @@ data-src/*.md
 
 # 其他你不想追蹤的檔案
 # output.txt
-# shopee_processed_results-all.json
-# shopee_processed_results.json
-# scrapeless_results.json

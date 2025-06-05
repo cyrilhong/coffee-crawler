@@ -1,0 +1,454 @@
+[
+  {
+    "coffee_code": "花日24",
+    "promotion": "本月優惠",
+    "country": "宏都",
+    "season": "23/24",
+    "processing": "日曬",
+    "region": "馬爾卡拉 Marcala",
+    "estate": "花園莊園 Finca El Jardin",
+    "altitude": "1400-1650m",
+    "variety": "Ihcafe90",
+    "flavor": "柳橙汁、綜合熱帶水果、新鮮莓果、香草",
+    "bag_price_30kg": {
+      "origin": 370,
+      "promo": 360
+    },
+    "bulk_price": {
+      "origin": 400,
+      "promotion": 390
+    }
+  },
+  {
+    "coffee_code": "西普24",
+    "promotion": "本月優惠",
+    "country": "宏都",
+    "season": "23/24",
+    "processing": "日曬",
+    "region": "馬爾卡拉 Marcala",
+    "estate": "西普莊園 Finca El Cipres",
+    "altitude": "1550-1600m",
+    "variety": "H28 (Catimor系列)",
+    "flavor": "香檳、芒果乾、桃子、黑棗乾、尾韻巧克力、奶油",
+    "bag_price_30kg": {
+      "origin": 380,
+      "promo": 380
+    },
+    "bulk_price": {
+      "origin": 410,
+      "promotion": 410
+    }
+  },
+  {
+    "coffee_code": "維若YB",
+    "promotion": "本月優惠",
+    "country": "瓜地",
+    "season": "23/24",
+    "processing": "日曬",
+    "region": "安提瓜 Antigua",
+    "estate": "維若妮卡莊園 Finca Veronica",
+    "altitude": "1600-1650m",
+    "variety": "黃波旁 Yellow Bourbon",
+    "flavor": "柳丁、莓果、紅茶、香草、尾段巧克力、焦糖",
+    "bag_price_30kg": {
+      "origin": 360,
+      "promo": 360
+    },
+    "bulk_price": {
+      "origin": 390,
+      "promotion": 390
+    }
+  },
+  {
+    "coffee_code": "維若P",
+    "promotion": "鄉愁 低庫存",
+    "country": "瓜地",
+    "season": "23/24",
+    "processing": "日曬",
+    "region": "安提瓜 Antigua",
+    "estate": "維若妮卡莊園 Finca Veronica",
+    "altitude": "1600-1650m",
+    "variety": "帕奇 Pache",
+    "flavor": "深色葡萄、鳳梨、葡萄酒香、尾韻酒香、香草、可可",
+    "bag_price_30kg": {
+      "origin": 450,
+      "promo": 450
+    },
+    "bulk_price": {
+      "origin": 480,
+      "promotion": 480
+    }
+  },
+  {
+    "coffee_code": "RBEN",
+    "promotion": "金牛24 低庫存",
+    "country": "宏都",
+    "season": "23/24",
+    "processing": "發酵日曬",
+    "region": "弗賴哈內斯 Fraijanes",
+    "estate": "翹鬍子莊園 Finca La Pila",
+    "altitude": "1600-1650m",
+    "variety": "卡提希克 Catisic",
+    "flavor": "熱帶水果果汁、百香果、葡萄酒香、酸值明亮、尾韻酒香、香草、可可",
+    "bag_price_30kg": {
+      "origin": 450,
+      "promo": 450
+    },
+    "bulk_price": {
+      "origin": 480,
+      "promotion": 480
+    }
+  },
+  {
+    "coffee_code": "VSCM",
+    "promotion": "低庫存",
+    "country": "宏都",
+    "season": "23/24",
+    "processing": "發酵日曬",
+    "region": "弗賴哈內斯 Fraijanes",
+    "estate": "翹鬍子莊園 Finca La Pila",
+    "altitude": "1600-1650m",
+    "variety": "波旁 Bourbon",
+    "flavor": "芒果、熱帶水果乾、微葡萄酒香、奶油、尾韻牛奶巧克力",
+    "bag_price_30kg": {
+      "origin": 350,
+      "promo": 350
+    },
+    "bulk_price": {
+      "origin": 380,
+      "promotion": 380
+    }
+  },
+  {
+    "coffee_code": "NGCM24",
+    "promotion": "本月優惠",
+    "country": "尼加",
+    "season": "23/24",
+    "processing": "慢速日曬",
+    "region": "希諾特加 Jinotega",
+    "estate": "極光莊園 Finca Aurora",
+    "altitude": "1200-1400m",
+    "variety": "芭蕾奈 Parainema",
+    "flavor": "熱帶水果綜合果汁、甜橙、微葡萄酒香、杏仁、奶油、牛軋糖",
+    "bag_price_30kg": {
+      "origin": 370,
+      "promo": 370
+    },
+    "bulk_price": {
+      "origin": 400,
+      "promotion": 400
+    }
+  },
+  {
+    "coffee_code": "NON24",
+    "promotion": "本月優惠",
+    "country": "尼加",
+    "season": "23/24",
+    "processing": "浸漬日曬",
+    "region": "希諾特加 Jinotega",
+    "estate": "極光莊園 Finca Aurora",
+    "altitude": "1200-1400m",
+    "variety": "維拉薩奇 Villa Sarchi",
+    "flavor": "百香果、些許蘭姆酒、焦糖",
+    "bag_price_30kg": {
+      "origin": 420,
+      "promo": 420
+    },
+    "bulk_price": {
+      "origin": 450,
+      "promotion": 450
+    }
+  },
+  {
+    "coffee_code": "吉哥",
+    "promotion": "本月優惠",
+    "country": "尼加",
+    "season": "23/24",
+    "processing": "浸漬日曬",
+    "region": "希諾特加 Jinotega",
+    "estate": "極光莊園 Finca Aurora",
+    "altitude": "1200-1400m",
+    "variety": "Geisha 藝伎",
+    "flavor": "藍莓果醬、白花調性、微葡萄酒香、香草、奶油",
+    "bag_price_30kg": {
+      "origin": 350,
+      "promo": 350
+    },
+    "bulk_price": {
+      "origin": 380,
+      "promotion": 380
+    }
+  },
+  {
+    "coffee_code": "紅李24",
+    "promotion": "低庫存",
+    "country": "宏都",
+    "season": "23/24",
+    "processing": "水洗",
+    "region": "馬爾卡拉 Marcala",
+    "estate": "紅李莊園 Finca Los Ciruelos",
+    "altitude": "1580m",
+    "variety": "Ihcafe90",
+    "flavor": "檸檬紅茶、新鮮棗子、奶油餅乾、黑糖",
+    "bag_price_30kg": {
+      "origin": 350,
+      "promo": 350
+    },
+    "bulk_price": {
+      "origin": 380,
+      "promotion": 380
+    }
+  },
+  {
+    "coffee_code": "MGW23",
+    "promotion": "低庫存",
+    "country": "瓜地",
+    "season": "22/23",
+    "processing": "水洗",
+    "region": "阿卡特南果 Acatenango",
+    "estate": "美麗莊園 Finca La Hermosa",
+    "altitude": "1900-2000m",
+    "variety": "Geisha 藝伎",
+    "flavor": "鷄蛋花香、橙花、柑橘果肉、杏桃、尾韻香草",
+    "bulk_price": {
+      "origin": 1750,
+      "promotion": 1750
+    }
+  },
+  {
+    "coffee_code": "水洗迦佑25",
+    "promotion": "低庫存",
+    "country": "印尼",
+    "season": "2025",
+    "processing": "水洗",
+    "region": "亞齊特別行政區 Aceh",
+    "estate": "Takengon, 波爾所村",
+    "altitude": "1600m",
+    "variety": "Gayo1/Timtim/Caturra",
+    "flavor": "水果香氣、奶油、淡雅香料、尾韻松木調性、榛果",
+    "bag_price_30kg": {
+      "origin": 390,
+      "promo": 390
+    },
+    "bulk_price": {
+      "origin": 420,
+      "promotion": 420
+    }
+  },
+  {
+    "coffee_code": "鐵馬",
+    "promotion": "低庫存",
+    "country": "烏干達",
+    "season": "23/24",
+    "processing": "水洗",
+    "region": "艾爾宮山 Mount Elgon",
+    "estate": "東烏干達",
+    "altitude": "1600-2200m",
+    "variety": "Nyasaland/SL14/SL28",
+    "flavor": "柳丁、葡萄乾、香草、榛果",
+    "bag_price_30kg": {
+      "origin": 340,
+      "promo": 340
+    },
+    "bulk_price": {
+      "origin": 370,
+      "promotion": 370
+    }
+  },
+  {
+    "coffee_code": "無憂花",
+    "promotion": "本月優惠",
+    "country": "瓜地",
+    "season": "23/24",
+    "processing": "蜜處理",
+    "region": "弗賴哈內斯 Fraijanes",
+    "estate": "翹鬍子莊園 Finca La Pila",
+    "altitude": "1600-1650m",
+    "variety": "卡杜艾 Catuai",
+    "flavor": "焦糖、水果乾、檸檬紅茶、淡淡花香、奶油",
+    "bag_price_30kg": {
+      "origin": 370,
+      "promo": 370
+    },
+    "bulk_price": {
+      "origin": 400,
+      "promotion": 400
+    }
+  },
+  {
+    "coffee_code": "滿天星",
+    "promotion": "本月優惠",
+    "country": "瓜地",
+    "season": "23/24",
+    "processing": "蜜處理",
+    "region": "弗賴哈內斯 Fraijanes",
+    "estate": "翹鬍子莊園 Finca La Pila",
+    "altitude": "1600-1650m",
+    "variety": "波旁 Bourbon",
+    "flavor": "焦糖、水果乾、檸檬紅茶、淡淡花香、奶油",
+    "bag_price_30kg": {
+      "origin": 370,
+      "promo": 370
+    },
+    "bulk_price": {
+      "origin": 400,
+      "promotion": 400
+    }
+  },
+  {
+    "coffee_code": "愛蜜",
+    "promotion": "低庫存",
+    "country": "烏干達",
+    "season": "23/24",
+    "processing": "蜜處理",
+    "region": "艾爾宮山 Mount Elgon",
+    "estate": "東烏干達",
+    "altitude": "1600-2200m",
+    "variety": "Nyasaland/SL14/SL28",
+    "flavor": "杏桃、焦糖、香草、白花",
+    "bag_price_30kg": {
+      "origin": 360,
+      "promo": 360
+    },
+    "bulk_price": {
+      "origin": 390,
+      "promotion": 390
+    }
+  },
+  {
+    "coffee_code": "果蜜酵素24",
+    "promotion": "本月優惠",
+    "country": "宏都",
+    "season": "23/24",
+    "processing": "酵素",
+    "region": "梅賽德斯 Mercedes",
+    "estate": "卡斯莊園 Finca Cascaritas",
+    "altitude": "1230-1300m",
+    "variety": "帕卡斯 Pacas",
+    "flavor": "蘋果汁、紅莓、蜜棗、太妃糖、酸甜平衡",
+    "bag_price_30kg": {
+      "origin": 415,
+      "promo": 415
+    },
+    "bulk_price": {
+      "origin": 445,
+      "promotion": 445
+    }
+  },
+  {
+    "coffee_code": "經典25",
+    "promotion": "",
+    "country": "印尼",
+    "season": "2025",
+    "processing": "濕剝",
+    "region": "亞齊特別行政區",
+    "estate": "Bintang",
+    "altitude": "1400-1600m",
+    "variety": "Gayo1/Timtim/Caturra",
+    "flavor": "乾木、李子、些許果香、尾韻奶油香氣",
+    "bag_price_30kg": {
+      "origin": 340,
+      "promo": 340
+    },
+    "bulk_price": {
+      "origin": 370,
+      "promotion": 370
+    }
+  },
+  {
+    "coffee_code": "黃金25",
+    "promotion": "",
+    "country": "印尼",
+    "season": "2025",
+    "processing": "濕剝",
+    "region": "亞齊特別行政區",
+    "estate": "Bintang",
+    "altitude": "1400-1600m",
+    "variety": "Gayo1/Timtim",
+    "flavor": "松木、甜果香、巧克力、尾韻新鮮奶油、乾淨無雜味",
+    "bag_price_30kg": {
+      "origin": 380,
+      "promo": 380
+    },
+    "bulk_price": {
+      "origin": 410,
+      "promotion": 410
+    }
+  },
+  {
+    "coffee_code": "鑽石波旁25",
+    "promotion": "",
+    "country": "印尼",
+    "season": "2025",
+    "processing": "濕剝",
+    "region": "亞齊特別行政區",
+    "estate": "Takengon, 波爾所村",
+    "altitude": "1600m",
+    "variety": "Bourbon 波旁",
+    "flavor": "雪松、蔓越莓、中段烏龍茶、鮮奶油香氣、仙草",
+    "bag_price_30kg": {
+      "origin": 390,
+      "promo": 390
+    },
+    "bulk_price": {
+      "origin": 420,
+      "promotion": 420
+    }
+  },
+  {
+    "coffee_code": "老鷹P日",
+    "promotion": "低庫存",
+    "country": "宏都",
+    "season": "22/23",
+    "processing": "日曬",
+    "region": "梅賽德斯 Mercedes",
+    "estate": "美麗莊園 Finca La Hermosa",
+    "altitude": "1350m",
+    "variety": "芭蕾奈 Parainema",
+    "flavor": "青葡萄、甜橙、山竹、焦糖、可可",
+    "bag_price_30kg": {
+      "origin": 365,
+      "promo": 365
+    },
+    "bulk_price": {
+      "origin": 395,
+      "promotion": 395
+    }
+  },
+  {
+    "coffee_code": "卡斯23",
+    "promotion": "低庫存",
+    "country": "宏都",
+    "season": "22/23",
+    "processing": "厭氧日曬",
+    "region": "梅賽德斯 Mercedes",
+    "estate": "卡斯莊園 Finca Cascaritas",
+    "altitude": "1230-1300m",
+    "variety": "帕卡斯 Pacas",
+    "flavor": "杏桃、深色葡萄、些許香檳、熱帶水果、些許荔枝、尾段焦糖、鮮奶油",
+    "bag_price_30kg": {
+      "origin": 465,
+      "promo": 465
+    },
+    "bulk_price": {
+      "origin": 495,
+      "promotion": 495
+    }
+  },
+  {
+    "coffee_code": "MYPN23",
+    "promotion": "低庫存",
+    "country": "瓜地",
+    "season": "22/23",
+    "processing": "日曬",
+    "region": "阿卡特南果 Acatenango",
+    "estate": "美麗莊園 Finca La Hermosa",
+    "altitude": "",
+    "variety": "黃帕卡瑪拉 Yellow Pacamara",
+    "flavor": "葡萄柚果茶、白花調性、草莓果醬、尾韻烤布丁、甜奶油、風味細緻",
+    "bulk_price": {
+      "origin": 850,
+      "promotion": 850
+    }
+  }
+]

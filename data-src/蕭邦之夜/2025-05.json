@@ -1,0 +1,376 @@
+[
+    {
+        "name": "哥斯大黎加 卡內特莊園 音樂家系列 蕭邦 葡萄乾蜜處理",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "individual_sale": false,
+        "original_price_per_kg": 600,
+        "requires_region_b_match": true,
+        "pricing": {
+            "1kg": 0,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        },
+        "limit_per_ticket": null
+    },
+    {
+        "name": "哥斯大黎加 卡內特莊園 音樂家系列 莫札特 葡萄乾蜜處理",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "individual_sale": false,
+        "original_price_per_kg": 600,
+        "requires_region_b_match": true,
+        "pricing": {
+            "1kg": 0,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        },
+        "limit_per_ticket": 2
+    },
+    {
+        "name": "音樂家系列 巴哈 葡萄乾蜜處理",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "individual_sale": false,
+        "original_price_per_kg": 550,
+        "requires_region_b_match": true,
+        "pricing": {
+            "1kg": 0,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        },
+        "limit_per_ticket": 1
+    },
+    {
+        "name": "巴拿馬 波奎特 瑪瑪卡特 IRMA伊瑪 藝伎 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1490,
+            "5kg_a_b_combo": 1440,
+            "1kg_individual": 1000,
+            "5kg_individual": 950,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 波奎特 瑪瑪卡特 IRMA伊瑪 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1300,
+            "5kg_a_b_combo": 1250,
+            "1kg_individual": 790,
+            "5kg_individual": 740,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 多塔 女神莊園 藝伎 酵素水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1300,
+            "5kg_a_b_combo": 1250,
+            "1kg_individual": 800,
+            "5kg_individual": 750,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 巨石莊園 F1 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1110,
+            "5kg_a_b_combo": 1080,
+            "1kg_individual": 595,
+            "5kg_individual": 565,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 TOBOSI 托布希莊園 卡杜拉 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1110,
+            "5kg_a_b_combo": 1080,
+            "1kg_individual": 595,
+            "5kg_individual": 565,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 米拉蘇莊園 卡杜拉 黑蜜",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1040,
+            "5kg_a_b_combo": 1010,
+            "1kg_individual": 500,
+            "5kg_individual": 470,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 米拉蘇莊園 卡杜拉 紅蜜",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1040,
+            "5kg_a_b_combo": 1010,
+            "1kg_individual": 500,
+            "5kg_individual": 470,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 波奎特 K&R Jaramillo Estate 帝比卡 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1040,
+            "5kg_a_b_combo": 1010,
+            "1kg_individual": 540,
+            "5kg_individual": 510,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥倫比亞 內華達山脈 天堂莊園 Delagua 卡杜拉 日曬 果森",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 1040,
+            "5kg_a_b_combo": 1010,
+            "1kg_individual": 540,
+            "5kg_individual": 510,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 揚卡公主 卡杜拉 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 990,
+            "5kg_a_b_combo": 960,
+            "1kg_individual": 490,
+            "5kg_individual": 460,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 揚卡公主 卡杜拉 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg_a_b_combo": 880,
+            "5kg_a_b_combo": 830,
+            "1kg_individual": 350,
+            "5kg_individual": 320,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "音樂家系列 貝多芬 酵素水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 450,
+            "5kg": 450,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        },
+        "limit_per_ticket": 30
+    },
+    {
+        "name": "巴拿馬 波奎特 花蝴蝶 70% 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 570,
+            "5kg": 570,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        },
+        "limit_per_ticket": 30
+    },
+    {
+        "name": "巴拿馬 文藝復興系列 季節女神 佛羅娜 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 900,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 Hacienda Copey 科佩莊園 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 2380,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "哥斯大黎加 Hacienda Copey 科佩莊園 藝伎 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 2380,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 艾利達莊園 Aguacate 藝伎 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 4380,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 艾利達莊園 Torre 藝伎 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 4380,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 艾利達莊園 Torre 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 4380,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 艾利達莊園 Loma DRD 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 3880,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 艾利達莊園 Falda 藝伎 水洗",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 3880,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 艾利達莊園 Falda 藝伎 日曬",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 3880,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    },
+    {
+        "name": "巴拿馬 阿爾鐵里莊園 藝伎 日曬 (Altieri Geisha GN-DFC-DILGO)",
+        "packaging": [
+            "1kg",
+            "5kg"
+        ],
+        "pricing": {
+            "1kg": 3200,
+            "5kg": 0,
+            "order_quantity_kg": 0,
+            "subtotal": 0
+        }
+    }
+]

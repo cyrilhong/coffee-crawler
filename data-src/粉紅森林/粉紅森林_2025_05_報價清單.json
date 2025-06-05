@@ -1,0 +1,244 @@
+[
+  {
+    "region": null,
+    "code": "花日24",
+    "name": "",
+    "eng_name": null,
+    "specs": {},
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 柳橙汁、綜合熱帶水果、新鮮莓果、香草",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "Ihcafe90",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "process": "日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": null,
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "西普24",
+    "name": "",
+    "eng_name": null,
+    "specs": {},
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 香檳、芒果乾、桃子、黑棗乾、尾韻巧克力、奶",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "H28",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "process": "發酵日曬",
+      "variety": "波旁"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 柳丁、莓果、紅茶、香草、尾段巧克力、焦糖",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "金牛24",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "Parainema",
+      "process": "浸漬日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "奶油、牛軋糖",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "NGCM24",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "藝伎",
+      "process": "浸漬日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": null,
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "NON24",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "Obata",
+      "process": "日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 藍莓果醬、白花調性、微葡萄酒香、香草、奶油",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "紅李24",
+    "name": "",
+    "eng_name": null,
+    "specs": {},
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 檸檬紅茶、新鮮棗子、奶油餅乾、黑糖",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "Ihcafe90",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "process": "水洗"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": null,
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "MGW23",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "藝伎",
+      "process": "水洗"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "22/23 鷄蛋花香、橙花 、柑橘果肉、杏桃、尾韻香草",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "水洗迦佑25",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "波旁",
+      "process": "蜜 處 理"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 焦糖、水果乾、檸檬紅茶、淡淡花香、奶油",
+    "low_stock": true
+  },
+  {
+    "region": null,
+    "code": "果蜜酵素24",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "process": "酵素",
+      "variety": "帕卡斯"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "23/24 蘋果汁、紅莓、蜜棗、太妃糖、酸甜平衡",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "經典25",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "Caturra",
+      "process": "濕剝"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "乾木、李子、些許果香、尾韻奶油香氣",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "黃金25",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "process": "濕剝"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "松木、甜果香、巧克力、尾韻新鮮奶油、乾净無",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "鑽石波旁25",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "Parainema",
+      "process": "日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "雪松、蔓越莓、中段烏龍茶、鮮奶油香氣、仙草",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "卡斯23",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "variety": "帕卡斯",
+      "process": "厭氧日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "枝、尾段焦糖、鮮奶油",
+    "low_stock": false
+  },
+  {
+    "region": null,
+    "code": "MYPN23",
+    "name": "",
+    "eng_name": null,
+    "specs": {
+      "process": "日曬"
+    },
+    "price_info": {
+      "units": []
+    },
+    "desc": "、甜奶油、風味細緻",
+    "low_stock": true
+  }
+]

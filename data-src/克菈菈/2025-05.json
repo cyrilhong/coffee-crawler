@@ -1,0 +1,2118 @@
+[
+    {
+        "coffee_code": "Huila_歐畢根_Las_Brisas_Bourbon_Rayado",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Huila 歐畢根",
+        "estate": "Las Brisas",
+        "altitude": "1700m",
+        "variety": "Bourbon Rayado",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_帕帕約_Cultivares_Caturra_Chiroso",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Huila 帕帕約",
+        "estate": "Cultivares",
+        "altitude": "1650m",
+        "variety": "Caturra Chiroso",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_奇利波本_Los_Guaduales_Geisha",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Huila 奇利波本",
+        "estate": "Los Guaduales",
+        "altitude": "1600m",
+        "variety": "Geisha",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_波本西德拉_Cultivares_Sudan_Rume",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Huila 波本西德拉",
+        "estate": "Cultivares",
+        "altitude": "1650m",
+        "variety": "Sudan Rume",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Tolima_碧卡波本_El_Cielo_Pink_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Tolima",
+        "estate": "El Cielo",
+        "altitude": "2200m",
+        "variety": "Pink Bourbon",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Tolima_紅波本_La_Pradera_Red_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Tolima",
+        "estate": "La Pradera",
+        "altitude": "1900m",
+        "variety": "Red Bourbon",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_塔比_Las_Acacias_Java",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Huila 塔比",
+        "estate": "Las Acacias",
+        "altitude": "1600m",
+        "variety": "Java",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Tolima_維拉卡琳娜_Geisha",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Tolima",
+        "estate": "Villa Karina",
+        "altitude": "2200m",
+        "variety": "Geisha",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_洛斯德利西亞斯_Pink_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Huila",
+        "estate": "Las Delicias",
+        "altitude": "1650m",
+        "variety": "Pink Bourbon",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Villa_Clara_Estate_奇奇納_Caldas_Caturra_Yellow_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "未知",
+        "region": "Caldas 奇奇納",
+        "estate": "Villa Clara Estate",
+        "altitude": "1500-1600m",
+        "variety": "Caturra, Yellow Bourbon",
+        "flavor": "未知",
+        "bag_price_35kg": {
+            "origin": 365,
+            "promo": 365,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 395,
+            "promo": 395,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Las_Delicias_Caturra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Huila",
+        "estate": "Las Delicias (美滿莊園)",
+        "altitude": "1750m",
+        "variety": "Caturra",
+        "moisture": "11.7%",
+        "density": 810,
+        "flavor": "葡萄．黃桃．百香果．楊桃．洛神花",
+        "bag_price_35kg": {
+            "origin": 495,
+            "promo": 495,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 525,
+            "promo": 525,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_La_Marlen_Caturra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Huila",
+        "estate": "La Marlen (馬倫莊園)",
+        "altitude": "1600m",
+        "variety": "Caturra",
+        "moisture": "10.9%",
+        "density": 825,
+        "flavor": "紅葡萄酒．黑莓．威士忌．鳳梨",
+        "bag_price_35kg": {
+            "origin": 510,
+            "promo": 510,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 540,
+            "promo": 540,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_La_Esmeralda_Typica",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "La Esmeralda (翡翠莊園)",
+        "altitude": "1600m",
+        "variety": "Typica",
+        "moisture": "11.2%",
+        "density": 851,
+        "flavor": "白葡萄酒．黃桃．芒果．葡萄汁",
+        "bag_price_35kg": {
+            "origin": 630,
+            "promo": 630,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 660,
+            "promo": 660,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Las_Acacias_Papayo",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Las Acacias (相思樹莊園)",
+        "altitude": "1600m",
+        "variety": "Papayo",
+        "moisture": "12%",
+        "density": 847,
+        "flavor": "木瓜．藍莓醬．糖漬鳳梨．芒果優格",
+        "bag_price_35kg": {
+            "origin": 690,
+            "promo": 690,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 720,
+            "promo": 720,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Las_Acacias_Ombilgon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Las Acacias (相思樹莊園)",
+        "altitude": "1600m",
+        "variety": "Ombligon",
+        "moisture": "10.9%",
+        "density": 845,
+        "flavor": "花香．莓果果醬．芭樂．香蕉牛奶．焦糖布丁",
+        "bag_price_35kg": {
+            "origin": 690,
+            "promo": 690,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 720,
+            "promo": 720,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Los_Guaduales_Chili_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Los Guaduales (竹林莊園)",
+        "altitude": "1600m",
+        "variety": "Chili Bourbon",
+        "moisture": "10.9%",
+        "density": 857,
+        "flavor": "蔓越莓酸質．蔗糖甜．櫻桃．百香果．奶油",
+        "bag_price_35kg": {
+            "origin": 820,
+            "promo": 820,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 850,
+            "promo": 850,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_El_Triunfo_Pink_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧三重奏日曬",
+        "region": "Huila",
+        "estate": "El Triunfo (勝利莊園)",
+        "altitude": "1950m",
+        "variety": "Pink Bourbon",
+        "moisture": "10.4%",
+        "density": 854,
+        "flavor": "紫羅蘭．甜橙．紅莓．蜜桃．櫻桃．琴酒",
+        "bag_price_35kg": {
+            "origin": 850,
+            "promo": 850,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 880,
+            "promo": 880,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_La_Herencia_Bourbon_Sidra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧慢速發酵日曬",
+        "region": "Huila",
+        "estate": "La Herencia (傳承莊園)",
+        "altitude": "1600m",
+        "variety": "Bourbon Sidra",
+        "moisture": "10.6%",
+        "density": 819,
+        "flavor": "粉紅香檳．玫瑰．波羅蜜．黃桃．葡萄",
+        "bag_price_35kg": {
+            "origin": 880,
+            "promo": 880,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 910,
+            "promo": 910,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Varietales_Geisha",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Varietales (瓦列塔斯莊園)",
+        "altitude": "1950m",
+        "variety": "Geisha",
+        "moisture": "10.4%",
+        "density": 854,
+        "flavor": "葡萄．莓果．藍莓果醬．覆盆莓",
+        "bag_price_35kg": {
+            "origin": 1260,
+            "promo": 1260,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 1290,
+            "promo": 1290,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Caldas_San_Jose_SL28",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Caldas",
+        "estate": "San Jose (聖荷西)",
+        "altitude": "1750m",
+        "variety": "SL28",
+        "moisture": "13.1%",
+        "density": 676,
+        "flavor": "紫花香．紫色葡萄．芒果．楊桃．黑莓．水果酒",
+        "bag_price_35kg": {
+            "origin": 720,
+            "promo": 720,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 750,
+            "promo": 750,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Mirador_del_Gigante_Yellow_Caturra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧水洗, 三重奏",
+        "region": "Huila",
+        "estate": "Mirador del Gigante (米拉多莊園)",
+        "altitude": "1780m",
+        "variety": "Yellow Caturra",
+        "moisture": "11.6%",
+        "density": 804,
+        "flavor": "酒浸蔓越莓．櫻桃酸質．鳳梨．百香果．可可",
+        "bag_price_35kg": {
+            "origin": 680,
+            "promo": 680,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 710,
+            "promo": 710,
+            "sold_out": true
+        }
+    },
+    {
+        "coffee_code": "Huila_La_Quebradita_Colombia",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "水蜜桃菌種, 酵母水洗",
+        "region": "Huila",
+        "estate": "La Quebradita (小溪莊園)",
+        "altitude": "1850m",
+        "variety": "Caturra",
+        "moisture": "11.7%",
+        "density": 822,
+        "flavor": "麝香葡萄．靑森蘋果汁．靑蘋果．黑糖冬瓜茶",
+        "bag_price_35kg": {
+            "origin": 930,
+            "promo": 930,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 960,
+            "promo": 960,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Los_Nogales_Pink_Bourbon",
+        "promotion": "2024 美國手沖賽冠軍用豆莊園",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "巧克力莓果, 水洗",
+        "region": "Huila",
+        "estate": "Los Nogales (諾加萊斯莊園)",
+        "altitude": "1800m",
+        "variety": "Pink Bourbon",
+        "moisture": "11.7%",
+        "density": 798,
+        "flavor": "草莓慕斯．新鮮草莓．水蜜桃．草莓巧克力",
+        "bag_price_22kg": {
+            "origin": 1200,
+            "promo": 1200,
+            "sold_out": true
+        },
+        "bag_price_5kg": {
+            "origin": 1230,
+            "promo": 1230,
+            "sold_out": true
+        }
+    },
+    {
+        "coffee_code": "Huila_La_Quebradita_Caturra_Pink_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "菌種酵母, 水洗",
+        "region": "Huila",
+        "estate": "La Quebradita (小溪莊園)",
+        "altitude": "1850m",
+        "variety": "Caturra, Pink Bourbon",
+        "moisture": "11.4%",
+        "density": 834,
+        "flavor": "花蜜．柳橙．小玉西瓜．百香果．黃金糖",
+        "bag_price_35kg": {
+            "origin": 720,
+            "promo": 720,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 750,
+            "promo": 750,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Las_Flores_Bourbon_Sidra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "熱衝擊酵母, 厭氧水洗",
+        "region": "Huila",
+        "estate": "Las Flores (百花豔莊園)",
+        "altitude": "2100m",
+        "variety": "Bourbon Sidra",
+        "moisture": "10.6%",
+        "density": 840,
+        "flavor": "桂花釀．荔枝．淡淸酒．黃檸檬．尤加利葉．綠葡萄甜",
+        "bag_price_35kg": {
+            "origin": 1150,
+            "promo": 1150,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 1180,
+            "promo": 1180,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Los_Nogales_Chili_Bourbon",
+        "promotion": "新上架",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "熱衝擊, 厭氧水洗",
+        "region": "Huila",
+        "estate": "Los Nogales (諾加萊斯莊園)",
+        "altitude": "1800m",
+        "variety": "Chili Bourbon",
+        "moisture": "11%",
+        "density": 854,
+        "flavor": "哈密瓜．檸檬糖．砂糖橘．草莓牛奶, 花蜜．香草冰淇淋",
+        "bag_price_35kg": {
+            "origin": 1300,
+            "promo": 1300,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 1330,
+            "promo": 1330,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Tolima_Monteverde_WushWush",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧赤焰, 日曬",
+        "region": "Tolima",
+        "estate": "Monteverde (蒙特維莊園)",
+        "altitude": "1900m",
+        "variety": "WushWush",
+        "moisture": "11.2%",
+        "density": 801,
+        "flavor": "洛神花．肉桂巧克力．熱紅酒",
+        "bag_price_22kg": {
+            "origin": 960,
+            "promo": 960,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 990,
+            "promo": 990,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_El_Diviso_Chili_Bourbon",
+        "promotion": "新上架, 2022、2024 WBC冠軍莊園",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "熱衝擊, 菌種酵母, 發酵日曬",
+        "region": "Huila",
+        "estate": "El Diviso (迪維索莊園)",
+        "altitude": "1800m",
+        "variety": "Chili Bourbon",
+        "moisture": "11.7%",
+        "density": 848,
+        "flavor": "玫瑰．水蜜桃汁．芒果．百香果．鳳梨．莓果果醬",
+        "bag_price_35kg": {
+            "origin": 1300,
+            "promo": 1300,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 1330,
+            "promo": 1330,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Tolima_Monteverde_Geisha",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "酵素有氧, 靛藍日曬",
+        "region": "Tolima",
+        "estate": "Monteverde (蒙特維莊園)",
+        "altitude": "1700m",
+        "variety": "Geisha",
+        "moisture": "10.4%",
+        "density": 815,
+        "flavor": "波羅蜜．芒果．木瓜．山竹．紅葡萄酒",
+        "bag_price_22kg": {
+            "origin": 1260,
+            "promo": 1260,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 1290,
+            "promo": 1290,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Caldas_Finca_San_Jose_Castillo",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "蘭姆日曬",
+        "region": "Caldas",
+        "estate": "Finca San Jose (聖荷西)",
+        "altitude": "1750m",
+        "variety": "Castillo",
+        "moisture": "13.1%",
+        "density": 676,
+        "flavor": "桂花釀．蘭姆酒．黑莓．葡萄乾",
+        "bag_price_22kg": {
+            "origin": 1350,
+            "promo": 1350,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 1450,
+            "promo": 1450,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Kiambu_Mchana_SL28_Ruiru11_K7_Batian",
+        "promotion": "新上架, 2025 TOH肯亞日曬冠軍",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Kiambu",
+        "estate": "Mchana Factory (麥肯納處理廠)",
+        "altitude": "2300m",
+        "variety": "SL28, Ruiru11, K7, Batian",
+        "moisture": "10.5%",
+        "density": 885,
+        "flavor": "熟成櫻桃．紅酒香氣．黑麥．杏桃．黑莓果醬．香吉士．蘭姆酒",
+        "bag_price_30kg": {
+            "origin": 680,
+            "promo": 680,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 710,
+            "promo": 710,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Kiambu_Reura_SL28_Ruiru11_K7_Batian",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Kiambu",
+        "estate": "Reura Factory (魯維拉處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, Ruiru11, K7, Batian",
+        "moisture": "10.5%",
+        "density": 877,
+        "flavor": "粉色香檳．草莓．葡萄．芒果．水蜜桃沙瓦",
+        "bag_price_30kg": {
+            "origin": 700,
+            "promo": 700,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 730,
+            "promo": 730,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "黃蜜處理",
+        "region": "Muranga",
+        "estate": "Kangoya Factory (康古亞處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34, Ruiru11, Batian",
+        "moisture": "9.4%",
+        "density": 861,
+        "flavor": "蘋果．蜂蜜．柑橘皮．靑醋栗．軟糖",
+        "bag_price_30kg": {
+            "origin": 420,
+            "promo": 420,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 450,
+            "promo": 450,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian_2",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "黑蜜處理",
+        "region": "Muranga",
+        "estate": "Kangoya Factory (康古亞處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34, Ruiru11, Batian",
+        "moisture": "9.8%",
+        "density": 879,
+        "flavor": "黑莓果醬．櫻桃果醬．艾爾啤酒．瑪拉斯奇諾櫻桃．金莎巧克力",
+        "bag_price_30kg": {
+            "origin": 490,
+            "promo": 490,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 520,
+            "promo": 520,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Kiambu_Kamuchege_SL28_SL34",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Kiambu",
+        "estate": "Kamuchege Factory (卡慕恰奇處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34",
+        "moisture": "8.9%",
+        "density": 884,
+        "flavor": "醋栗．茂谷柑．蘋果．鳶尾花．明亮淸爽酸質",
+        "bag_price_30kg": {
+            "origin": 490,
+            "promo": 490,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 520,
+            "promo": 520,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Nyeri_Ndaroini_SL28_SL34_Ruiru11",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Ndaroini Factory (達羅尼處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34, Ruiru11",
+        "moisture": "9.3%",
+        "density": 881,
+        "flavor": "紅醋栗．蘋果果醬．紫羅蘭．砂糖橘．水蜜桃軟糖",
+        "bag_price_30kg": {
+            "origin": 490,
+            "promo": 490,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 520,
+            "promo": 520,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Nyeri_Kiamabara_SL28_SL34",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Kiamabara Factory (凱蒙波勒處理廠)",
+        "altitude": "1600m",
+        "variety": "SL28, SL34",
+        "moisture": "8.7%",
+        "density": 874,
+        "flavor": "紫花．桃子．小紅莓．柑橘．楊桃",
+        "bag_price_30kg": {
+            "origin": 530,
+            "promo": 530,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 560,
+            "promo": 560,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Muranga_Marimira_SL28_Ruiru11_K7_Batian",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Muranga",
+        "estate": "Marimira Factory (瑪莉米拉處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, Ruiru11, K7, Batian",
+        "moisture": "9.0%",
+        "density": 882,
+        "flavor": "紅醋栗．柑橘．白葡萄．水蜜桃果醬．生可可",
+        "bag_price_30kg": {
+            "origin": 560,
+            "promo": 560,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 590,
+            "promo": 590,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Nyeri_Nyeri_Hill_SL28_SL34_Ruiru11",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Nyeri Hill Factory (涅里山處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34, Ruiru11",
+        "moisture": "8.6%",
+        "density": 885,
+        "flavor": "玫瑰．黑醋栗果醬．香吉士．富士蘋果．結構扎實",
+        "bag_price_30kg": {
+            "origin": 590,
+            "promo": 590,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 620,
+            "promo": 620,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Kiambu_Gititu_SL28_SL34",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Kiambu",
+        "estate": "Gititu Factory (基地圖處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34",
+        "moisture": "9.8%",
+        "density": 877,
+        "flavor": "紫羅蘭．帝王柑．黑醋栗軟糖．橘子糖．橙花．甜感飽滿",
+        "bag_price_30kg": {
+            "origin": 600,
+            "promo": 600,
+            "sold_out": false
+        },
+        "bag_price_5kg": {
+            "origin": 630,
+            "promo": 630,
+            "sold_out": false
+        }
+    },
+    {
+        "coffee_code": "Huila_Las_Delicias_Caturra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Huila",
+        "estate": "Las Delicias (美滿莊園)",
+        "altitude": "1750m",
+        "variety": "Caturra",
+        "moisture": "11.7%",
+        "density": 810,
+        "flavor": "葡萄．黃桃．百香果．楊桃．洛神花",
+        "bag_price_35kg": {
+          "origin": 495,
+          "promo": 495,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 525,
+          "promo": 525,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_La_Marlen_Caturra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Huila",
+        "estate": "La Marlen (馬倫莊園)",
+        "altitude": "1600m",
+        "variety": "Caturra",
+        "moisture": "10.9%",
+        "density": 825,
+        "flavor": "紅葡萄酒．黑莓．威士忌．鳳梨",
+        "bag_price_35kg": {
+          "origin": 510,
+          "promo": 510,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 540,
+          "promo": 540,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_La_Esmeralda_Typica",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "La Esmeralda (翡翠莊園)",
+        "altitude": "1600m",
+        "variety": "Typica",
+        "moisture": "11.2%",
+        "density": 851,
+        "flavor": "白葡萄酒．黃桃．芒果．葡萄汁",
+        "bag_price_35kg": {
+          "origin": 630,
+          "promo": 630,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 660,
+          "promo": 660,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Las_Acacias_Papayo",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Las Acacias (相思樹莊園)",
+        "altitude": "1600m",
+        "variety": "Papayo",
+        "moisture": "12%",
+        "density": 847,
+        "flavor": "木瓜．藍莓醬．糖漬鳳梨．芒果優格",
+        "bag_price_35kg": {
+          "origin": 690,
+          "promo": 690,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 720,
+          "promo": 720,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Las_Acacias_Ombilgon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Las Acacias (相思樹莊園)",
+        "altitude": "1600m",
+        "variety": "Ombligon",
+        "moisture": "10.9%",
+        "density": 845,
+        "flavor": "花香．莓果果醬．芭樂．香蕉牛奶．焦糖布丁",
+        "bag_price_35kg": {
+          "origin": 690,
+          "promo": 690,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 720,
+          "promo": 720,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Los_Guaduales_Chili_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Los Guaduales (竹林莊園)",
+        "altitude": "1600m",
+        "variety": "Chili Bourbon",
+        "moisture": "10.9%",
+        "density": 857,
+        "flavor": "蔓越莓酸質．蔗糖甜．櫻桃．百香果．奶油",
+        "bag_price_35kg": {
+          "origin": 820,
+          "promo": 820,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 850,
+          "promo": 850,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_El_Triunfo_Pink_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧三重奏日曬",
+        "region": "Huila",
+        "estate": "El Triunfo (勝利莊園)",
+        "altitude": "1950m",
+        "variety": "Pink Bourbon",
+        "moisture": "10.4%",
+        "density": 854,
+        "flavor": "紫羅蘭．甜橙．紅莓．蜜桃．櫻桃．琴酒",
+        "bag_price_35kg": {
+          "origin": 850,
+          "promo": 850,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 880,
+          "promo": 880,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_La_Herencia_Bourbon_Sidra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧慢速發酵日曬",
+        "region": "Huila",
+        "estate": "La Herencia (傳承莊園)",
+        "altitude": "1600m",
+        "variety": "Bourbon Sidra",
+        "moisture": "10.6%",
+        "density": 819,
+        "flavor": "粉紅香檳．玫瑰．波羅蜜．黃桃．葡萄",
+        "bag_price_35kg": {
+          "origin": 880,
+          "promo": 880,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 910,
+          "promo": 910,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Varietales_Geisha",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Huila",
+        "estate": "Varietales (瓦列塔斯莊園)",
+        "altitude": "1950m",
+        "variety": "Geisha",
+        "moisture": "10.4%",
+        "density": 854,
+        "flavor": "葡萄．莓果．藍莓果醬．覆盆莓",
+        "bag_price_35kg": {
+          "origin": 1260,
+          "promo": 1260,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 1290,
+          "promo": 1290,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Caldas_San_Jose_SL28",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Caldas",
+        "estate": "San Jose (聖荷西)",
+        "altitude": "1750m",
+        "variety": "SL28",
+        "moisture": "13.1%",
+        "density": 676,
+        "flavor": "紫花香．紫色葡萄．芒果．楊桃．黑莓．水果酒",
+        "bag_price_35kg": {
+          "origin": 720,
+          "promo": 720,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 750,
+          "promo": 750,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Mirador_del_Gigante_Yellow_Caturra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧水洗, 三重奏",
+        "region": "Huila",
+        "estate": "Mirador del Gigante (米拉多莊園)",
+        "altitude": "1780m",
+        "variety": "Yellow Caturra",
+        "moisture": "11.6%",
+        "density": 804,
+        "flavor": "酒浸蔓越莓．櫻桃酸質．鳳梨．百香果．可可",
+        "bag_price_35kg": {
+          "origin": 680,
+          "promo": 680,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 710,
+          "promo": 710,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "Huila_La_Quebradita_Colombia",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "水蜜桃菌種, 酵母水洗",
+        "region": "Huila",
+        "estate": "La Quebradita (小溪莊園)",
+        "altitude": "1850m",
+        "variety": "Caturra",
+        "moisture": "11.7%",
+        "density": 822,
+        "flavor": "麝香葡萄．靑森蘋果汁．靑蘋果．黑糖冬瓜茶",
+        "bag_price_35kg": {
+          "origin": 930,
+          "promo": 930,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 960,
+          "promo": 960,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Los_Nogales_Pink_Bourbon",
+        "promotion": "2024 美國手沖賽冠軍用豆莊園",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "巧克力莓果, 水洗",
+        "region": "Huila",
+        "estate": "Los Nogales (諾加萊斯莊園)",
+        "altitude": "1800m",
+        "variety": "Pink Bourbon",
+        "moisture": "11.7%",
+        "density": 798,
+        "flavor": "草莓慕斯．新鮮草莓．水蜜桃．草莓巧克力",
+        "bag_price_22kg": {
+          "origin": 1200,
+          "promo": 1200,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 1230,
+          "promo": 1230,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "Huila_La_Quebradita_Caturra_Pink_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "菌種酵母, 水洗",
+        "region": "Huila",
+        "estate": "La Quebradita (小溪莊園)",
+        "altitude": "1850m",
+        "variety": "Caturra, Pink Bourbon",
+        "moisture": "11.4%",
+        "density": 834,
+        "flavor": "花蜜．柳橙．小玉西瓜．百香果．黃金糖",
+        "bag_price_35kg": {
+          "origin": 720,
+          "promo": 720,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 750,
+          "promo": 750,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Las_Flores_Bourbon_Sidra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "熱衝擊酵母, 厭氧水洗",
+        "region": "Huila",
+        "estate": "Las Flores (百花豔莊園)",
+        "altitude": "2100m",
+        "variety": "Bourbon Sidra",
+        "moisture": "10.6%",
+        "density": 840,
+        "flavor": "桂花釀．荔枝．淡淸酒．黃檸檬．尤加利葉．綠葡萄甜",
+        "bag_price_35kg": {
+          "origin": 1150,
+          "promo": 1150,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 1180,
+          "promo": 1180,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Los_Nogales_Chili_Bourbon",
+        "promotion": "新上架",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "熱衝擊, 厭氧水洗",
+        "region": "Huila",
+        "estate": "Los Nogales (諾加萊斯莊園)",
+        "altitude": "1800m",
+        "variety": "Chili Bourbon",
+        "moisture": "11%",
+        "density": 854,
+        "flavor": "哈密瓜．檸檬糖．砂糖橘．草莓牛奶, 花蜜．香草冰淇淋",
+        "bag_price_35kg": {
+          "origin": 1300,
+          "promo": 1300,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 1330,
+          "promo": 1330,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Tolima_Monteverde_WushWush",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧赤焰, 日曬",
+        "region": "Tolima",
+        "estate": "Monteverde (蒙特維莊園)",
+        "altitude": "1900m",
+        "variety": "WushWush",
+        "moisture": "11.2%",
+        "density": 801,
+        "flavor": "洛神花．肉桂巧克力．熱紅酒",
+        "bag_price_22kg": {
+          "origin": 960,
+          "promo": 960,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 990,
+          "promo": 990,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_El_Diviso_Chili_Bourbon",
+        "promotion": "新上架, 2022、2024 WBC冠軍莊園",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "熱衝擊, 菌種酵母, 發酵日曬",
+        "region": "Huila",
+        "estate": "El Diviso (迪維索莊園)",
+        "altitude": "1800m",
+        "variety": "Chili Bourbon",
+        "moisture": "11.7%",
+        "density": 848,
+        "flavor": "玫瑰．水蜜桃汁．芒果．百香果．鳳梨．莓果果醬",
+        "bag_price_35kg": {
+          "origin": 1300,
+          "promo": 1300,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 1330,
+          "promo": 1330,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Tolima_Monteverde_Geisha",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "酵素有氧, 靛藍日曬",
+        "region": "Tolima",
+        "estate": "Monteverde (蒙特維莊園)",
+        "altitude": "1700m",
+        "variety": "Geisha",
+        "moisture": "10.4%",
+        "density": 815,
+        "flavor": "波羅蜜．芒果．木瓜．山竹．紅葡萄酒",
+        "bag_price_22kg": {
+          "origin": 1260,
+          "promo": 1260,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 1290,
+          "promo": 1290,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Caldas_Finca_San_Jose_Castillo_Rum",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "蘭姆日曬",
+        "region": "Caldas",
+        "estate": "Finca San Jose (聖荷西)",
+        "altitude": "1750m",
+        "variety": "Castillo",
+        "moisture": "13.1%",
+        "density": 676,
+        "flavor": "桂花釀．蘭姆酒．黑莓．葡萄乾",
+        "bag_price_22kg": {
+          "origin": 1350,
+          "promo": 1350,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 1450,
+          "promo": 1450,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Caldas_Finca_San_Jose_Castillo_Ginger",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "薑餅人, 汽水",
+        "region": "Caldas",
+        "estate": "Finca San Jose (聖荷西)",
+        "altitude": "1600m",
+        "variety": "Castillo",
+        "moisture": "11%",
+        "density": 811,
+        "flavor": "薄荷．檸檬汽水．金桔．蜂蜜",
+        "bag_price_22kg": {
+          "origin": 590,
+          "promo": 590,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 650,
+          "promo": 650,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "Caldas_Finca_San_Jose_Castillo_Amaro",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "杏仁甜酒, 低咖啡因水洗",
+        "region": "Caldas",
+        "estate": "Finca San Jose (聖荷西)",
+        "altitude": "1750m",
+        "variety": "Castillo",
+        "moisture": "12%",
+        "density": 817,
+        "flavor": "杏仁甜酒．貝里斯奶酒．提拉米蘇．生可可",
+        "bag_price_22kg": {
+          "origin": 1120,
+          "promo": 1120,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 1200,
+          "promo": 1200,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "Huila_El_Placer_Chili_Bourbon",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "厭氧, 蜜處理",
+        "region": "Huila",
+        "estate": "El Placer (愉悅莊園)",
+        "altitude": "1800m",
+        "variety": "Chili Bourbon",
+        "moisture": "10.5%",
+        "density": 814,
+        "flavor": "薰衣草．佛手柑．靑蘋果．綠葡萄．康福草",
+        "bag_price_35kg": {
+          "origin": 650,
+          "promo": 650,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 720,
+          "promo": 720,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_El_Cedron_Bourbon_Sidra",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "菌種酵母, 厭氧水洗",
+        "region": "Huila",
+        "estate": "El Cedron (黑天鵝莊園)",
+        "altitude": "1600m",
+        "variety": "Bourbon Sidra",
+        "moisture": "11.0%",
+        "density": 811,
+        "flavor": "百香果．芒果．柳橙．櫻桃．蘋果酒",
+        "bag_price_35kg": {
+          "origin": 850,
+          "promo": 850,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 920,
+          "promo": 920,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "Huila_Monteblanco_Purple_Caturra_Pineapple",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "鳳梨, 水洗",
+        "region": "Huila",
+        "estate": "Monteblanco (蒙大布蘭寇)",
+        "altitude": "1800m",
+        "variety": "Purple Caturra",
+        "moisture": "11.5%",
+        "density": 815,
+        "flavor": "紅蘋果．香蕉．鳳梨罐．黃金糖",
+        "bag_price_24kg": {
+          "origin": 590,
+          "promo": 590,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 650,
+          "promo": 650,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Huila_Monteblanco_Purple_Caturra_Mint",
+        "promotion": "",
+        "country": "哥倫比亞",
+        "season": "2024",
+        "processing": "薄荷, 水洗",
+        "region": "Huila",
+        "estate": "Monteblanco (蒙大布蘭寇)",
+        "altitude": "1800m",
+        "variety": "Purple Caturra",
+        "moisture": "11.7%",
+        "density": 837,
+        "flavor": "薄荷巧克力．香蕉淸冰．肉桂．冰糖",
+        "bag_price_24kg": {
+          "origin": 590,
+          "promo": 590,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 650,
+          "promo": 650,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Kiambu_Mchana_SL28_Ruiru11_K7_Batian",
+        "promotion": "新上架, 2025 TOH肯亞日曬冠軍",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Kiambu",
+        "estate": "Mchana Factory (麥肯納處理廠)",
+        "altitude": "2300m",
+        "variety": "SL28, Ruiru11, K7, Batian",
+        "moisture": "10.5%",
+        "density": 885,
+        "flavor": "熟成櫻桃．紅酒香氣．黑麥．杏桃．黑莓果醬．香吉士．蘭姆酒",
+        "bag_price_30kg": {
+          "origin": 680,
+          "promo": 680,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 710,
+          "promo": 710,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Kiambu_Reura_SL28_Ruiru11_K7_Batian",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Kiambu",
+        "estate": "Reura Factory (魯維拉處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, Ruiru11, K7, Batian",
+        "moisture": "10.5%",
+        "density": 877,
+        "flavor": "粉色香檳．草莓．葡萄．芒果．水蜜桃沙瓦",
+        "bag_price_30kg": {
+          "origin": 700,
+          "promo": 700,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 730,
+          "promo": 730,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "黃蜜處理",
+        "region": "Muranga",
+        "estate": "Kangoya Factory (康古亞處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34, Ruiru11, Batian",
+        "moisture": "9.4%",
+        "density": 861,
+        "flavor": "蘋果．蜂蜜．柑橘皮．靑醋栗．軟糖",
+        "bag_price_30kg": {
+          "origin": 420,
+          "promo": 420,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 450,
+          "promo": 450,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian_2",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "黑蜜處理",
+        "region": "Muranga",
+        "estate": "Kangoya Factory (康古亞處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34, Ruiru11, Batian",
+        "moisture": "9.8%",
+        "density": 879,
+        "flavor": "黑莓果醬．櫻桃果醬．艾爾啤酒．瑪拉斯奇諾櫻桃．金莎巧克力",
+        "bag_price_30kg": {
+          "origin": 490,
+          "promo": 490,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 520,
+          "promo": 520,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Kiambu_Kamuchege_SL28_SL34",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Kiambu",
+        "estate": "Kamuchege Factory (卡慕恰奇處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34",
+        "moisture": "8.9%",
+        "density": 884,
+        "flavor": "醋栗．茂谷柑．蘋果．鳶尾花．明亮淸爽酸質",
+        "bag_price_30kg": {
+          "origin": 490,
+          "promo": 490,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 520,
+          "promo": 520,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Nyeri_Ndaroini_SL28_SL34_Ruiru11",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Ndaroini Factory (達羅尼處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34, Ruiru11",
+        "moisture": "9.3%",
+        "density": 881,
+        "flavor": "紅醋栗．蘋果果醬．紫羅蘭．砂糖橘．水蜜桃軟糖",
+        "bag_price_30kg": {
+          "origin": 490,
+          "promo": 490,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 520,
+          "promo": 520,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Nyeri_Kiamabara_SL28_SL34",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Kiamabara Factory (凱蒙波勒處理廠)",
+        "altitude": "1600m",
+        "variety": "SL28, SL34",
+        "moisture": "8.7%",
+        "density": 874,
+        "flavor": "紫花．桃子．小紅莓．柑橘．楊桃",
+        "bag_price_30kg": {
+          "origin": 530,
+          "promo": 530,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 560,
+          "promo": 560,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Muranga_Marimira_SL28_Ruiru11_K7_Batian",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Muranga",
+        "estate": "Marimira Factory (瑪莉米拉處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, Ruiru11, K7, Batian",
+        "moisture": "9.0%",
+        "density": 882,
+        "flavor": "紅醋栗．柑橘．白葡萄．水蜜桃果醬．生可可",
+        "bag_price_30kg": {
+          "origin": 560,
+          "promo": 560,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 590,
+          "promo": 590,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Nyeri_Nyeri_Hill_SL28_SL34_Ruiru11",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Nyeri Hill Factory (涅里山處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34, Ruiru11",
+        "moisture": "8.6%",
+        "density": 885,
+        "flavor": "玫瑰．黑醋栗果醬．香吉士．富士蘋果．結構扎實",
+        "bag_price_30kg": {
+          "origin": 590,
+          "promo": 590,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 620,
+          "promo": 620,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Kiambu_Gititu_SL28_SL34",
+        "promotion": "新上架",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Kiambu",
+        "estate": "Gititu Factory (基地圖處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34",
+        "moisture": "9.8%",
+        "density": 877,
+        "flavor": "紫羅蘭．帝王柑．黑醋栗軟糖．橘子糖．橙花．甜感飽滿",
+        "bag_price_30kg": {
+          "origin": 600,
+          "promo": 600,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 630,
+          "promo": 630,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Nyeri_Kangocho_SL28_SL34",
+        "promotion": "",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Nyeri",
+        "estate": "Kangocho Factory (岡谷丘處理廠)",
+        "altitude": "1700m",
+        "variety": "SL28, SL34",
+        "moisture": "9.7%",
+        "density": 840,
+        "flavor": "白花．柑橘．新鮮藍莓．桃子．可爾必思乳酸",
+        "bag_price_30kg": {
+          "origin": 400,
+          "promo": 400,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 430,
+          "promo": 430,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Embu_Kevote_SL28_SL34",
+        "promotion": "",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Embu",
+        "estate": "Kevote Factory (凱渥特處理廠)",
+        "altitude": "1590m",
+        "variety": "SL28, SL34",
+        "moisture": "10.2%",
+        "density": 838,
+        "flavor": "茂谷柑．洛神．醋栗．黃金糖",
+        "bag_price_30kg": {
+          "origin": 500,
+          "promo": 500,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 530,
+          "promo": 530,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Kirinyaga_Karimikui_SL28_SL34",
+        "promotion": "",
+        "country": "肯亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Kirinyaga",
+        "estate": "Karimikui Factory (凱莉米庫處理廠)",
+        "altitude": "1900m",
+        "variety": "SL28, SL34",
+        "moisture": "9.6%",
+        "density": 833,
+        "flavor": "橙花．覆盆莓．帝王柑．柑橘．紅莓．伯爵奶茶",
+        "bag_price_30kg": {
+          "origin": 560,
+          "promo": 560,
+          "sold_out": true
+        },
+        "bag_price_5kg": {
+          "origin": 590,
+          "promo": 590,
+          "sold_out": true
+        }
+      },
+      {
+        "coffee_code": "Yirgacheffe_G2_74112_74110",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Yirgacheffe",
+        "estate": "通用處理廠",
+        "altitude": "2100m",
+        "variety": "74112, 74110",
+        "moisture": "10.6%",
+        "density": 817,
+        "flavor": "杏桃．雞蛋花．檸檬紅茶．柳橙",
+        "bag_price_30kg": {
+          "origin": 340,
+          "promo": 340,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 370,
+          "promo": 370,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Guji_Hambela_Dekitu_74110_74112_Kurume",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Guji Hambela",
+        "estate": "Dekitu Factory (德帝圖處理廠)",
+        "altitude": "2200m",
+        "variety": "74110, 74112, Kurume",
+        "moisture": "11.1%",
+        "density": 846,
+        "flavor": "紫羅蘭．甜橙．橘子果醬．楓糖",
+        "bag_price_30kg": {
+          "origin": 450,
+          "promo": 450,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 480,
+          "promo": 480,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Guji_Hambela_Buleye_74110_74112_74158",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Guji Hambela",
+        "estate": "Buleye Factory (布雷伊處理廠)",
+        "altitude": "2200m",
+        "variety": "74110, 74112, 74158",
+        "moisture": "11.6%",
+        "density": 831,
+        "flavor": "橙花．玫瑰．芒果汁．草莓",
+        "bag_price_30kg": {
+          "origin": 480,
+          "promo": 480,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 510,
+          "promo": 510,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Yirgacheffe_Chelchele_74110_74112",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "厭氧日曬",
+        "region": "Yirgacheffe",
+        "estate": "Chelchele Factory (切切蕾處理廠)",
+        "altitude": "2200m",
+        "variety": "74110, 74112",
+        "moisture": "11.4%",
+        "density": 826,
+        "flavor": "香吉士．百香果．香檳葡萄．金鑽鳳梨．芒果．綿長的果汁感",
+        "bag_price_30kg": {
+          "origin": 530,
+          "promo": 530,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 560,
+          "promo": 560,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Guji_Shakiso_74110_74112_Heirloom",
+        "promotion": "2024 衣索比亞TOH水洗#2",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Guji",
+        "estate": "Shakiso Factory (夏奇索處理廠)",
+        "altitude": "2200m",
+        "variety": "74110, 74112, Heirloom",
+        "moisture": "11.4%",
+        "density": 844,
+        "flavor": "百合花．柑橘．紅蘋果．脆桃",
+        "bag_price_30kg": {
+          "origin": 400,
+          "promo": 400,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 430,
+          "promo": 430,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Yirgacheffe_Chelchele_Heirloom",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "水洗",
+        "region": "Yirgacheffe",
+        "estate": "Chelchele Factory (切切蕾處理廠)",
+        "altitude": "2200m",
+        "variety": "Heirloom",
+        "moisture": "12.5%",
+        "density": 850,
+        "flavor": "茉莉．柑橘．杏桃．莓果．香瓜甜",
+        "bag_price_30kg": {
+          "origin": 470,
+          "promo": 470,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 500,
+          "promo": 500,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Yirgacheffe_Banko_Tartu_74112_74110",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Yirgacheffe",
+        "estate": "Banko Tartu Factory (班可卡圖處理廠)",
+        "altitude": "2100m",
+        "variety": "74112, 74110",
+        "moisture": "11.5%",
+        "density": 813,
+        "flavor": "芒果．蜜桃．蘋果西打．雞尾酒．草莓牛奶",
+        "bag_price_30kg": {
+          "origin": 510,
+          "promo": 510,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 540,
+          "promo": 540,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Guji_Hambela_Buleye_74112_74158",
+        "promotion": "",
+        "country": "衣索比亞",
+        "season": "2024",
+        "processing": "厭氧, 日曬",
+        "region": "Guji Hambela",
+        "estate": "Buleye Factory (布雷伊處理廠)",
+        "altitude": "2200m",
+        "variety": "74112, 74158",
+        "moisture": "11.4%",
+        "density": 838,
+        "flavor": "藍莓．草莓．柳丁．葡萄柚",
+        "bag_price_30kg": {
+          "origin": 620,
+          "promo": 620,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 650,
+          "promo": 650,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "South_Shan_State_Aromatic_Catimor_Catuai_Caturra_Bourbon",
+        "promotion": "環太平洋咖啡高峰會 緬甸代表",
+        "country": "緬甸",
+        "season": "2024",
+        "processing": "厭氧, 水洗",
+        "region": "South Shan State",
+        "estate": "Aromatic Cooperative Estate (阿洛莫合作社)",
+        "altitude": "1400m",
+        "variety": "Catimor, Catuai, Caturra, Bourbon",
+        "moisture": "10.4%",
+        "density": 805,
+        "flavor": "黑李．紅棗．甘蔗汁",
+        "bag_price_30kg": {
+          "origin": 330,
+          "promo": 330,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 360,
+          "promo": 360,
+          "sold_out": false
+        }
+      },
+      {
+        "coffee_code": "Cerrado_Brownie_Yellow_Bourbon_Red_Catual_Obatan_Yellow_Catuai",
+        "promotion": "",
+        "country": "巴西",
+        "season": "2024",
+        "processing": "日曬",
+        "region": "Cerrado",
+        "estate": "通用處理廠",
+        "altitude": "1100m",
+        "variety": "Yellow Bourbon, Red Catual, Obatan, Yellow Catuai",
+        "moisture": "9.8%",
+        "density": 809,
+        "flavor": "核桃．榛果．奶油",
+        "bag_price_30kg": {
+          "origin": 360,
+          "promo": 360,
+          "sold_out": false
+        },
+        "bag_price_5kg": {
+          "origin": 390,
+          "promo": 390,
+          "sold_out": false
+        }
+      }
+]

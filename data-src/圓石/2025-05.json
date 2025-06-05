@@ -1,0 +1,1784 @@
+[
+  {
+    "name": "衣索比亞 日曬 南希寶 雷菲莎 G1",
+    "english_name": "Ethiopia Natural West Arsi Nensebo Refisa G1",
+    "metrics": {
+      "AW": 0.63,
+      "Body": 11.4,
+      "Flavor": 829
+    },
+    "flavor_profile": {
+      "dry_aroma": "莓果、芒果乾、鳳梨及榛果香氣",
+      "taste": "入口時可感受到糖漬鳳梨、芒果乾及葡萄風味，中後段浮現草莓、烤榛果及太妃糖餘韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 370/KG",
+        "30KG_GP_inner_bag": "NT$ 350/KG"
+      }
+    ],
+    "notes": [
+      "出清特惠"
+    ],
+    "country": "Ethiopia",
+    "category": "Natural"
+  },
+  {
+    "name": "衣索比亞 西達馬 班莎鎮 薩佳拉 黑騎村 日曬 G1",
+    "english_name": "Ethiopia Sidama Bensa Sagara Hechi Natural G1 2100M",
+    "metrics": {
+      "AW": 0.6,
+      "Body": 10.8,
+      "Flavor": 839
+    },
+    "flavor_profile": {
+      "dry_aroma": "莓果、芒果、桃子及橘皮香氣",
+      "taste": "入口可感受到草莓、桃子、芒果風味，接著浮現橘皮與太妃糖餘韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 360/KG",
+        "30KG_GP_inner_bag": "NT$ 340/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Natural"
+  },
+  {
+    "name": "衣索比亞 日曬 耶珈雪啡 科洽雷/科契爾 巫里處理廠 G1 204 批次",
+    "english_name": "Ethiopia Yirgacheffe Kochere Wuri Natural G1 Lot.204",
+    "metrics": {
+      "AW": 0.56,
+      "Body": 10.3,
+      "Flavor": 860
+    },
+    "flavor_profile": {
+      "dry_aroma": "草莓、水蜜桃、佛手柑與花香",
+      "taste": "一入口即可感受到香濃的草莓果醬、水蜜桃與佛手柑，伴隨著檸檬皮、雞蛋花與些許藍莓香氣，風味細緻甜美"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 460/KG",
+        "30KG_GP_inner_bag": "NT$ 440/KG",
+        "discounted_5KG_bulk": "NT$ 340/KG",
+        "discounted_30KG_GP_inner_bag": "NT$ 320/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Natural"
+  },
+  {
+    "name": "衣索比亞 水洗 耶珈雪啡 果丁丁村 阿利姆布卡托小農 G1",
+    "english_name": "Ethiopia Washed Yirgacheffe Gotiti – Alemu Bukato G1",
+    "metrics": {
+      "AW": 0.47,
+      "Body": 8.7,
+      "Flavor": 864
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮的清新香氣、佛手柑、荔枝和水蜜桃的甜美氣息",
+      "taste": "入口時以檸檬卡士達、佛手柑與水蜜桃風味為主軸，伴隨著荔枝和雞蛋花的細緻香氣，香甜迷人、層次豐富"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 470/KG",
+        "30KG_GP_inner_bag": "NT$ 450/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 耶珈雪啡 艾瑞莎處理廠 G1",
+    "english_name": "Ethiopia Washed Yirgacheffe Aricha G1",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 10.1,
+      "Flavor": 843
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、柚子、紅茶及花香氣息",
+      "taste": "入口同樣以檸檬皮、柚子與桃子為主軸，中後段浮現蜂蜜、紅茶及白花香氣，乾淨細緻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 450/KG",
+        "30KG_GP_inner_bag": "NT$ 430/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 西達馬 茉莉雅/檸檬花蜜 25/01 批次",
+    "english_name": "Ethiopia Washed Sidama Morea Lot 25/01",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 10.1,
+      "Flavor": 837
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、水蜜桃、佛手柑及紅茶香氣",
+      "taste": "一入口即可感受到鮮明的檸檬皮、白桃及白柚風味，隨後浮現佛手柑、蜂蜜與雞蛋花氣息，甜美滑順"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 445/KG",
+        "30KG_GP_inner_bag": "NT$ 425/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 烏拉嘎 哈洛瓦丘處理廠",
+    "english_name": "Ethiopia Guji Uraga Haro Wachu Washed G1",
+    "metrics": {
+      "AW": 0.49,
+      "Body": 9.0,
+      "Flavor": 845
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬卡士達、佛手柑、水蜜桃與茉莉香氣",
+      "taste": "入口風味同樣以檸檬卡士達、柚子茶、佛手柑為主軸，伴隨著水蜜桃及茉莉花香氣，細緻優雅"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 440/KG",
+        "30KG_GP_inner_bag": "NT$ 420/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 古吉 吉茶 G1",
+    "english_name": "Ethiopia Guji Gerbicho Rogicha Washed G1",
+    "metrics": {
+      "AW": 0.49,
+      "Body": 9.2,
+      "Flavor": 876
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、水蜜桃、佛手柑與白花香氣",
+      "taste": "啜吸時可感受到檸檬皮、柚子及水蜜桃風味，夾帶著佛手柑及梔子花香，餘韻帶有蜂蜜及紅茶香氣，風味乾淨柔美"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 430/KG",
+        "30KG_GP_inner_bag": "NT$ 410/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 古吉 布莉禾拉 G1",
+    "english_name": "Ethiopia Guji Bule Hora Washed G1",
+    "metrics": {
+      "AW": 0.49,
+      "Body": 9.1,
+      "Flavor": 844
+    },
+    "flavor_profile": {
+      "dry_aroma": "水蜜桃、佛手柑、蜂蜜與甜美雞蛋花香",
+      "taste": "入口風味以檸檬卡士達、水蜜桃及佛手柑交織而成，伴隨著柚子茶與雞蛋花香氣，香甜飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 415/KG",
+        "30KG_GP_inner_bag": "NT$ 395/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 希達馬 班莎 聖塔維尼 G1",
+    "english_name": "Ethiopia Sidama Bensa Shantawene Washed G1",
+    "metrics": {
+      "AW": 0.55,
+      "Body": 10.3,
+      "Flavor": 831
+    },
+    "flavor_profile": {
+      "dry_aroma": "萊姆、柑橘與蜂蜜香氣",
+      "taste": "入口可感受到檸檬皮、柚子風味，伴隨著柑橘、蜂蜜與紅茶香氣，風味香甜乾淨"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 410/KG",
+        "30KG_GP_inner_bag": "NT$ 390/KG"
+      }
+    ],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 利姆 季洛 G1",
+    "english_name": "Ethiopia Limu Gera Washed G1",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 10.2,
+      "Flavor": 823
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、柑橘與太妃糖香氣",
+      "taste": "入口可感受到橙汁、橘皮風味，伴隨著紅茶、淡淡桃子氣息與可可餘韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 375/KG",
+        "30KG_GP_inner_bag": "NT$ 355/KG"
+      }
+    ],
+    "notes": [],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 卡法 Wush Wush G1",
+    "english_name": "Ethiopia Keffa Wush Wush Washed G1",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.4,
+      "Flavor": 854
+    },
+    "flavor_profile": {
+      "dry_aroma": "橙皮、葡萄柚與蜂蜜香氣",
+      "taste": "啜吸時可感受到檸檬、柳橙風味，伴隨著香甜蜂蜜及輕盈佛手柑香氣，口感柔滑飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 360/KG",
+        "30KG_GP_inner_bag": "NT$ 345/KG"
+      }
+    ],
+    "notes": [],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 耶珈雪啡 紅蜜處理 G1",
+    "english_name": "Ethiopia Yirgacheffe Red Honey G1",
+    "metrics": {
+      "AW": 0.62,
+      "Body": 10.8,
+      "Flavor": 876
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、水蜜桃、佛手柑及甜花香",
+      "taste": "一入口可感受到鮮明的檸檬卡士達醬、佛手柑、白桃可爾必思風味及柔滑口感，夾帶著蜂蜜、細緻咖啡花香氣並延續至餘韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 435/KG",
+        "30KG_GP_inner_bag": "NT$ 415/KG",
+        "notes": "最後 74.69KG"
+      }
+    ],
+    "notes": [],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "衣索比亞 水洗 西達馬 阿貝果納 G1",
+    "english_name": "Ethiopia Sidama Arbegona Washed G1",
+    "metrics": {
+      "AW": 0.62,
+      "Body": 10.5,
+      "Flavor": 854
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬卡士達、白柚、佛手柑及紅茶香氣",
+      "taste": "一入口可感受到鮮明的檸檬皮、蜂蜜柚子茶風味，伴隨著佛手柑、白桃及輕盈花香，尾段帶有蜂蜜香氣，風味香甜細緻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 410/KG",
+        "discounted_5KG_bulk": "NT$ 330/KG",
+        "30KG_GP_inner_bag": "NT$ 390/KG",
+        "discounted_30KG_GP_inner_bag": "NT$ 310/KG",
+        "notes": "出清特惠"
+      }
+    ],
+    "notes": [],
+    "country": "Ethiopia",
+    "category": "Washed_Honey"
+  },
+  {
+    "name": "世界冠軍 BergWu 冠軍特選系列 - 肯亞 AB TOP 25/01 批次",
+    "english_name": "Berg Wu Maker Series Selection Kenya AB TOP Lot S25/01",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.3,
+      "Flavor": 848
+    },
+    "flavor_profile": {
+      "dry_aroma": "香甜撲鼻的水蜜桃、佛手柑、蔓越莓及花香",
+      "taste": "以檸檬皮、水蜜桃、伯爵茶風味為主軸，夾帶芬芳白花香氣，尾段帶有蔓越莓及黑醋栗氣息，花果風味馥郁鮮明"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 555/KG",
+        "30KG_GP_inner_bag": "NT$ 535/KG"
+      }
+    ],
+    "country": "World_Champion_Series",
+    "category": "items"
+  },
+  {
+    "name": "肯亞 西部東非大裂谷產區 可立秋鎮 桑格莊園 AA Top",
+    "english_name": "Kenya Rift Valley Kericho Sang Estate AA TOP",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.5,
+      "Flavor": 808
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑醋栗、黑李及蜜餞香氣",
+      "taste": "入口同樣以黑莓、黑醋栗與黑李為主軸，伴隨著仙楂及李子蜜餞風味，多汁、強勁扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 480/KG",
+        "15KG_vacuum_pack": "NT$ 470/KG",
+        "30KG_vacuum_box": "NT$ 460/KG"
+      }
+    ],
+    "country": "Kenya",
+    "category": null
+  },
+  {
+    "name": "肯亞 西部東非大裂谷產區 可立秋鎮 卡莫托處理廠 AA Top",
+    "english_name": "Kericho Rift Valley Kericho Kamotos AA TOP",
+    "metrics": {
+      "AW": 0.57,
+      "Body": 10.1,
+      "Flavor": 847
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑醋栗與烏梅香氣",
+      "taste": "入口同樣以黑莓、黑醋栗為主軸，中後段浮現酸梅汁及淡淡烏梅氣息，飽滿扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 460/KG",
+        "15KG_vacuum_pack": "NT$ 450/KG",
+        "30KG_vacuum_box": "NT$ 440/KG"
+      }
+    ],
+    "country": "Kenya",
+    "category": null
+  },
+  {
+    "name": "肯亞 AA Plus",
+    "english_name": "Kenya AA Plus",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.4,
+      "Flavor": 821
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑李、葡萄柚及可可香氣",
+      "taste": "啜吸時以黑莓、黑醋栗及煙燻烏梅風味為主調，中後段浮現焦糖及可可餘韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 360/KG",
+        "15KG_vacuum_pack": "NT$ 350/KG",
+        "30KG_vacuum_box": "NT$ 340/KG"
+      }
+    ],
+    "country": "Kenya",
+    "category": null
+  },
+  {
+    "name": "盧安達 西部省 路希羅區 布果伊處理廠 水洗處理 (2023 產季)",
+    "english_name": "Rwanda Western Province Bugoyi Washed Lot 64E",
+    "metrics": {
+      "AW": 0.62,
+      "Body": 11.3,
+      "Flavor": 818
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、橘皮、可可香氣",
+      "taste": "入口可感受到柑橘、葡萄柚、黑莓風味，餘韻浮現太妃糖香氣，明亮飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 390/KG",
+        "30KG_GP_inner_bag": "NT$ 370/KG"
+      }
+    ],
+    "country": "Rwanda",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 塔拉珠 艾瑞斯蜜神 紅蜜處理 24/03 批次",
+    "english_name": "Costa Rica Tarrazu Aris Red Honey Lot.24/03",
+    "metrics": {
+      "AW": 0.56,
+      "Body": 10.5,
+      "Flavor": 834
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、橘皮、太妃糖及椹果香氣",
+      "taste": "入口同樣以柑橘、橘皮與葡萄柚為主軸，伴隨著榛果及太妃糖餘韻，口感滑順、飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 390/KG",
+        "30KG_GP_inner_bag": "NT$ 370/KG",
+        "notes": "2024 最新產季到貨, 30KG 全彩小麻袋, 2021.03 Coffee Review 94 分, 2020.02 Coffee Review 95 分"
+      }
+    ],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 塔拉珠 花崗岩處理廠 天堂莊園 瑰夏種 紅蜜處理",
+    "english_name": "Costa Rica Tarrazu Granitos de Altura Micromill El Paraiso Geisha Red Honey",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.8,
+      "Flavor": 844
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、桃子及莓果香氣",
+      "taste": "入口可感受到桃子、柳橙、紅茶風味，伴隨著淡淡草莓及花香氣息，口感滑順、風味乾淨"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 950/KG",
+        "23KG_vacuum_box": "NT$ 920/KG",
+        "notes": "2024 最新產季到貨, 最後 3.01KG"
+      }
+    ],
+    "notes": [],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 塔拉珠 聖特蕾莎處理廠 瑰夏/衣索比亞種 紅蜜處理",
+    "english_name": "Costa Rica Tarrazu Santa Teresa Geisha/Ethiopia Red Honey 2000M",
+    "metrics": {
+      "AW": 0.51,
+      "Body": 9.2,
+      "Flavor": 862
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、桃子、紅茶與花香",
+      "taste": "入口可感受到柚子茶、橘汁及桃子風味，伴隨著淡淡草莓、蜂蜜與花香，如乳酸飲料般的絲滑口感"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 830/KG",
+        "23KG_vacuum_box": "NT$ 800/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "notes": [],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 西部谷地 橘郡 舒瑪瓦微處理廠 肯亞種 白蜜處理",
+    "english_name": "Costa Rica West Valley Naranjo La Rejolla Farm Sumava Micromill Kenia White Honey",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 11.0,
+      "Flavor": 837
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑李與橘皮香氣",
+      "taste": "入口即可感受到黑莓、黑醋栗及黑李深邃風味，中後段浮現橘皮、淡淡洛神與肉桂餘韻，強勁扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 580/KG",
+        "23KG_vacuum_box": "NT$ 560/KG"
+      }
+    ],
+    "notes": [],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 塔拉珠 龐特微處理廠 南方莊園卡杜艾 日曬",
+    "english_name": "Costa Rica Tarrazu Puente Micromill El Sur Farm Catuai Natural",
+    "metrics": {
+      "AW": 0.59,
+      "Body": 11.2,
+      "Flavor": 832
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、葡萄及葡萄乾香氣",
+      "taste": "入口可感受到黑莓、葡萄風味，中後段浮現葡萄乾、芒果乾與可可餘韻，強勁扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 465/KG",
+        "30KG_GP_inner_bag": "NT$ 445/KG"
+      }
+    ],
+    "notes": [],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 塔拉珠 帕米切爾處理廠 克里斯提安 卡杜拉/卡杜艾 日曬",
+    "english_name": "Costa Rica Tarrazu Pamichal Cristian Alvarez Caturra Catuai Natural",
+    "metrics": {
+      "AW": 0.6,
+      "Body": 10.9,
+      "Flavor": 820
+    },
+    "flavor_profile": {
+      "dry_aroma": "草莓、芒果乾及巧克力香氣",
+      "taste": "入口可感受到莓果、芒果乾風味，夾帶著葡萄乾、榛果與可可餘韻，飽滿扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 450/KG",
+        "30KG_GP_inner_bag": "NT$ 430/KG"
+      }
+    ],
+    "notes": [],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "哥斯大黎加 西部谷地 橘郡 珍珠處理廠 肯亞種 白蜜處理",
+    "english_name": "Costa Rica West Valley Naranjo La Perla Del Café Micromill Kenya White Honey",
+    "metrics": {
+      "AW": 0.53,
+      "Body": 10.5,
+      "Flavor": 832
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑醋栗、葡萄乾香氣",
+      "taste": "入口時以深邃的黑莓、黑醋栗為主軸，伴隨著橘汁、蔓越莓與仙楂風味，明亮多汁"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 510/KG",
+        "23KG_vacuum_box": "NT$ 490/KG"
+      }
+    ],
+    "notes": [],
+    "country": "Costa_Rica",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 足跡莊園 黃帕卡瑪拉 日曬",
+    "english_name": "Nicaragua Mierisch La Huella Yellow Pacamara Natural",
+    "metrics": {
+      "AW": 0.61,
+      "Body": 11.4,
+      "Flavor": 814
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑醋栗、葡萄汁與莓果香氣",
+      "taste": "啜吸時同樣以黑醋栗、黑莓、葡萄汁風味為主調，伴隨橘皮、葡萄乾與些許烏梅香氣，扎實飽滿，風味深邃強勁"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 720/KG",
+        "34.5KG_box": "NT$ 700/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 喜悅莊園 黃帕卡瑪拉 蜜處理",
+    "english_name": "Nicaragua Mierisch Las Delicias Yellow Pacamara Pulped Natural",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.5,
+      "Flavor": 825
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑醋栗、黑莓、覆盆莓與橘皮香氣",
+      "taste": "仍以黑醋栗軟糖、黑莓與覆盆莓風味為主軸，夾帶著橘皮與輕盈花香，風味深邃飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 700/KG",
+        "34.5KG_box": "NT$ 680/KG",
+        "notes": "2024 最新產季到貨, 最後 2.77KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 愉悅莊園 爪哇種 蜜處理",
+    "english_name": "Nicaragua Mierisch Los Placeres Javanica Pulped Natural",
+    "metrics": {
+      "AW": 0.61,
+      "Body": 10.8,
+      "Flavor": 824
+    },
+    "flavor_profile": {
+      "dry_aroma": "橘皮、蔓越莓乾、紅茶及榛果氣息",
+      "taste": "入口為黑莓、柑橘、柳橙風味，伴隨著西洋梨、紅茶與榛果香氣，乾淨香甜"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 470/KG",
+        "34.5KG_box": "NT$ 450/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 愉悅莊園 爪哇種 水洗",
+    "english_name": "Nicaragua Mierisch Finca Los Placeres Javanica Washed",
+    "metrics": {
+      "AW": 0.5,
+      "Body": 10.5,
+      "Flavor": 792
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、萊姆、西洋梨及紅茶香氣",
+      "taste": "入口可感受到萊姆、柳橙與柑橘香氣，伴隨著些許蜂蜜柚子，餘韻浮現榛果及焦糖香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 430/KG",
+        "34.5KG_box": "NT$ 410/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 愉悅莊園 波旁種 日曬",
+    "english_name": "Nicaragua Mierisch Los Placeres Bourbon Natural",
+    "metrics": {
+      "AW": 0.64,
+      "Body": 11.4,
+      "Flavor": 806
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、橘皮、葡萄乾香氣",
+      "taste": "啜吸時可感受到草莓、芒果與橘汁風味，中後段帶有葡萄乾、榛果香氣及黑巧克力餘韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 370/KG",
+        "34.5KG_box": "NT$ 350/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 足跡莊園 橘波旁 水洗處理",
+    "english_name": "Nicaragua Mierisch Finca La Huella Orange Bourbon Washed",
+    "metrics": {
+      "AW": 0.62,
+      "Body": 11.0,
+      "Flavor": 861
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、柑橘及太妃糖香氣",
+      "taste": "入口為柑橘、柳橙伴隨著黑莓風味，中後段浮現榛果及太妃糖香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 360/KG",
+        "34.5KG_box": "NT$ 340/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 蘇亞塔莊園 卡杜拉 水洗處理",
+    "english_name": "Nicaragua Mierisch Finca El Suyatal Caturra Washed",
+    "metrics": {
+      "AW": 0.62,
+      "Body": 10.8,
+      "Flavor": 819
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑李與橘皮香氣",
+      "taste": "入口為黑李、黑醋栗與橘皮風味，伴隨著些許烏梅、葡萄柚及焦糖香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 350/KG",
+        "30KG_box": "NT$ 330/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 足跡莊園 黃帕卡瑪拉 水洗處理 (2023 產季)",
+    "english_name": "Nicaragua Mierisch Finca La Huella Yellow Pacamara Washed",
+    "metrics": {
+      "AW": 0.6,
+      "Body": 11.2,
+      "Flavor": 851
+    },
+    "flavor_profile": {
+      "dry_aroma": "濃郁的黑醋栗、黑莓與橘皮香氣",
+      "taste": "一入口即可感受到渾厚的黑醋栗果汁、桑葚果醬風味，夾帶著蔓越莓及橘皮香氣，酸值高亢，風味濃郁飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 630/KG",
+        "discounted_5KG_bulk": "NT$ 610/KG",
+        "34.5KG_box": "NT$ 610/KG",
+        "discounted_34.5KG_box": "NT$ 590/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 愉悅莊園 爪哇種 水洗 (2023 產季)",
+    "english_name": "Nicaragua Mierisch Finca Los Placeres Javanica Washed",
+    "metrics": {
+      "AW": 0.57,
+      "Body": 9.9,
+      "Flavor": 834
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、橙皮、蜂蜜及花香氣息",
+      "taste": "啜吸時為柑橘、橙皮、柚子風味，伴隨著輕盈花香、紅茶及蜂蜜香氣，風味香甜乾淨"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 450/KG",
+        "discounted_5KG_bulk": "NT$ 400/KG",
+        "34.5KG_box": "NT$ 430/KG",
+        "discounted_34.5KG_box": "NT$ 380/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 足跡莊園 伊希莎種 日曬低溫厭氧發酵處理 (22/23)",
+    "english_name": "Nicaragua Mierisch Finca La Huella Ethiosar Natural Anaerobic Low Temperature",
+    "metrics": {
+      "AW": 0.56,
+      "Body": 11.4,
+      "Flavor": 848
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、櫻桃、熱帶水果與輕盈酒香",
+      "taste": "入口時為酸甜明亮的蔓越莓、櫻桃與黑莓風味，夾帶著水果酒香，結尾為太妃糖香氣，質地為乳酸飲料似的滑順感"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 470/KG",
+        "discounted_5KG_bulk": "NT$ 380/KG",
+        "34.5KG_box": "NT$ 450/KG",
+        "discounted_34.5KG_box": "NT$ 360/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 愉悅莊園 波旁種 日曬處理 (2023 產季)",
+    "english_name": "Nicaragua Mierisch Finca Los Placeres Bourbon Natural",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 11.8,
+      "Flavor": 836
+    },
+    "flavor_profile": {
+      "dry_aroma": "果醬、莓果葡萄乾及紅茶香氣",
+      "taste": "入口可感受到黑莓、桂圓、酒香風味，伴隨著葡萄柚與橘皮香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 400/KG",
+        "discounted_5KG_bulk": "NT$ 360/KG",
+        "34.5KG_box": "NT$ 380/KG",
+        "discounted_34.5KG_box": "NT$ 340/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 米耶瑞詡家族 足跡莊園 橘波旁 水洗處理 (2023 產季)",
+    "english_name": "Nicaragua Mierisch Finca La Huella Orange Bourbon Washed",
+    "metrics": {
+      "AW": 0.62,
+      "Body": 11.0,
+      "Flavor": 861
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、葡萄柚、紅李與太妃糖香氣",
+      "taste": "啜吸時可感受到橙汁、葡萄柚、紅李風味，伴隨著太妃糖與綠茶香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 380/KG",
+        "discounted_5KG_bulk": "NT$ 350/KG",
+        "34.5KG_box": "NT$ 360/KG",
+        "discounted_34.5KG_box": "NT$ 330/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 希諾特加 阿爾蒂普拉諾莊園 帕卡瑪拉 蜜處理",
+    "english_name": "Nicaragua Jinotega Los Altiplanos Farm Pacamara Honey",
+    "metrics": {
+      "AW": 0.61,
+      "Body": 11.4,
+      "Flavor": 817
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑醋栗、蔓越莓與可可香氣",
+      "taste": "啜吸時為酸甜的黑莓、黑醋、蔓越莓果乾與橘皮風味，中後段帶有太妃糖與可可香氣，口感飽滿厚實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 375/KG",
+        "34.5KG_box": "NT$ 355/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 馬榻戈帕 聖安東尼奧莊園 帕拉伊內瑪 蜜處理",
+    "english_name": "Nicaragua Matagalpa San Antonio Farm Parainema Honey",
+    "metrics": {
+      "AW": 0.67,
+      "Body": 12.0,
+      "Flavor": 792
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑李、葡萄與巧克力香氣",
+      "taste": "入口時同樣以黑莓、黑李、葡萄與莓果風味為主調，隨後浮現葡萄乾、黑巧克力餘韻，風味飽滿扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 360/KG",
+        "30KG_box": "NT$ 355/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 希諾特加 阿爾蒂普拉諾莊園 爪哇長豆種 水洗處理",
+    "english_name": "Nicaragua Jinotega Los Altiplanos Ricardo Java Washed",
+    "metrics": {
+      "AW": 0.64,
+      "Body": 11.8,
+      "Flavor": 799
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、葡萄柚、檸檬與紅茶香氣",
+      "taste": "入口可感受到橘汁、奇異果與李子風味，伴隨蔓越莓乾與黑醋栗氣息，結尾帶有紅茶及焦糖餘韻，酸值明亮"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 360/KG",
+        "30KG_box": "NT$ 340/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 希諾特加 聖塔安娜莊園 爪哇長豆種 水洗處理",
+    "english_name": "Nicaragua Jinotega Santa Ana Aida Lila Zeledon Java Washed",
+    "metrics": {
+      "AW": 0.66,
+      "Body": 12.0,
+      "Flavor": 792
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、橙皮、李子及焦糖香氣",
+      "taste": "入口時可感受到柳橙、萊姆、葡萄柚般柑橘調風味，中後段浮現青蘋果香氣及杏仁瓦片尾韻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 320/KG",
+        "30KG_bulk": "NT$ 300/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 希諾特加 阿爾蒂普拉諾莊園 帕卡瑪拉種 厭氧發酵 蜜處理",
+    "english_name": "Nicaragua Jinotega Estate Los Altiplanos Farm Pacamara Anaerobic Honey",
+    "metrics": {
+      "AW": 0.59,
+      "Body": 11.4,
+      "Flavor": 788
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、黑醋栗及橘皮香氣",
+      "taste": "一入口即可感受到黑醋栗、黑莓風味，中段浮現柳橙及橘皮香氣，結尾帶有可可及葡萄乾，風味深邃厚實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 420/KG",
+        "discounted_5KG_bulk": "NT$ 380/KG",
+        "30KG_box": "NT$ 400/KG",
+        "discounted_30KG_box": "NT$ 360/KG",
+        "notes": "出清特惠"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "尼加拉瓜 馬榻戈帕 聖安東尼奧莊園 帕拉伊內瑪 厭氧發酵 蜜處理",
+    "english_name": "Nicaragua Matagalpa San Antonio Farm Parainema Anaerobic Honey",
+    "metrics": {
+      "AW": 0.6,
+      "Body": 11.6,
+      "Flavor": 799
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、葡萄柚、榛果及蜂蜜香氣",
+      "taste": "啜吸時為柳橙、葡萄柚與柑橘風味，尾段帶有香甜榛果及蜂蜜香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 410/KG",
+        "discounted_5KG_bulk": "NT$ 370/KG",
+        "30KG_box": "NT$ 390/KG",
+        "discounted_30KG_box": "NT$ 350/KG"
+      }
+    ],
+    "country": "Nicaragua",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 拉巴斯省 聯合莊園 亞內斯小農 波旁 日曬處理",
+    "english_name": "Honduras La Paz Finca La Union Yaneth Rodriguez Bourbon Natural 1700M",
+    "metrics": {
+      "AW": 0.6,
+      "Body": 11.0,
+      "Flavor": 810
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、芒果、葡萄乾及太妃糖香氣",
+      "taste": "啜吸時可感受到黑莓、黑櫻桃與些許葡萄風味，中後段帶有葡萄乾及可可香氣，飽滿扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 400/KG",
+        "30KG_box": "NT$ 380/KG",
+        "notes": "2024 最新產季到貨, 最後 1.49KG"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 拉巴斯省 蜜桃莊園 卡洛斯小農 卡杜艾 蜜處理 1650M",
+    "english_name": "Honduras La Paz Finca El Melocoton Carlos Amaya Catuai Honey 1650M #452",
+    "metrics": {
+      "AW": 0.57,
+      "Body": 10.3,
+      "Flavor": 858
+    },
+    "flavor_profile": {
+      "dry_aroma": "李子、龍眼乾與焦糖香氣",
+      "taste": "入口時為李子、甘甜梅粉與橘皮風味，中後段帶有烤杏仁及餅乾香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 390/KG",
+        "30KG_box": "NT$ 370/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 因緹布卡省 松林莊園 西昆迪諾小農 波旁種 水洗 1800M",
+    "english_name": "Honduras Intibuca Finca El Pino Secundino Mazariegos Bourbon Washed 1800M #443",
+    "metrics": {
+      "AW": 0.48,
+      "Body": 8.8,
+      "Flavor": 846
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、蔓越莓與橘皮香氣",
+      "taste": "入口可感受到柑橘、葡萄柚與蔓越莓風味，中後段浮現烤杏仁及焦糖香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 385/KG",
+        "30KG_box": "NT$ 365/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 倫皮拉省 計畫莊園 胡安‧安東尼歐 帕卡斯種 水洗",
+    "english_name": "Honduras Lempira Finca Planes del Zanate Juan Antonio Soto Pacas Washed",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 10.1,
+      "Flavor": 834
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、柚子與榛果香氣",
+      "taste": "入口可感受到柳橙、柚子與萊姆香氣，中後段浮現榛果與焦糖香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 380/KG",
+        "30KG_box": "NT$ 360/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 柯瑪亞果省 松樹莊園 華特小農 提比卡 蜜處理",
+    "english_name": "Honduras Comayagua Finca El Pino Walter Samuel Ramirez LT 1 Typica Semi-Washed",
+    "metrics": {
+      "AW": 0.55,
+      "Body": 10.5,
+      "Flavor": 835
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、白桃與萊姆香氣",
+      "taste": "入口可感受到柑橘、柚子茶與白桃風味，中後段浮現淡淡橙花香及蜂蜜香氣，乾淨細緻"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 370/KG",
+        "30KG_box": "NT$ 350/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 柯瑪亞果省 波提花莊園 法蘭克林小農 紅卡度艾/IH90 蜜處理",
+    "english_name": "Honduras Comayagua Las Botijas El Negro Franklin Nolasco Red Catuai/IH90 Honey",
+    "metrics": {
+      "AW": 0.57,
+      "Body": 10.5,
+      "Flavor": 836
+    },
+    "flavor_profile": {
+      "dry_aroma": "李子、葡萄柚、蔓越莓香氣",
+      "taste": "入口可感受到橘汁、李子、仙楂風味，伴隨著蔓越莓及太妃糖餘韻，口感滑順"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 325/KG",
+        "30KG_GP_inner_bag": "NT$ 305/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "宏都拉斯 柯瑪亞果省 波提花莊園 桑托斯小農 帕卡瑪拉種 水洗",
+    "english_name": "Honduras Comayacua Finca Las Botijas Santos Lorenzo Castellanos LT1 Pacamara Lot#341",
+    "metrics": {
+      "AW": 0.56,
+      "Body": 10.5,
+      "Flavor": 846
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑醋栗、柑橘、太妃糖",
+      "taste": "入口可感受到黑醋栗、黑莓風味，伴隨著葡萄柚及些許煙燻氣息，扎實飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 480/KG",
+        "discounted_5KG_bulk": "NT$ 430/KG",
+        "notes": "最後 14.05KG"
+      }
+    ],
+    "country": "Honduras",
+    "category": null
+  },
+  {
+    "name": "巴拿馬 波奎特 山羊莊園 瑰夏/藝伎 厭氧發酵 日曬處理 C30 批次",
+    "english_name": "Panama Boquete Finca La Cabra Geisha Anaerobic Natural Lot C30",
+    "metrics": {
+      "AW": 0.45,
+      "Body": 8.7,
+      "Flavor": 861
+    },
+    "flavor_profile": {
+      "dry_aroma": "醃漬梅子、葡萄乾及酒香",
+      "taste": "入口可感受到蘭姆酒香、葡萄乾及黑莓風味，伴隨著醃李子、黑櫻桃及醃漬李子香氣，風味強勁、扎實飽滿"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 3950/KG",
+        "notes": "2023 最新產季到貨, 最佳巴拿馬競賽 BOP 常勝莊主 Willem Boot 旗下莊園, 極少量批次，最後 3.1KG"
+      }
+    ],
+    "country": "Panama",
+    "category": "Finca_La_Cabra"
+  },
+  {
+    "name": "巴拿馬 波魁特 阿布莊園 瑰夏/藝伎 水洗處理 2260 批次 (空運批次)",
+    "english_name": "Panama Boquete Abu Geisha Washed #2260",
+    "metrics": {
+      "AW": 0.52,
+      "Body": 9.2,
+      "Flavor": 842
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬卡士達、水蜜桃、佛手柑及茉莉香氣",
+      "taste": "入口以檸檬卡士達、杏桃及茉莉花為風味主軸，伴隨著水蜜桃、佛手柑香氣，細緻優雅，經典藝伎風味作品"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 4250/KG",
+        "15KG_box": "NT$ 4200/KG",
+        "notes": "2024 最新產季到貨, 空運限量批次，僅有 30KG"
+      }
+    ],
+    "country": "Panama",
+    "category": "Abu_Estate"
+  },
+  {
+    "name": "巴拿馬 瓦肯山谷 卡門莊園 瑰夏/藝伎 日曬處理",
+    "english_name": "Panama Volcan Carmen Geisha Natural",
+    "metrics": {
+      "AW": 0.57,
+      "Body": 11.4,
+      "Flavor": 835
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬卡士達、佛手柑、水蜜桃及荔枝香氣",
+      "taste": "入口風味以檸檬皮、佛手柑及水蜜桃為主軸，伴隨著藍莓與荔枝香氣，甜美優雅"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 3950/KG",
+        "22.68KG_box": "NT$ 3900/KG",
+        "notes": "最佳巴拿馬競賽 BOP 常勝莊園"
+      }
+    ],
+    "country": "Panama",
+    "category": "Carmen_Estate"
+  },
+  {
+    "name": "巴拿馬 瓦肯山谷 卡門莊園 瑰夏/藝伎 水洗處理",
+    "english_name": "Panama Volcan Carmen Geisha Washed",
+    "metrics": {
+      "AW": 0.55,
+      "Body": 10.4,
+      "Flavor": 817
+    },
+    "flavor_profile": {
+      "dry_aroma": "佛手柑、檸檬皮及桃子香氣",
+      "taste": "啜飲時可感受到檸檬卡士達、佛手柑為主軸，伴隨茉莉花與甜美的桃子香氣，細緻優雅"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 3750/KG",
+        "22.68KG_box": "NT$ 3700/KG",
+        "notes": "最佳巴拿馬競賽 BOP 常勝莊園, 最後 4.58KG"
+      }
+    ],
+    "country": "Panama",
+    "category": "Carmen_Estate"
+  },
+  {
+    "name": "巴拿馬 聖塔克拉拉 哈特曼 米芬奇塔/我的小莊園 Chicho Gallo 日曬",
+    "english_name": "Panama Santa Clara Hartmann Mi Finquita Chicho Gallo Natural Ref. M",
+    "metrics": {
+      "AW": 0.49,
+      "Body": 9.0,
+      "Flavor": 853
+    },
+    "flavor_profile": {
+      "dry_aroma": "藍莓、草莓、水蜜桃、佛手柑與花香",
+      "taste": "入口時同樣以藍莓果醬、草莓、水蜜桃與荔枝果香風味為主軸，伴隨著佛手柑與馥郁白花香氣，風味甜美迷人"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 3000/KG",
+        "15KG_box": "NT$ 2950/KG",
+        "notes": "極少量批次, 2022 年 BOP 競賽特定品種組冠軍 – 相同生產者及品種"
+      }
+    ],
+    "country": "Panama",
+    "category": "Hartmann"
+  },
+  {
+    "name": "巴拿馬 圓石 花蝴蝶 100% 瑰夏 厭氧日曬 ASD 03 批次",
+    "english_name": "Panama Florsa 100% Geisha ASD Natural Lot 03",
+    "metrics": {
+      "AW": 0.58,
+      "Body": 10.4,
+      "Flavor": 820
+    },
+    "flavor_profile": {
+      "dry_aroma": "百香果、鳳梨、莓果與酒香",
+      "taste": "入口時可感受到強勁飽滿的金鑽鳳梨、百香果風味夾帶著輕盈蘭姆酒香，隨後浮現草莓與桃子氣息，風味厚實甜美"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 850/KG",
+        "discounted_5KG_bulk": "NT$ 780/KG",
+        "30KG_inner_bag": "NT$ 820/KG",
+        "discounted_30KG_inner_bag": "NT$ 750/KG",
+        "notes": "出清特惠"
+      }
+    ],
+    "country": "Panama",
+    "category": "Florsa"
+  },
+  {
+    "name": "玻利維亞 卡拉納比 阿拉西塔莊園 瑰夏/藝伎 粉紅蜜處理",
+    "english_name": "Bolivia Caranavi Alasitas Geisha Pink Honey Lot 24",
+    "metrics": {
+      "AW": 0.51,
+      "Body": 9.3,
+      "Flavor": 757
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、柚子、蜂蜜及微花香",
+      "taste": "啜吸時可感受到甜橙、黃檸檬與蜂蜜柚子茶風味，伴隨著輕盈白花氣息及龍眼蜜香氣，香甜柔順"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 2500/KG",
+        "5KG_bulk": "NT$ 2450/KG",
+        "20KG_box": "NT$ 2400/KG",
+        "notes": "2024 最新產季到貨, 極少量批次"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 聖塔克魯茲產區 曼陀羅(薩瑪帕塔遺址)莊園 Batian 單一品種 二氧化碳浸漬日曬",
+    "english_name": "Bolivia Samaipata Finca Floripondio Batian Carbonic Natural Lot 16",
+    "metrics": {
+      "AW": 0.55,
+      "Body": 10.2,
+      "Flavor": 832
+    },
+    "flavor_profile": {
+      "dry_aroma": "葡萄、醃漬鳳梨、莓果與酒香",
+      "taste": "一入口為濃郁的紫葡萄、黑櫻桃醬與輕盈蘭姆酒香，結尾帶有黑巧克力及葡萄乾餘韻，強勁飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 1680/KG",
+        "20KG_box": "NT$ 1630/KG",
+        "notes": "2024 最新產季到貨, 極少量批次"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 卡拉納比 羊駝莊園 爪哇 粉紅蜜處理",
+    "english_name": "Bolivia Caranavi La Llama Java Pink Honey Lot 20",
+    "metrics": {
+      "AW": 0.52,
+      "Body": 9.2,
+      "Flavor": 829
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、柑橘、榛果與莓果氣息",
+      "taste": "啜吸時為柳橙、橘皮與輕盈莓果果香，中後段浮現綠茶、麥芽糖及榛果香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 750/KG",
+        "30KG_GP_inner_bag": "NT$ 730/KG",
+        "notes": "2024 最新產季到貨, 最後 9.29KG"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 卡拉納比 唐卡洛斯莊園 卡杜拉 可可日曬",
+    "english_name": "Bolivia Caranavi Don Carlos Caturra Coco Natural Lot 13",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 9.5,
+      "Flavor": 809
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、橘皮、莓果及烤堅果香氣",
+      "taste": "入口為柑橘、柳橙、蔓越莓乾及莓果風味，中後段帶有杏仁瓦片及葡萄乾香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 600/KG",
+        "30KG_GP_inner_bag": "NT$ 580/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 明日太陽計劃 卡拉納比 泰皮拉亞鎮 卡杜拉 水洗",
+    "english_name": "Bolivia Sol de La Manana Caranavi Taypiplaya Caturra Washed Lot 4",
+    "metrics": {
+      "AW": 0.53,
+      "Body": 9.5,
+      "Flavor": 822
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、柳橙及焦糖香氣",
+      "taste": "入口可感受到橘汁、葡萄柚與李子風味，伴隨著些許蜂蜜紅茶、榛果香氣，明亮多汁"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 460/KG",
+        "30KG_GP_inner_bag": "NT$ 440/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 永加斯 卡拉納比 阿拉西塔莊園 卡杜拉 水洗",
+    "english_name": "Bolivia Caranavi Alasitas Caturra Washed Lot 10",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 9.6,
+      "Flavor": 807
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、榛果及焦糖香氣",
+      "taste": "入口為李子、黑莓及柑橘風味，中後段浮現太妃糖及榛果香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 450/KG",
+        "30KG_GP_inner_bag": "NT$ 430/KG",
+        "notes": "2024 最新產季到貨, 最後 29KG"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 聖塔克魯茲產區 (薩瑪帕塔遺址) 羅德里蓋茲莊園 瑰夏/藝伎 珍珠圓豆 日曬",
+    "english_name": "Bolivia Samaipata Finca Los Rodriguez Geisha Peaberry Natural",
+    "metrics": {
+      "AW": 0.55,
+      "Body": 10.4,
+      "Flavor": 810
+    },
+    "flavor_profile": {
+      "dry_aroma": "水蜜桃、草莓、檸檬皮及花香",
+      "taste": "風味同樣以水蜜桃、草莓與檸檬皮為主軸，伴隨著藍莓、佛手柑及茉莉花香並延續至餘韻，細緻優雅"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 2350/KG",
+        "5KG_bulk": "NT$ 2300/KG",
+        "20KG_box": "NT$ 2250/KG",
+        "notes": "最後 13.11KG"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 聖塔克魯茲產區 (薩瑪帕塔遺址) 羅德里蓋茲莊園 爪哇 水洗",
+    "english_name": "Bolivia Santa Cruz Samaipata Los Rodriguez Java Washed Lot.14",
+    "metrics": {
+      "AW": 0.49,
+      "Body": 8.8,
+      "Flavor": 797
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、葡萄柚與蔓越莓香氣",
+      "taste": "入口時為明亮的橘汁、蔓越莓與橙皮風味，中後段帶有蜂蜜及杏仁瓦片香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 600/KG",
+        "20KG_box": "NT$ 580/KG",
+        "notes": "最後 4.43KG"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 明日太陽計劃 卡拉納比 艾米里奧·帕利 卡杜拉/卡杜艾 水洗",
+    "english_name": "Bolivia Sol de La Manana Caranavi Emilio Palli Caturra/Catuai Washed Lot.1",
+    "metrics": {
+      "AW": 0.5,
+      "Body": 9.5,
+      "Flavor": 844
+    },
+    "flavor_profile": {
+      "dry_aroma": "橘皮、葡萄柚及蔓越莓香氣",
+      "taste": "啜吸時為酸甜明亮的橘汁、葡萄柚、蔓越莓及黑莓風味，結尾帶有焦糖香氣，香甜多汁"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 440/KG",
+        "30KG_GP_inner_bag": "NT$ 420/KG"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "玻利維亞 永加斯 卡拉納比 唐卡洛斯莊園 羅德里蓋茲小農 卡杜拉 水洗",
+    "english_name": "Bolivia Yungas Caranavi Don Carlos Los Rodriguez Caturra Washed Lot.4",
+    "metrics": {
+      "AW": 0.51,
+      "Body": 10.1,
+      "Flavor": 842
+    },
+    "flavor_profile": {
+      "dry_aroma": "橘皮、葡萄柚及李子香氣",
+      "taste": "啜吸時以橘汁、葡萄柚及李子為主軸，中段浮現輕盈莓果香氣，結尾為焦糖及榛果香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 430/KG",
+        "30KG_GP_inner_bag": "NT$ 410/KG",
+        "notes": "最後 64KG"
+      }
+    ],
+    "country": "Bolivia",
+    "category": null
+  },
+  {
+    "name": "秘魯 庫斯科 阿瑪邦巴 新希望莊園 路西歐小農 藝伎/瑰夏 水洗",
+    "english_name": "Peru Amaybamba Finca Nueva Esperanza Lucio Luque Geisha Washed",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 9.8,
+      "Flavor": 839
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、柚子茶、佛手柑與桃子香氣",
+      "taste": "啜飲入口可感受到檸檬紅茶、柚子與佛手柑風味，伴隨著桃子、蜂蜜與淡淡茉莉香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 930/KG",
+        "30KG_GP_inner_bag": "NT$ 900/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Peru",
+    "category": null
+  },
+  {
+    "name": "秘魯 庫斯科 帕卡帕塔 幽香莊園 納達小農 藝伎/瑰夏 水洗",
+    "english_name": "Peru Cusco Paccaypata Finca Aromas Escondidas Neyda Csas Hurbina Geisha Washed",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 9.5,
+      "Flavor": 845
+    },
+    "flavor_profile": {
+      "dry_aroma": "柳橙、紅茶、佛手柑與蜂蜜香氣",
+      "taste": "入口可感受到橘汁、柳橙與萊姆風味，中後段浮現佛手柑、蜂蜜與水蜜桃氣息"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 900/KG",
+        "30KG_GP_inner_bag": "NT$ 870/KG",
+        "notes": "2024 最新產季到貨"
+      }
+    ],
+    "country": "Peru",
+    "category": null
+  },
+  {
+    "name": "哥倫比亞 考卡省 天堂莊園【雙重厭氧 月光女神 Luna Geisha】",
+    "english_name": "Colombia Cauca Finca El Paraiso Double Anaerobic Luna Geisha",
+    "metrics": {
+      "AW": 0.61,
+      "Body": 11.2,
+      "Flavor": 816
+    },
+    "flavor_profile": {
+      "dry_aroma": "濃郁的葡萄軟糖、草莓果醬、可爾必思及花香",
+      "taste": "葡萄芬達、草莓軟糖、藍莓般的香甜風味，伴隨著水蜜桃及佛手柑香氣，風味濃郁甜美"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 2720/KG",
+        "24KG_box": "NT$ 2650/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Finca_El_Paraiso"
+  },
+  {
+    "name": "哥倫比亞 考卡省 天堂莊園【Letty 公主 黃瑰夏】",
+    "english_name": "Colombia Cauca Finca El Paraiso Anaerobic Thermal Shock Letty Yellow Geisha",
+    "metrics": {
+      "AW": 0.59,
+      "Body": 11.0,
+      "Flavor": 808
+    },
+    "flavor_profile": {
+      "dry_aroma": "香甜撲鼻的水蜜桃、荔枝、草莓及玫瑰花香",
+      "taste": "延續至啜吸，以水蜜桃可爾必思、荔枝軟糖風味為主軸，伴隨著細緻的佛手柑及玫瑰花香，風味甜美迷人"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 2720/KG",
+        "24KG_box": "NT$ 2650/KG",
+        "notes": "2024 最新產季到貨, 極少量批次"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Finca_El_Paraiso"
+  },
+  {
+    "name": "哥倫比亞 考卡省 天堂莊園【吟釀 瑰夏 Geisha Sake】",
+    "english_name": "Colombia Cauca Finca El Paraiso Lactic Thermal Shock Geisha Sake",
+    "metrics": {
+      "AW": 0.59,
+      "Body": 10.9,
+      "Flavor": 810
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬草、萊姆、薑花及紅茶香氣",
+      "taste": "啜吸時仍以檸檬草、檸檬皮及萊姆風味為主調，夾帶著鮮薑及輕盈花香，風味清新鮮明"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 2770/KG",
+        "5KG_bulk": "NT$ 2720/KG",
+        "24KG_box": "NT$ 2650/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Finca_El_Paraiso"
+  },
+  {
+    "name": "哥倫比亞 考卡省 天堂莊園【雙重厭氧 青檸香頌】",
+    "english_name": "Colombia Cauca Finca El Paraiso Double Anaerobic Limone Adante",
+    "metrics": {
+      "AW": 0.57,
+      "Body": 10.6,
+      "Flavor": 829
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、薄荷、橘皮香氣",
+      "taste": "入口以檸檬皮、橘皮、薄荷為主軸，伴隨著些許檸檬草、香橙及桃子風味，餘韻帶有榛太妃糖香氣"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 790/KG",
+        "24KG_box": "NT$ 770/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Finca_El_Paraiso"
+  },
+  {
+    "name": "哥倫比亞 卡爾達斯 聖荷西莊園 小荳蔻 日曬",
+    "english_name": "Colombia Caldas Finca San Jose Cardamom Natural",
+    "metrics": {
+      "AW": 0.63,
+      "Body": 11.8,
+      "Flavor": 865
+    },
+    "flavor_profile": {
+      "dry_aroma": "檸檬皮、香茅、薄荷與鮮薑香氣",
+      "taste": "入口即可感受到新鮮檸檬皮、檸檬香茅風味，夾帶著薑與薄荷香氣，風味鮮明突出"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 680/KG",
+        "discounted_5KG_bulk": "NT$ 660/KG",
+        "20KG_box": "NT$ 660/KG",
+        "discounted_20KG_box": "NT$ 640/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "General"
+  },
+  ,
+  {
+    "name": "哥倫比亞 金迪歐 伊甸園 露斯·海倫娜小農 馬拉瑰夏/藝伎 日曬",
+    "english_name": "Colombia Quindio Jardines del Eden Maragesha Natural",
+    "metrics": {
+      "AW": 0.63,
+      "Body": 10.7,
+      "Flavor": 799
+    },
+    "flavor_profile": {
+      "dry_aroma": "柚子、橘皮、紅茶與花香",
+      "taste": "入口可感受到橘皮、葡萄柚、柚子茶風味，夾帶著淡淡茉莉花香，中後段浮現深色莓果香氣，扎實飽滿"
+    },
+    "pricing": [
+      {
+        "1KG_bulk": "NT$ 3550/KG",
+        "24KG_box": "NT$ 3500/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Jardines_del_Eden"
+  },
+  {
+    "name": "哥倫比亞 金迪歐 卡斯堤昂莊園 海洛‧阿爾席拉小農 瑰夏/藝伎 日曬",
+    "english_name": "Colombia Quindio Finca Castellon Jairo Arcila Gesha Natural",
+    "metrics": {
+      "AW": 0.67,
+      "Body": 11.1,
+      "Flavor": 809
+    },
+    "flavor_profile": {
+      "dry_aroma": "黑莓、櫻桃、酒漬葡萄乾香氣",
+      "taste": "入口時可感受到黑莓、葡萄與酒香，隨後浮現桃子及花香，餘韻帶有佛手柑香氣，風味強勁飽滿"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 1050/KG",
+        "35KG_GP_inner_bag": "NT$ 1000/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Castellon"
+  },
+  {
+    "name": "哥倫比亞 金迪歐 伊甸園 露斯·海倫娜小農 鮮橘發酵 水洗處理",
+    "english_name": "Colombia Quindio Jardines de Eden Luz Helena Mandarin Washed",
+    "metrics": {
+      "AW": 0.69,
+      "Body": 11.9,
+      "Flavor": 832
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘精油、鮮撥橘皮、檸檬皮香氣",
+      "taste": "入口以柑橘精油與橘皮為主，夾帶檸檬草、香茅與金桔氣息，風味鮮明清新"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 620/KG",
+        "35KG_GP_inner_bag": "NT$ 600/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Jardines_del_Eden"
+  },
+  {
+    "name": "哥倫比亞 薇拉省 維吉尼亞莊園 拉法葉·阿瑪亞小農 卡杜拉 200 小時延長發酵特殊處理",
+    "english_name": "Colombia Huila Finca La Virginia Rafael Amaya Caturra 200 hours Extended Fermentation Natural",
+    "metrics": {
+      "AW": 0.65,
+      "Body": 11.1,
+      "Flavor": 846
+    },
+    "flavor_profile": {
+      "dry_aroma": "酒漬櫻桃、黑莓果醬與葡萄乾香氣",
+      "taste": "入口展現酒漬櫻桃與醃鳳梨風味，中後段帶葡萄乾與黑巧克力香氣，風味強勁扎實"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 600/KG",
+        "35KG_GP_inner_bag": "NT$ 580/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Huila"
+  },
+  {
+    "name": "哥倫比亞 薇拉省 帕萊斯蒂納鎮 波浪莊園 粉紅波旁 水洗",
+    "english_name": "Colombia Huila Palestina Finca La Chorrera Pink Bourbon",
+    "metrics": {
+      "AW": 0.61,
+      "Body": 11.2,
+      "Flavor": 872
+    },
+    "flavor_profile": {
+      "dry_aroma": "橙皮、蜂蜜與桃子氣息",
+      "taste": "啜吸時可感受到香甜的橙汁、蜂蜜及花香氣息，結尾帶有紅茶與橙皮餘韻，質地乾淨"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 560/KG",
+        "35KG_GP_inner_bag": "NT$ 540/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Huila"
+  },
+  {
+    "name": "哥倫比亞 薇拉省 蒙大布蘭蔻(白朗峰)莊園 粉紅波旁 水洗處理",
+    "english_name": "Colombia Huila Finca Monteblanco Rodrigo Sanchez Pink Bourbon Washed",
+    "metrics": {
+      "AW": 0.60,
+      "Body": 11.3,
+      "Flavor": 868
+    },
+    "flavor_profile": {
+      "dry_aroma": "柑橘、葡萄柚、橙皮與紅茶香氣",
+      "taste": "啜吸時為明亮的橘汁、葡萄柚風味，伴隨紅茶、蜂蜜與微花氣息，香甜乾淨"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 540/KG",
+        "35KG_GP_inner_bag": "NT$ 520/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Huila"
+  },
+  {
+    "name": "哥倫比亞 考卡省 天堂莊園【雙重厭氧 荳蔻年華】",
+    "english_name": "Colombia Cauca Finca El Paraiso Double Anaerobic Floral Spices",
+    "metrics": {
+      "AW": 0.54,
+      "Body": 10.2,
+      "Flavor": 854
+    },
+    "flavor_profile": {
+      "dry_aroma": "荳蔻、丁香、八角等濃厚香料香氣",
+      "taste": "啜吸時以八角、荳蔻、丁香風味為主調，並帶有橘汁酸甜感，風味別具一格"
+    },
+    "pricing": [
+      {
+        "5KG_bulk": "NT$ 760/KG",
+        "discounted_5KG_bulk": "NT$ 660/KG",
+        "30KG_box": "NT$ 740/KG",
+        "discounted_30KG_box": "NT$ 640/KG"
+      }
+    ],
+    "country": "Colombia",
+    "category": "Finca_El_Paraiso"
+  }
+]

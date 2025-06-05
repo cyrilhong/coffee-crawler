@@ -1,0 +1,225 @@
+{
+    "products": [
+        {
+            "code": "A24W1_332",
+            "grade": "G1",
+            "type": "水洗",
+            "name": "西阿瑞斯 南山波",
+            "country": "衣索比亞",
+            "flavor_profile": "黃檸檬/柚子果醬/花蜜",
+            "water_content": 10.5,
+            "defect_rate": "1.1%",
+            "density": 889,
+            "elevation": 2093,
+            "pricing": {
+                "1kg": 480,
+                "5kg": 450,
+                "30kg": 420
+            }
+        },
+        {
+            "code": "AK24WA_1547",
+            "grade": "AA",
+            "type": "水洗",
+            "name": "涅里 姬鵲 AA",
+            "country": "肯亞",
+            "flavor_profile": "柚花/香檸/香草糖",
+            "water_content": 11.1,
+            "defect_rate": "0.5%",
+            "density": 883,
+            "elevation": 1795,
+            "varieties": "SL28, SL34, Ruirul-1, Batian",
+            "pricing": {
+                "1kg": 480,
+                "5kg": 450,
+                "30kg": 340,
+                "special_price": true
+            }
+        },
+        {
+            "code": "AK24WB_489",
+            "grade": "AB",
+            "type": "水洗",
+            "name": "恩布 凱戈睿 AB 多門 真空包",
+            "flavor_profile": "黑醋栗/李子/蜜香紅茶",
+            "water_content": 12,
+            "defect_rate": "1.2%",
+            "density": 901,
+            "elevation": 1635,
+            "varieties": "SL28, Ruirull, Batian",
+            "pricing": {
+                "1kg": 480,
+                "5kg": 450,
+                "30kg": 420,
+                "special_price_30kg": 340
+            }
+        },
+        {
+            "code": "AK24WP_490",
+            "grade": "PB",
+            "type": "水洗",
+            "name": "恩布 凱戈睿 PB多門",
+            "flavor_profile": "蜜柚/黃檸檬/甜青梅",
+            "country": "肯亞",
+            "water_content": 11.9,
+            "defect_rate": "2%",
+            "density": 876,
+            "elevation": 1635,
+            "varieties": "SL28, Ruiruil, Batian",
+            "pricing": {
+                "1kg": 480,
+                "5kg": 450,
+                "30kg": 420
+            }
+        },
+        {
+            "code": "AK24WP_491",
+            "grade": "PB",
+            "type": "水洗",
+            "name": "恩布 凱戈睿 AB 多門 真空包",
+            "flavor_profile": "黑醋栗/李子/蜜香紅茶",
+            "water_content": 12,
+            "defect_rate": "1.2%",
+            "density": 901,
+            "elevation": 1635,
+            "varieties": "SL28, Ruirull, Batian",
+            "pricing": {
+                "1kg": 480,
+                "5kg": 450,
+                "30kg": 420,
+                "special_price_30kg": 340
+            }
+        },
+        {
+            "code": "AK24WP _491",
+            "grade": "PB",
+            "type": "水洗",
+            "name": "凱圖卡薩德 PB 多門",
+            "flavor_profile": "白花香/覆盆子/水果軟糖",
+            "water_content": 11.1,
+            "defect_rate": "1%",
+            "density": 885,
+            "elevation": 1400,
+            "varieties": "SL28, SL34, Ruirul1, Batian",
+            "pricing": {
+                "1kg": 540,
+                "5kg": 510,
+                "30kg": 480
+            }
+        },
+        {
+            "code": "A24N1_1246",
+            "grade": "G1",
+            "type": "日曬",
+            "name": "古吉 烏菈嘎",
+            "flavor_profile": "莓果/葡萄乾/紅玉紅茶",
+            "water_content": 12.1,
+            "defect_rate": "3%",
+            "density": 891,
+            "elevation": 2095,
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 360
+            }
+        },
+        {
+            "code": "A24N1_1248",
+            "grade": "G1",
+            "type": "日曬",
+            "name": "西達摩 仙特薇",
+            "flavor_profile": "茉莉花/香吉士/水果糖",
+            "water_content": 11.4,
+            "defect_rate": "2.8%",
+            "density": 890,
+            "elevation": 2190,
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 360
+            }
+        },
+        {
+            "code": "A24N1_1250",
+            "grade": "G1",
+            "type": "日曬",
+            "name": "柯契爾 畢蘿亞",
+            "flavor_profile": "桂花/覆盆子/水果糖",
+            "water_content": 12.2,
+            "defect_rate": "2.7%",
+            "density": 887,
+            "elevation": 1719,
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 390
+            }
+        },
+        {
+            "code": "A24N1_1252",
+            "grade": "G1",
+            "type": "日曦",
+            "name": "西達摩 班薩 慢乾",
+            "flavor_profile": "莓果/蜜李/糖漬橙片",
+            "water_content": 11.6,
+            "defect_rate": "2.6%",
+            "density": 885,
+            "elevation": 2122,
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 390,
+                "special_price_30kg": 360
+            }
+        },
+        {
+            "code": "A24N1_1249",
+            "grade": "G1",
+            "type": "日囉",
+            "flavor_profile": "白柚/杏桃乾/茶糖",
+            "water_content": 11.5,
+            "defect_rate": "2.8%",
+            "density": 882,
+            "elevation": 1865,
+            "name": "耶家雪夫 恰恰蕾",
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 390
+            }
+        },
+        {
+            "code": "A24N1_1251",
+            "flavor_profile": "桂花/覆盆子/水果糖",
+            "water_content": 12.2,
+            "defect_rate": "2.7%",
+            "density": 887,
+            "elevation": 1719,
+            "grade": "G1",
+            "type": "日踊",
+            "name": "柯契爾 畢蘿亞",
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 390
+            }
+        },
+        {
+            "code": "",
+            "grade": "",
+            "type": "",
+            "name": "西達摩 班薩 慢乾",
+            "flavor_profile": "莓果/蜜李/糖漬橙片",
+            "water_content": 11.6,
+            "defect_rate": "2.6%",
+            "density": 885,
+            "elevation": 2122,
+            "pricing": {
+                "1kg": 450,
+                "5kg": 420,
+                "30kg": 390,
+                "special_price_30kg": 360
+            }
+        }
+    ]
+}

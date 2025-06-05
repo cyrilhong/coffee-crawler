@@ -1,0 +1,2311 @@
+[
+    {
+        "product_code": "PM021",
+        "year": "2025",
+        "new": true,
+        "name": "巴拿馬 波奎特 波琳娜莊園 Panama Boquete Finca Berlina Geisha Natural",
+        "description": "莓果、甜橙、萊姆·鮮奶油風味，柔滑口感·乾香·酸質，乾香·滑香·核桃",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 833,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 700
+                },
+                {
+                    "type": "5KG",
+                    "price": 730
+                },
+                {
+                    "type": "1KG",
+                    "price": 770
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM008",
+        "year": "2024",
+        "new": true,
+        "name": "巴拿馬 90+系列 藝妓 Thermolic™ Blend Panama Ninety Plus Gesha Estates Thermolic™ Geisha Blend",
+        "description": "柬子·深色莓果·百香果·鳳梨·巧克力·香料·黑糖·酒香",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 816,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 1280
+                },
+                {
+                    "type": "5KG",
+                    "price": 1330
+                },
+                {
+                    "type": "1KG",
+                    "price": 1380
+                }
+            ]
+        },
+        "process": "Ninety Plus"
+    },
+    {
+        "product_code": "CB028",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 芬卡 Anaya Red Bourbon Anaerobic Natural",
+        "description": "玫瑰花·玫瑰果·草莓·甜醋",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Anaerobic Natural"
+    },
+    {
+        "product_code": "CB037",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 Mejorado Typica Mejorado特殊水洗",
+        "description": "甜瓜·嗜酸瓜·蜂蜜·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB038",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 Pacamara 特殊水洗 Yellow Pacamara Washed",
+        "description": "蜜桃·杏桃·萊姆·土芒果",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 842,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "20KG",
+                    "price": 800
+                },
+                {
+                    "type": "5KG",
+                    "price": 830
+                },
+                {
+                    "type": "1KG",
+                    "price": 870
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "ET034",
+        "year": "2024",
+        "new": true,
+        "name": "衣索比亞 谷吉 安納索拉莊園 Ethiopia Guji Anasora Washed G1",
+        "description": "柑橘·橙皮·綠茶·堅果·香草·蜜糖·咖啡餅",
+        "price_info": {
+            "discount": "10.8%",
+            "price_per_gram": 825,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 390
+                },
+                {
+                    "type": "5KG",
+                    "price": 420
+                },
+                {
+                    "type": "1KG",
+                    "price": 460
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CR011",
+        "year": "2024",
+        "new": true,
+        "name": "哥斯達黎加 拉坎迪利亞莊園 Costa Tarrazu La Candelilla Estate Geisha Natural",
+        "description": "葡萄·鮮莓·梅果·奶油·堅果·核桃",
+        "price_info": {
+            "discount": "10.4%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price_range": [
+                        800,
+                        750
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        830,
+                        780
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        870,
+                        820
+                    ]
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "CR015",
+        "year": "2024",
+        "new": true,
+        "name": "哥斯達黎加 西部谷地 藍火山莊園 H10日曬 Costa Rica West Valley Volcan Azul H10 Natural",
+        "description": "熱帶水果·鳳梨·芒果·堅果·可可·黑糖",
+        "price_info": {
+            "discount": "10.5%",
+            "price_per_gram": 844,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price_range": [
+                        570,
+                        520
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        600,
+                        550
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        640,
+                        590
+                    ]
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    [
+        {
+            "product_code": "GT001",
+            "year": "2024",
+            "new": false,
+            "name": "瓜地馬拉 薇薇特南果瑰 Guatemala Huehuetenango Maya Washed",
+            "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果·果酸餘韻·層次豐富·醇厚度高",
+            "price_info": {
+                "discount": "11.3%",
+                "price_per_gram": 839,
+                "units": [
+                    {
+                        "type": "Box",
+                        "weight": "30KG",
+                        "price": 340
+                    },
+                    {
+                        "type": "5KG",
+                        "price": 370
+                    },
+                    {
+                        "type": "1KG",
+                        "price": 410
+                    }
+                ]
+            },
+            "process": "Washed"
+        },
+        {
+            "product_code": "CR001",
+            "year": "2024",
+            "new": false,
+            "name": "哥斯大黎加 塔拉茲 瑪麗亞洗 Costa Rica Tarrazu Maria Washed",
+            "description": "柑橘·榛果·杏仁·焦糖·開心果·奶油甜香",
+            "price_info": {
+                "discount": "10.2%",
+                "price_per_gram": 819,
+                "units": [
+                    {
+                        "type": "Bag",
+                        "weight": "35KG",
+                        "price_range": [
+                            460,
+                            430
+                        ]
+                    },
+                    {
+                        "type": "5KG",
+                        "price_range": [
+                            480,
+                            440
+                        ]
+                    },
+                    {
+                        "type": "1KG",
+                        "price_range": [
+                            520,
+                            480
+                        ]
+                    }
+                ]
+            },
+            "process": "Washed"
+        },
+        {
+            "product_code": "CB018",
+            "year": "2023",
+            "new": false,
+            "name": "哥倫比亞 維拉馬利亞發酵 Colombia Villamaria Fermentation Natural",
+            "description": "Body醇和度高",
+            "price_info": {
+                "discount": "9.1%",
+                "price_per_gram": 820,
+                "units": [
+                    {
+                        "type": "Box",
+                        "weight": "10KG",
+                        "price": 1600
+                    },
+                    {
+                        "type": "5KG",
+                        "price": 1700
+                    },
+                    {
+                        "type": "1KG",
+                        "price": 1800
+                    }
+                ]
+            },
+            "process": "Natural"
+        },
+        {
+            "product_code": "PM013",
+            "year": "2024",
+            "new": false,
+            "name": "巴拿馬 麗莉達 蓮花 Lot4 Panama Finca Lerida Ronella Geisha Washed Lot4",
+            "description": "檸檬·菸草·洋蔥·花香·香料·奶油",
+            "price_info": {
+                "discount": "9.7%",
+                "price_per_gram": 820,
+                "units": [
+                    {
+                        "type": "Box",
+                        "weight": "10KG",
+                        "price": 2200
+                    },
+                    {
+                        "type": "5KG",
+                        "price": 2300
+                    },
+                    {
+                        "type": "1KG",
+                        "price": 2400
+                    }
+                ]
+            },
+            "process": "Washed"
+        },
+        {
+            "product_code": "PM011",
+            "year": "2024",
+            "new": false,
+            "name": "巴拿馬 麗莉達 蓮花 Lot5 Panama Finca Lerida Ronella Geisha Washed Lot5",
+            "description": "花香·檸檬·烏龍茶風·香料·奶油",
+            "price_info": {
+                "discount": "9.7%",
+                "price_per_gram": 820,
+                "units": [
+                    {
+                        "type": "Box",
+                        "weight": "10KG",
+                        "price": 2200
+                    },
+                    {
+                        "type": "5KG",
+                        "price": 2300
+                    },
+                    {
+                        "type": "1KG",
+                        "price": 2400
+                    }
+                ]
+            },
+            "process": "Washed"
+        },
+        {
+            "product_code": "PM012",
+            "year": "2024",
+            "new": false,
+            "name": "巴拿馬 麗莉達 蓮花 Lot Loma Panama Finca Lerida Ronella Geisha Washed Lot Loma",
+            "description": "柑橘·檸子·香料·茶風·果酒花·香草",
+            "price_info": {
+                "discount": "9%",
+                "price_per_gram": 829,
+                "units": [
+                    {
+                        "type": "Box",
+                        "weight": "10KG",
+                        "price": 2200
+                    },
+                    {
+                        "type": "5KG",
+                        "price": 2300
+                    },
+                    {
+                        "type": "1KG",
+                        "price": 2400
+                    }
+                ]
+            },
+            "process": "Washed"
+        }
+    ],
+    {
+        "product_code": "GT001",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 薇薇特南果瑰 Guatemala Huehuetenango Maya Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果·果酸餘韻·層次豐富·醇厚度高",
+        "price_info": {
+            "discount": "11.3%",
+            "price_per_gram": 839,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 340
+                },
+                {
+                    "type": "5KG",
+                    "price": 370
+                },
+                {
+                    "type": "1KG",
+                    "price": 410
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CR001",
+        "year": "2024",
+        "new": false,
+        "name": "哥斯大黎加 塔拉茲 瑪麗亞洗 Costa Rica Tarrazu Maria Washed",
+        "description": "柑橘·榛果·杏仁·焦糖·開心果·奶油甜香",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 819,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "35KG",
+                    "price_range": [
+                        460,
+                        430
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        480,
+                        440
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        520,
+                        480
+                    ]
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB018",
+        "year": "2023",
+        "new": false,
+        "name": "哥倫比亞 維拉馬利亞發酵 Colombia Villamaria Fermentation Natural",
+        "description": "Body醇和度高",
+        "price_info": {
+            "discount": "9.1%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 1600
+                },
+                {
+                    "type": "5KG",
+                    "price": 1700
+                },
+                {
+                    "type": "1KG",
+                    "price": 1800
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM013",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot4 Panama Finca Lerida Ronella Geisha Washed Lot4",
+        "description": "檸檬·菸草·洋蔥·花香·香料·奶油",
+        "price_info": {
+            "discount": "9.7%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM011",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot5 Panama Finca Lerida Ronella Geisha Washed Lot5",
+        "description": "花香·檸檬·烏龍茶風·香料·奶油",
+        "price_info": {
+            "discount": "9.7%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM012",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot Loma Panama Finca Lerida Ronella Geisha Washed Lot Loma",
+        "description": "柑橘·檸子·香料·茶風·果酒花·香草",
+        "price_info": {
+            "discount": "9%",
+            "price_per_gram": 829,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT001",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 薇薇特南果瑰 Guatemala Huehuetenango Maya Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果·果酸餘韻·層次豐富·醇厚度高",
+        "price_info": {
+            "discount": "11.3%",
+            "price_per_gram": 839,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 340
+                },
+                {
+                    "type": "5KG",
+                    "price": 370
+                },
+                {
+                    "type": "1KG",
+                    "price": 410
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CR001",
+        "year": "2024",
+        "new": false,
+        "name": "哥斯大黎加 塔拉茲 瑪麗亞洗 Costa Rica Tarrazu Maria Washed",
+        "description": "柑橘·榛果·杏仁·焦糖·開心果·奶油甜香",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 819,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "35KG",
+                    "price_range": [
+                        460,
+                        430
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        480,
+                        440
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        520,
+                        480
+                    ]
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB018",
+        "year": "2023",
+        "new": false,
+        "name": "哥倫比亞 維拉馬利亞發酵 Colombia Villamaria Fermentation Natural",
+        "description": "Body醇和度高",
+        "price_info": {
+            "discount": "9.1%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 1600
+                },
+                {
+                    "type": "5KG",
+                    "price": 1700
+                },
+                {
+                    "type": "1KG",
+                    "price": 1800
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM013",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot4 Panama Finca Lerida Ronella Geisha Washed Lot4",
+        "description": "檸檬·菸草·洋蔥·花香·香料·奶油",
+        "price_info": {
+            "discount": "9.7%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM011",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot5 Panama Finca Lerida Ronella Geisha Washed Lot5",
+        "description": "花香·檸檬·烏龍茶風·香料·奶油",
+        "price_info": {
+            "discount": "9.7%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM012",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot Loma Panama Finca Lerida Ronella Geisha Washed Lot Loma",
+        "description": "柑橘·檸子·香料·茶風·果酒花·香草",
+        "price_info": {
+            "discount": "9%",
+            "price_per_gram": 829,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM021",
+        "year": "2025",
+        "new": true,
+        "name": "巴拿馬 波奎特 波琳娜莊園 Panama Boquete Finca Berlina Geisha Natural",
+        "description": "莓果、甜橙、萊姆·鮮奶油風味，柔滑口感·乾香·酸質，乾香·滑香·核桃",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 833,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 700
+                },
+                {
+                    "type": "5KG",
+                    "price": 730
+                },
+                {
+                    "type": "1KG",
+                    "price": 770
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM006",
+        "year": "2023",
+        "new": false,
+        "name": "K&R Specialty Coffee 藝妓 波奎特 K&R Specialty Coffee Geisha Boquete",
+        "description": "莓果·熱帶水果·百香果·焦糖·花香·奶油·太妃糖·酸質乾淨清爽",
+        "price_info": {
+            "discount": "9.5%",
+            "price_per_gram": 839,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "15KG",
+                    "price_range": [
+                        1800,
+                        1600
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        1900,
+                        1700
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        2000,
+                        1800
+                    ]
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM007",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 90+系列 藝妓 日曬 Blend Panama Ninety Plus Geisha Estates Geisha Blend",
+        "description": "菸草·藍莓·薑黃·柿子·巧克力·香料·黑糖·酒香",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 812,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 1280
+                },
+                {
+                    "type": "5KG",
+                    "price": 1330
+                },
+                {
+                    "type": "1KG",
+                    "price": 1380
+                }
+            ]
+        },
+        "process": "Ninety Plus"
+    },
+    {
+        "product_code": "PM008",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 90+系列 藝妓 Thermolic™ Blend Panama Ninety Plus Gesha Estates Thermolic™ Geisha Blend",
+        "description": "柬子·深色莓果·百香果·鳳梨·巧克力·香料·黑糖·酒香",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 816,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 1280
+                },
+                {
+                    "type": "5KG",
+                    "price": 1330
+                },
+                {
+                    "type": "1KG",
+                    "price": 1380
+                }
+            ]
+        },
+        "process": "Ninety Plus"
+    },
+    {
+        "product_code": "PM009",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 Chiriquí Ponderosa Coffee Estate Geisha Natural",
+        "description": "熱帶水果·菸草·薑果·橙子·可可·淡酒醋香",
+        "price_info": {
+            "discount": "9%",
+            "price_per_gram": 824,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "15KG",
+                    "price": 1500
+                },
+                {
+                    "type": "5KG",
+                    "price": 1600
+                },
+                {
+                    "type": "1KG",
+                    "price": 1700
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM010",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 波奎特 Elida Estate Panama Boquete Elida Estate Natural",
+        "description": "百香果·黑莓·蜜香·黑巧克力·香草·咖啡餅",
+        "price_info": {
+            "discount": "8.7%",
+            "price_per_gram": 849,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "22.7KG",
+                    "price": 820
+                },
+                {
+                    "type": "5KG",
+                    "price": 850
+                },
+                {
+                    "type": "1KG",
+                    "price": 900
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM013",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot4 Panama Finca Lérida Ronella Geisha Washed Lot4",
+        "description": "檸檬·菸草·洋蔥·花香·香料·奶油",
+        "price_info": {
+            "discount": "9.1%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 1600
+                },
+                {
+                    "type": "5KG",
+                    "price": 1700
+                },
+                {
+                    "type": "1KG",
+                    "price": 1800
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM011",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot5 Panama Finca Lérida Ronella Geisha Washed Lot5",
+        "description": "花香·檸檬·烏龍茶風·香料·奶油",
+        "price_info": {
+            "discount": "9.7%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM012",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 麗莉達 蓮花 Lot Loma Ronella藝妓水洗 Lot Loma",
+        "description": "柑橘·檸子·香料·茶風·果酒花·香草",
+        "price_info": {
+            "discount": "9%",
+            "price_per_gram": 829,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "10KG",
+                    "price": 2200
+                },
+                {
+                    "type": "5KG",
+                    "price": 2300
+                },
+                {
+                    "type": "1KG",
+                    "price": 2400
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM015",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 Hartmann Estate Geisha Washed",
+        "description": "檸子·檸檬草·花香·奶油·紅茶",
+        "price_info": {
+            "discount": "9.6%",
+            "price_per_gram": 850,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "15KG",
+                    "price": 2580
+                },
+                {
+                    "type": "5KG",
+                    "price": 2650
+                },
+                {
+                    "type": "1KG",
+                    "price": 2700
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM016",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 Hartmann Estate Geisha Natural",
+        "description": "黑莓·熱帶水果·葡萄·香瓜甜·花香",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 848,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "15KG",
+                    "price": 2750
+                },
+                {
+                    "type": "5KG",
+                    "price": 2800
+                },
+                {
+                    "type": "1KG",
+                    "price": 2850
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM018",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 波奎特 Kotowa Duncan Geisha Natural",
+        "description": "熱帶水果·甜瓜·葡萄·李子·黑莓",
+        "price_info": {
+            "discount": "9.5%",
+            "price_per_gram": 841,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "11.34KG",
+                    "price": 2400
+                },
+                {
+                    "type": "5KG",
+                    "price": 2500
+                },
+                {
+                    "type": "1KG",
+                    "price": 2600
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "PM002",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 波奎特 Lily Washed",
+        "description": "柑橘·李子·紅茶·香草·奶油·核果",
+        "price_info": {
+            "discount": "11.9%",
+            "price_per_gram": 830,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CR011",
+        "year": "2024",
+        "new": false,
+        "name": "哥斯達黎加 拉坎迪利亞莊園 Costa Rica Tarrazu La Candelilla Estate Geisha Natural",
+        "description": "葡萄·鮮莓·梅果·奶油·堅果·核桃",
+        "price_info": {
+            "discount": "10.4%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price_range": [
+                        800,
+                        750
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        830,
+                        780
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        870,
+                        820
+                    ]
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "CR015",
+        "year": "2024",
+        "new": false,
+        "name": "哥斯達黎加 西部谷地 藍火山莊園 H10日曬 Costa Rica West Valley Volcan Azul H10 Natural",
+        "description": "熱帶水果·鳳梨·芒果·堅果·可可·黑糖",
+        "price_info": {
+            "discount": "10.5%",
+            "price_per_gram": 844,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price_range": [
+                        570,
+                        520
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        600,
+                        550
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        640,
+                        590
+                    ]
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "CR007",
+        "year": "2023/24",
+        "new": false,
+        "name": "Dilla Alghe 蜜處理 Costa Rica Dilla Alghe Honey",
+        "description": "柑橘·烏龍茶·茶風·堅果·甜香草·奶油甜香",
+        "price_info": {
+            "discount": "10.4%",
+            "price_per_gram": 852,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "10KG",
+                    "price": 980
+                },
+                {
+                    "type": "5KG",
+                    "price": 1050
+                },
+                {
+                    "type": "1KG",
+                    "price": 1100
+                }
+            ]
+        },
+        "process": "Honey"
+    },
+    {
+        "product_code": "CR008",
+        "year": "2023/24",
+        "new": false,
+        "name": "Cioccio 蜜處理 Costa Rica Cioccio Honey",
+        "description": "茶花·柑橘·花香·榛果·奶油·甜瓜香",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 844,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "10KG",
+                    "price": 980
+                },
+                {
+                    "type": "5KG",
+                    "price": 1050
+                },
+                {
+                    "type": "1KG",
+                    "price": 1100
+                }
+            ]
+        },
+        "process": "Honey"
+    },
+    {
+        "product_code": "CR009",
+        "year": "2023/24",
+        "new": false,
+        "name": "Guadaloupe Longberry 蜜處理 Costa Rica Coffee Diversa Guadaloupe Longberry Honey",
+        "description": "堅果·檸檬·香草·榛果·橙果·奶油",
+        "price_info": {
+            "discount": "10.9%",
+            "price_per_gram": 839,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "10KG",
+                    "price": 980
+                },
+                {
+                    "type": "5KG",
+                    "price": 1050
+                },
+                {
+                    "type": "1KG",
+                    "price": 1100
+                }
+            ]
+        },
+        "process": "Honey"
+    },
+    {
+        "product_code": "CR010",
+        "year": "2023",
+        "new": false,
+        "name": "Costa Rica Tarrazu Spider Monkey Black Honey",
+        "description": "黑莓·甜橙·榛果·奶油·蜂蜜·可可·核桃",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Black Honey"
+    },
+    {
+        "product_code": "CR001",
+        "year": "2024",
+        "new": false,
+        "name": "哥斯達黎加 塔拉茲 瑪麗亞洗 Costa Rica Tarrazu Maria Washed",
+        "description": "柑橘·榛果·杏仁·焦糖·開心果·奶油甜香",
+        "price_info": {
+            "discount": "11.3%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 340
+                },
+                {
+                    "type": "5KG",
+                    "price": 370
+                },
+                {
+                    "type": "1KG",
+                    "price": 410
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PM019",
+        "year": "2024",
+        "new": false,
+        "name": "巴拿馬 波奎特 瑪瑪卡塔莊園 Panama Boquete Mama Cata Estate Geisha Washed",
+        "description": "檸檬·香茅·柑橘·奶香·紅茶·酸質乾淨細緻",
+        "price_info": {
+            "discount": "8.7%",
+            "price_per_gram": 823,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 860
+                },
+                {
+                    "type": "5KG",
+                    "price": 890
+                },
+                {
+                    "type": "1KG",
+                    "price": 970
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB018",
+        "year": "2023",
+        "new": false,
+        "name": "哥倫比亞 維拉馬利亞發酵 Colombia Villamaria Fermentation Natural",
+        "description": "Body醇和度高",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 819,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "35KG",
+                    "price_range": [
+                        460,
+                        430
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        480,
+                        440
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        520,
+                        480
+                    ]
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "CB028",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 芬卡 Anaya Red Bourbon Anaerobic Natural",
+        "description": "玫瑰花·玫瑰果·草莓·甜醋",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Anaerobic Natural"
+    },
+    {
+        "product_code": "CB037",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 Mejorado Typica Mejorado特殊水洗",
+        "description": "甜瓜·嗜酸瓜·蜂蜜·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB038",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 Pacamara 特殊水洗 Yellow Pacamara Washed",
+        "description": "蜜桃·杏桃·萊姆·土芒果",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 842,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "20KG",
+                    "price": 800
+                },
+                {
+                    "type": "5KG",
+                    "price": 830
+                },
+                {
+                    "type": "1KG",
+                    "price": 870
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PE002",
+        "year": "2024",
+        "new": false,
+        "name": "秘魯 Cajamarca Marina Rivaspalta Geisha Washed",
+        "description": "茉莉·甜橙·梅子·香草·紅櫻·香料·甜醋",
+        "price_info": {
+            "discount": "10.8%",
+            "price_per_gram": 825,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 1080
+                },
+                {
+                    "type": "5KG",
+                    "price": 1110
+                },
+                {
+                    "type": "1KG",
+                    "price": 1150
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "BV001",
+        "year": "2024",
+        "new": false,
+        "name": "玻利維亞 Isabel Rosario Geisha Washed",
+        "description": "白花·檸檬·香料·茶風·奶油·蜂蜜",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "20KG",
+                    "price": 1800
+                },
+                {
+                    "type": "5KG",
+                    "price": 1900
+                },
+                {
+                    "type": "1KG",
+                    "price": 2000
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "BZ009",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 里約莊園 Brazil Fazenda Rio Brihante Catuai Natural",
+        "description": "莓果·紫葡萄·橘子·甜可可·堅果",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ010",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 維多利亞莊園 Brazil Fazenda Bau Vitória Santa Rosa Natural",
+        "description": "核果·堅果·榛果·奶油·甜香",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ011",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 克里斯特爾莊園 Brazil Fazenda Bau Vale do Cristal Santa Rosa Natural",
+        "description": "堅果·香草·奶油·焦糖",
+        "price_info": {
+            "discount": "11%",
+            "price_per_gram": 810,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 380
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ012",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 托帕奇奧莊園 Brazil Fazenda Bau Topazio Natural",
+        "description": "堅果·柑橘·核果·可可·奶油香氣",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 814,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ013",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 紅波本莊園 Brazil Fazenda Bau Red Bourbon Natural",
+        "description": "莓果·杏仁·堅果·巧克力·可可·甘蔗甜",
+        "price_info": {
+            "discount": "10.9%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ014",
+        "year": 2023,
+        "new": false,
+        "name": "巴西 Yellow Catuai 90小時發酵 Brazil Fazenda Bau Yellow Catuai 90 Hour Natural Fermented",
+        "description": "莓果·香草·榛果·奶油·果乾·甜感飽滿",
+        "price_info": {
+            "discount": "11%",
+            "price_per_gram": 810,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 420
+                },
+                {
+                    "type": "5KG",
+                    "price": 450
+                },
+                {
+                    "type": "1KG",
+                    "price": 490
+                }
+            ]
+        },
+        "process": "Natural Fermented"
+    },
+    {
+        "product_code": "ET034",
+        "year": "2024",
+        "new": true,
+        "name": "衣索比亞 谷吉 安納索拉莊園 Ethiopia Guji Anasora Washed G1",
+        "description": "柑橘·橙皮·綠茶·堅果·香草·蜜糖·咖啡餅",
+        "price_info": {
+            "discount": "10.8%",
+            "price_per_gram": 825,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 390
+                },
+                {
+                    "type": "5KG",
+                    "price": 420
+                },
+                {
+                    "type": "1KG",
+                    "price": 460
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "ET022",
+        "year": "2023",
+        "new": false,
+        "name": "衣索比亞 科赫 Chelelektu Washed G1",
+        "description": "黑莓·甜李·柑橘·紅櫻·奶油·花香",
+        "price_info": {
+            "discount": "10.4%",
+            "price_per_gram": 841,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 390
+                },
+                {
+                    "type": "5KG",
+                    "price": 410
+                },
+                {
+                    "type": "1KG",
+                    "price": 450
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "ET035",
+        "year": "2024",
+        "new": false,
+        "name": "衣索比亞 利穆 G2 Washed",
+        "description": "柑橘·烏龍茶·奶油·香草·紅櫻",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "ET023",
+        "year": "2024",
+        "new": false,
+        "name": "衣索比亞 Yirgacheffe G2 Natural",
+        "description": "甜莓果·熱帶水果·柑橘·橙皮·蜂蜜·果果",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "ET028",
+        "year": "2024",
+        "new": false,
+        "name": "衣索比亞 Uraga Washed G1",
+        "description": "菸草·柑橘·百花香·茶風·香草·奶油·蔗糖",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "ET032",
+        "year": "2024",
+        "new": false,
+        "name": "衣索比亞 Guji Shakiso Mulish Natural G1",
+        "description": "紅色莓果·葡萄·檸檬·果酒·桃子·蜜香·蜂蜜·花香",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "ET029",
+        "year": "2024",
+        "new": false,
+        "name": "衣索比亞 Arbegona Natural G1",
+        "description": "熱帶水果·檸檬·莓果·茶葉·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "ET033",
+        "year": "2024",
+        "new": false,
+        "name": "衣索比亞 Sidama Aroressa Washed G2",
+        "description": "檸檬·烏龍茶·香草·紅櫻·堅果",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "KY010",
+        "year": "2024",
+        "new": false,
+        "name": "肯亞 Gatathii AA TOP Washed",
+        "description": "黑莓·菸草·黑醋栗·柑橘·茶葉·紅酒",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 350
+                },
+                {
+                    "type": "5KG",
+                    "price": 380
+                },
+                {
+                    "type": "1KG",
+                    "price": 420
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "KY011",
+        "year": "2024",
+        "new": false,
+        "name": "肯亞 Embu Kiandangi AA TOP Washed",
+        "description": "黑莓·柑橘·紅酒·茶葉·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "KY012",
+        "year": "2024/25",
+        "new": true,
+        "name": "肯亞 Kianjumu PB Washed",
+        "description": "黑莓·菸草·紅酒·茶葉·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "KY013",
+        "year": "2024",
+        "new": false,
+        "name": "肯亞 Gachatha PB Washed",
+        "description": "黑莓·菸草·紅酒·茶葉·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "KY014",
+        "year": "2024",
+        "new": false,
+        "name": "肯亞 Kiambu Mchana Estate Natural",
+        "description": "黑莓·菸草·紅酒·茶葉·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "KY015",
+        "year": "2024",
+        "new": false,
+        "name": "肯亞 Dorman C Washed",
+        "description": "黑莓·菸草·紅酒·茶葉·奶油",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 830,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 360
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "NR001",
+        "year": "2024",
+        "new": false,
+        "name": "尼加拉瓜 米爾希奇莊園 Nicaragua Mierisch SHG EP Finca Laguna Verde Maragoype Washed",
+        "description": "莓果·菸草·李子·黑醋栗·堅果·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT001",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 Huehuetenango Maya Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果·果酸餘韻",
+        "price_info": {
+            "discount": "11.3%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 350
+                },
+                {
+                    "type": "5KG",
+                    "price": 380
+                },
+                {
+                    "type": "1KG",
+                    "price": 420
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT002",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 La Mimita La Flor Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果",
+        "price_info": {
+            "discount": "10.5%",
+            "price_per_gram": 832,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 360
+                },
+                {
+                    "type": "5KG",
+                    "price": 390
+                },
+                {
+                    "type": "1KG",
+                    "price": 430
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT003",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 La Mimita La Flor Peaberry Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 826,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "NR001",
+        "year": "2024",
+        "new": false,
+        "name": "尼加拉瓜 米爾希奇莊園 Nicaragua Mierisch SHG EP Finca Laguna Verde Maragoype Washed",
+        "description": "莓果·菸草·李子·黑醋栗·堅果·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT001",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 Huehuetenango Maya Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果·果酸餘韻",
+        "price_info": {
+            "discount": "11.3%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 350
+                },
+                {
+                    "type": "5KG",
+                    "price": 380
+                },
+                {
+                    "type": "1KG",
+                    "price": 420
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT002",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 La Mimita La Flor Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果",
+        "price_info": {
+            "discount": "10.5%",
+            "price_per_gram": 832,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 360
+                },
+                {
+                    "type": "5KG",
+                    "price": 390
+                },
+                {
+                    "type": "1KG",
+                    "price": 430
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "GT003",
+        "year": "2024",
+        "new": false,
+        "name": "瓜地馬拉 La Mimita La Flor Peaberry Washed",
+        "description": "柑橘·菸草·胡椒·可可·嫩果·杏仁·焦糖·堅果",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 826,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB018",
+        "year": "2023",
+        "new": false,
+        "name": "哥倫比亞 維拉馬利亞發酵 Colombia Villamaria Fermentation Natural",
+        "description": "Body醇和度高",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 819,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "35KG",
+                    "price_range": [
+                        460,
+                        430
+                    ]
+                },
+                {
+                    "type": "5KG",
+                    "price_range": [
+                        480,
+                        440
+                    ]
+                },
+                {
+                    "type": "1KG",
+                    "price_range": [
+                        520,
+                        480
+                    ]
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "CB028",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 芬卡 Anaya Red Bourbon Anaerobic Natural",
+        "description": "玫瑰花·玫瑰果·草莓·甜醋",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Anaerobic Natural"
+    },
+    {
+        "product_code": "CB037",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 Mejorado Typica Mejorado特殊水洗",
+        "description": "甜瓜·嗜酸瓜·蜂蜜·奶油",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "CB038",
+        "year": "2025",
+        "new": true,
+        "name": "哥倫比亞 惠拉 Pacamara 特殊水洗 Yellow Pacamara Washed",
+        "description": "蜜桃·杏桃·萊姆·土芒果",
+        "price_info": {
+            "discount": "10%",
+            "price_per_gram": 842,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "20KG",
+                    "price": 800
+                },
+                {
+                    "type": "5KG",
+                    "price": 830
+                },
+                {
+                    "type": "1KG",
+                    "price": 870
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "PE002",
+        "year": "2024",
+        "new": false,
+        "name": "秘魯 Cajamarca Marina Rivaspalta Geisha Washed",
+        "description": "茉莉·甜橙·梅子·香草·紅櫻·香料·甜醋",
+        "price_info": {
+            "discount": "10.8%",
+            "price_per_gram": 825,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "30KG",
+                    "price": 1080
+                },
+                {
+                    "type": "5KG",
+                    "price": 1110
+                },
+                {
+                    "type":聴"1KG",
+                    "price": 1150
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "BV001",
+        "year": "2024",
+        "new": false,
+        "name": "玻利維亞 Isabel Rosario Geisha Washed",
+        "description": "白花·檸檬·香料·茶風·奶油·蜂蜜",
+        "price_info": {
+            "discount": "10.2%",
+            "price_per_gram": 840,
+            "units": [
+                {
+                    "type": "Box",
+                    "weight": "20KG",
+                    "price": 1800
+                },
+                {
+                    "type": "5KG",
+                    "price": 1900
+                },
+                {
+                    "type": "1KG",
+                    "price": 2000
+                }
+            ]
+        },
+        "process": "Washed"
+    },
+    {
+        "product_code": "BZ009",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 里約莊園 Brazil Fazenda Rio Brihante Catuai Natural",
+        "description": "莓果·紫葡萄·橘子·甜可可·堅果",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ010",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 維多利亞莊園 Brazil Fazenda Bau Vitória Santa Rosa Natural",
+        "description": "核果·堅果·榛果·奶油·甜香",
+        "price_info": {
+            "discount": null,
+            "price_per_gram": null,
+            "units": null
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ011",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 克里斯特爾莊園 Brazil Fazenda Bau Vale do Cristal Santa Rosa Natural",
+        "description": "堅果·香草·奶油·焦糖",
+        "price_info": {
+            "discount": "11%",
+            "price_per_gram": 810,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 380
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ012",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 托帕奇奧莊園 Brazil Fazenda Bau Topazio Natural",
+        "description": "堅果·柑橘·核果·可可·奶油香氣",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 814,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ013",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 紅波本莊園 Brazil Fazenda Bau Red Bourbon Natural",
+        "description": "莓果·杏仁·堅果·巧克力·可可·甘蔗甜",
+        "price_info": {
+            "discount": "10.9%",
+            "price_per_gram": 820,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 370
+                },
+                {
+                    "type": "5KG",
+                    "price": 400
+                },
+                {
+                    "type": "1KG",
+                    "price": 440
+                }
+            ]
+        },
+        "process": "Natural"
+    },
+    {
+        "product_code": "BZ014",
+        "year": "2023",
+        "new": false,
+        "name": "巴西 Yellow Catuai 90小時發酵 Brazil Fazenda Bau Yellow Catuai 90 Hour Natural Fermented",
+        "description": "莓果·香草·榛果·奶油·果乾·甜感飽滿",
+        "price_info": {
+            "discount": "11%",
+            "price_per_gram": 810,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": 420
+                },
+                {
+                    "type": "5KG",
+                    "price": 450
+                },
+                {
+                    "type": "1KG",
+                    "price": 490
+                }
+            ]
+        },
+        "process": "Natural Fermented"
+    },
+    {
+        "product_code": "BZ001",
+        "year": "2024/25",
+        "new": true,
+        "name": "巴西 席拉朵 SC14/16 日曬 Brazil Cerrado SC14/16 Natural",
+        "description": "可可·核果·堅果·奶油·奶油",
+        "price_info": {
+            "discount": "10.6%",
+            "price_per_gram": 830,
+            "units": [
+                {
+                    "type": "Bag",
+                    "weight": "30KG",
+                    "price": "價格另報"
+                },
+                {
+                    "type": "5KG",
+                    "price": 360
+                },
+                {
+                    "type": "1KG",
+                    "price": 400
+                }
+            ]
+        },
+        "process": "Natural",
+        "note": "終裝廠檢疫及稅務證明費(限為1)"
+    }
+]
