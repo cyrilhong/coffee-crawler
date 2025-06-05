@@ -25,7 +25,7 @@ main/chroma_store/
 !main/chroma_store/README.md
 
 # 依需求排除特定資料夾下的檔案
-data-src/*.json
+# data-src/*.json
 data-src/*.xlsx
 data-src/*.txt
 data-src/*.md
