@@ -1,0 +1,506 @@
+[
+    {
+        "country": "衣索比亞",
+        "eng_name": "Ethiopia",
+        "region": "古吉 Buku",
+        "name": "衣索比亞 古吉 布谷 高棚 日曬 G1",
+        "flavor": "草莓、藍莓、熱帶水果、酸甜平衡",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 550.0,
+                    "promo_price": 535.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "衣索比亞",
+        "eng_name": "Ethiopia",
+        "region": "古吉 Hambela",
+        "name": "衣索比亞 古吉 罕貝拉 水洗 G1",
+        "flavor": "柑橘、紅茶、花香、酸甜平衡",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 550.0,
+                    "promo_price": 535.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "衣索比亞",
+        "eng_name": "Ethiopia",
+        "region": "未知",
+        "name": "衣索比亞 1931 藝妓 日曬 G1",
+        "flavor": "藍莓、花香、熱帶水果、酸甜平衡",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 590.0,
+                    "promo_price": 570.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica",
+        "region": "塔拉珠",
+        "name": "秘藍 Jazz 塔拉珠 畢哈瓜 日曬",
+        "flavor": "藍莓、蜂蜜、葡萄、葡萄乾、無花果，熱帶水果風味，層次豐富",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 650.0,
+                    "promo_price": 650.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 670.0,
+                    "promo_price": 670.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 690.0,
+                    "promo_price": 690.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica",
+        "region": "中央谷地",
+        "name": "哥斯大黎加 蜜月 卡里薩爾 蜜處理",
+        "flavor": "焦糖、紅糖、柑橘、葡萄、蜂蜜，整體口感豐富多汁",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 850.0,
+                    "promo_price": 850.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 870.0,
+                    "promo_price": 870.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 890.0,
+                    "promo_price": 890.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica",
+        "region": "西部山谷",
+        "name": "土元素 烏列爾 神木莊園 維拉羅伯 紅蜜處理",
+        "flavor": "榛果、葡萄、柳橙、蜂蜜、紅糖、焦糖、杏仁，均衡風味",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 475.0,
+                    "promo_price": 350.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 495.0,
+                    "promo_price": 430.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 525.0,
+                    "promo_price": 525.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica",
+        "region": "中央山谷",
+        "name": "火元素 米歇爾 卡里薩爾 卡杜拉 水洗",
+        "flavor": "桃子、杏桃、焦糖、榛子、蜂蜜、奶油、櫻桃、柳橙，豐富多汁、圓潤飽滿口感，乾淨清爽",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 425.0,
+                    "promo_price": 350.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 445.0,
+                    "promo_price": 380.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 475.0,
+                    "promo_price": 475.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica",
+        "region": "布倫卡",
+        "name": "水元素 加百列 康波斯 藝妓 日曬",
+        "flavor": "草莓、桃子、柑橘、葡萄、奶油、茉莉花、楓糖漿",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 0.0,
+                    "promo_price": 0.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 925.0,
+                    "promo_price": 830.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 950.0,
+                    "promo_price": 950.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊 迦佑",
+        "name": "漫漫春風 印尼 亞齊 迦佑 全水洗 Alinagata",
+        "flavor": "雪松，柑橘、夏威夷果、檸檬紅茶、紅糖，酸值溫和，尾韻綿長，整體平衡乾淨",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 0.0,
+                    "promo_price": 0.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 450.0,
+                    "promo_price": 450.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 470.0,
+                    "promo_price": 470.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊 迦佑",
+        "name": "綠幽靈 印尼 亞齊 迦佑 半水洗 Alinagata",
+        "flavor": "雪松、香草牛奶，帶點熱帶水果風味，可可、黑糖，口感圓潤，尾韻綿長",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 0.0,
+                    "promo_price": 0.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 350.0,
+                    "promo_price": 350.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊 迦佑",
+        "name": "印尼 亞齊 迦佑 蜜處理 Alinagata",
+        "flavor": "焦糖紅茶、蜂蜜、紅糖",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 370.0,
+                    "promo_price": 370.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 395.0,
+                    "promo_price": 395.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 425.0,
+                    "promo_price": 425.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊 迦佑",
+        "name": "印尼 亞齊 迦佑 Bourbon 半水洗 Alinagata",
+        "flavor": "木質草本調性帶點堅果，柑橘酸值，黑糖甜感，整體風味乾淨",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 360.0,
+                    "promo_price": 360.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 385.0,
+                    "promo_price": 385.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 410.0,
+                    "promo_price": 410.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊 迦佑",
+        "name": "印尼 亞齊 迦佑 Timtim 半水洗 Alinagata",
+        "flavor": "乾香奶油、起司香氣，入口木質草本調性，李子、烏龍茶、尾韻淡淡熟果味，乾淨度高",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 405.0,
+                    "promo_price": 405.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 430.0,
+                    "promo_price": 430.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊 迦佑",
+        "name": "印尼 亞齊 迦佑 酒香處理 Alinagata",
+        "flavor": "蘭姆葡萄、莓果、紅酒、李子、酸值明亮、乾淨度高",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 0.0,
+                    "promo_price": 0.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 485.0,
+                    "promo_price": 485.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 510.0,
+                    "promo_price": 510.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "衣索比亞",
+        "eng_name": "Ethiopia",
+        "region": "Gerbata",
+        "name": "Gerbata 厭氧日曬 G1",
+        "flavor": "花香、藍莓、黑莓、水果軟糖、可可，整體平衡，耐喝且餘韻持久",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 395.0,
+                    "promo_price": 395.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 420.0,
+                    "promo_price": 420.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 450.0,
+                    "promo_price": 450.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "衣索比亞",
+        "eng_name": "Ethiopia",
+        "region": "西達摩",
+        "name": "西達摩 龐貝 水洗",
+        "flavor": "茉莉花香、橘皮、青檸檬、橙花、蜂蜜紅茶，風味具層次且細緻",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 480.0,
+                    "promo_price": 480.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 505.0,
+                    "promo_price": 505.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 530.0,
+                    "promo_price": 530.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "衣索比亞",
+        "eng_name": "Ethiopia",
+        "region": "古吉 科查",
+        "name": "衣索比亞 古吉 科查 高棚日曬 G2",
+        "flavor": "焦糖紅茶、玫瑰、草莓、紅蘋果，風味明亮且層次豐富",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 375.0,
+                    "promo_price": 375.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 395.0,
+                    "promo_price": 395.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 420.0,
+                    "promo_price": 420.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "未知",
+        "eng_name": "Unknown",
+        "region": "貝貝卡 班奇馬吉",
+        "name": "貝貝卡 班奇馬吉 藝妓原生種 日曬",
+        "flavor": "香草、茉莉、熱帶水果，整體平衡乾淨",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "5kg",
+                    "origin_price": 405.0,
+                    "promo_price": 405.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 430.0,
+                    "promo_price": 430.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    }
+]

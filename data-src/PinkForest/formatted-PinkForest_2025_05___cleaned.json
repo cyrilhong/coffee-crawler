@@ -1,0 +1,542 @@
+[
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "馬爾卡拉 Marcala",
+        "name": "宏都拉斯 馬爾卡拉 Marcala 花園莊園 Finca El Jardin Ihcafe90 日曬",
+        "flavor": "柳橙汁、綜合熱帶水果、新鮮莓果、香草",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 370.0,
+                    "promo_price": 360.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 400.0,
+                    "promo_price": 400.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "馬爾卡拉 Marcala",
+        "name": "宏都拉斯 馬爾卡拉 Marcala 西普莊園 Finca El Cipres H28 (Catimor系列) 日曬",
+        "flavor": "香檳、芒果乾、桃子、黑棗乾、尾韻巧克力、奶油",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 410.0,
+                    "promo_price": 410.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala",
+        "region": "安提瓜 Antigua",
+        "name": "瓜地馬拉 安提瓜 Antigua 維若妮卡莊園 Finca Veronica 黃波旁 Yellow Bourbon 日曬",
+        "flavor": "柳丁、莓果、紅茶、香草、尾段巧克力、焦糖",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 360.0,
+                    "promo_price": 360.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 390.0,
+                    "promo_price": 390.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala",
+        "region": "安提瓜 Antigua",
+        "name": "瓜地馬拉 安提瓜 Antigua 維若妮卡莊園 Finca Veronica 帕奇 Pache 日曬",
+        "flavor": "深色葡萄、鳳梨、葡萄酒香、尾韻酒香、香草、可可",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 450.0,
+                    "promo_price": 450.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 480.0,
+                    "promo_price": 480.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "弗賴哈內斯 Fraijanes",
+        "name": "宏都拉斯 弗賴哈內斯 Fraijanes 翹鬍子莊園 Finca La Pila 卡提希克 Catisic 發酵日曬",
+        "flavor": "熱帶水果果汁、百香果、葡萄酒香、酸值明亮、尾韻酒香、香草、可可",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 450.0,
+                    "promo_price": 450.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 480.0,
+                    "promo_price": 480.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "弗賴哈內斯 Fraijanes",
+        "name": "宏都拉斯 弗賴哈內斯 Fraijanes 翹鬍子莊園 Finca La Pila 波旁 Bourbon 發酵日曬",
+        "flavor": "芒果、熱帶水果乾、微葡萄酒香、奶油、尾韻牛奶巧克力",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 350.0,
+                    "promo_price": 350.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "尼加拉瓜",
+        "eng_name": "Nicaragua",
+        "region": "希諾特加 Jinotega",
+        "name": "尼加拉瓜 希諾特加 Jinotega 極光莊園 Finca Aurora 芭蕾奈 Parainema 慢速日曬",
+        "flavor": "熱帶水果綜合果汁、甜橙、微葡萄酒香、杏仁、奶油、牛軋糖",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 370.0,
+                    "promo_price": 370.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 400.0,
+                    "promo_price": 400.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "尼加拉瓜",
+        "eng_name": "Nicaragua",
+        "region": "希諾特加 Jinotega",
+        "name": "尼加拉瓜 希諾特加 Jinotega 極光莊園 Finca Aurora 維拉薩奇 Villa Sarchi 浸漬日曬",
+        "flavor": "百香果、些許蘭姆酒、焦糖",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 420.0,
+                    "promo_price": 420.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 450.0,
+                    "promo_price": 450.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "尼加拉瓜",
+        "eng_name": "Nicaragua",
+        "region": "希諾特加 Jinotega",
+        "name": "尼加拉瓜 希諾特加 Jinotega 極光莊園 Finca Aurora Geisha 藝伎 浸漬日曬",
+        "flavor": "藍莓果醬、白花調性、微葡萄酒香、香草、奶油",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 350.0,
+                    "promo_price": 350.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "馬爾卡拉 Marcala",
+        "name": "宏都拉斯 馬爾卡拉 Marcala 紅李莊園 Finca Los Ciruelos Ihcafe90 水洗",
+        "flavor": "檸檬紅茶、新鮮棗子、奶油餅乾、黑糖",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 350.0,
+                    "promo_price": 350.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala",
+        "region": "阿卡特南果 Acatenango",
+        "name": "瓜地馬拉 阿卡特南果 Acatenango 美麗莊園 Finca La Hermosa Geisha 藝伎 水洗",
+        "flavor": "鷄蛋花香、橙花、柑橘果肉、杏桃、尾韻香草",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "1kg",
+                    "origin_price": 1750.0,
+                    "promo_price": 1750.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊特別行政區 Aceh",
+        "name": "印尼 亞齊特別行政區 Aceh Takengon, 波爾所村 Gayo1/Timtim/Caturra 水洗",
+        "flavor": "水果香氣、奶油、淡雅香料、尾韻松木調性、榛果",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 390.0,
+                    "promo_price": 390.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 420.0,
+                    "promo_price": 420.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "烏干達",
+        "eng_name": "Uganda",
+        "region": "艾爾宮山 Mount Elgon",
+        "name": "烏干達 艾爾宮山 Mount Elgon 東烏干達 Nyasaland/SL14/SL28 水洗",
+        "flavor": "柳丁、葡萄乾、香草、榛果",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 340.0,
+                    "promo_price": 340.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 370.0,
+                    "promo_price": 370.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala",
+        "region": "弗賴哈內斯 Fraijanes",
+        "name": "瓜地馬拉 弗賴哈內斯 Fraijanes 翹鬍子莊園 Finca La Pila 卡杜艾 Catuai 蜜處理",
+        "flavor": "焦糖、水果乾、檸檬紅茶、淡淡花香、奶油",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 370.0,
+                    "promo_price": 370.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 400.0,
+                    "promo_price": 400.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala",
+        "region": "弗賴哈內斯 Fraijanes",
+        "name": "瓜地馬拉 弗賴哈內斯 Fraijanes 翹鬍子莊園 Finca La Pila 波旁 Bourbon 蜜處理",
+        "flavor": "焦糖、水果乾、檸檬紅茶、淡淡花香、奶油",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 370.0,
+                    "promo_price": 370.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 400.0,
+                    "promo_price": 400.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "烏干達",
+        "eng_name": "Uganda",
+        "region": "艾爾宮山 Mount Elgon",
+        "name": "烏干達 艾爾宮山 Mount Elgon 東烏干達 Nyasaland/SL14/SL28 蜜處理",
+        "flavor": "杏桃、焦糖、香草、白花",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 360.0,
+                    "promo_price": 360.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 390.0,
+                    "promo_price": 390.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "梅賽德斯 Mercedes",
+        "name": "宏都拉斯 梅賽德斯 Mercedes 卡斯莊園 Finca Cascaritas 帕卡斯 Pacas 酵素",
+        "flavor": "蘋果汁、紅莓、蜜棗、太妃糖、酸甜平衡",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 415.0,
+                    "promo_price": 415.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 445.0,
+                    "promo_price": 445.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊特別行政區",
+        "name": "印尼 亞齊特別行政區 Bintang Gayo1/Timtim/Caturra 濕剝",
+        "flavor": "乾木、李子、些許果香、尾韻奶油香氣",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 340.0,
+                    "promo_price": 340.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 370.0,
+                    "promo_price": 370.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊特別行政區",
+        "name": "印尼 亞齊特別行政區 Bintang Gayo1/Timtim 濕剝",
+        "flavor": "松木、甜果香、巧克力、尾韻新鮮奶油、乾淨無雜味",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 380.0,
+                    "promo_price": 380.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 410.0,
+                    "promo_price": 410.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "印尼",
+        "eng_name": "Indonesia",
+        "region": "亞齊特別行政區",
+        "name": "印尼 亞齊特別行政區 Takengon, 波爾所村 Bourbon 波旁 濕剝",
+        "flavor": "雪松、蔓越莓、中段烏龍茶、鮮奶油香氣、仙草",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 390.0,
+                    "promo_price": 390.0,
+                    "sold_out": false
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 420.0,
+                    "promo_price": 420.0,
+                    "sold_out": false
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "梅賽德斯 Mercedes",
+        "name": "宏都拉斯 梅賽德斯 Mercedes 美麗莊園 Finca La Hermosa 芭蕾奈 Parainema 日曬",
+        "flavor": "青葡萄、甜橙、山竹、焦糖、可可",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 365.0,
+                    "promo_price": 365.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 395.0,
+                    "promo_price": 395.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "宏都拉斯",
+        "eng_name": "Honduras",
+        "region": "梅賽德斯 Mercedes",
+        "name": "宏都拉斯 梅賽德斯 Mercedes 卡斯莊園 Finca Cascaritas 帕卡斯 Pacas 厭氧日曬",
+        "flavor": "杏桃、深色葡萄、些許香檳、熱帶水果、些許荔枝、尾段焦糖、鮮奶油",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "30kg",
+                    "origin_price": 465.0,
+                    "promo_price": 465.0,
+                    "sold_out": true
+                },
+                {
+                    "weight": "1kg",
+                    "origin_price": 495.0,
+                    "promo_price": 495.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    },
+    {
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala",
+        "region": "阿卡特南果 Acatenango",
+        "name": "瓜地馬拉 阿卡特南果 Acatenango 美麗莊園 Finca La Hermosa 黃帕卡瑪拉 Yellow Pacamara 日曬",
+        "flavor": "葡萄柚果茶、白花調性、草莓果醬、尾韻烤布丁、甜奶油、風味細緻",
+        "price_info": {
+            "units": [
+                {
+                    "weight": "1kg",
+                    "origin_price": 850.0,
+                    "promo_price": 850.0,
+                    "sold_out": true
+                }
+            ]
+        },
+        "link": null
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "name": "巴西 達特拉莊園 天然低咖啡因【半水洗】",
+        "country": "巴西",
+        "eng_name": "Brazil"
+    },
+    {
+        "name": "巴西 聖安東尼奧莊園 黃波旁柑橘味 【日曬處理法】",
+        "country": "巴西",
+        "eng_name": "Brazil"
+    },
+    {
+        "name": "巴西 聖安東尼奧莊園 酒仙秘境 【厭氧發酵72小時】",
+        "country": "巴西",
+        "eng_name": "Brazil"
+    },
+    {
+        "name": "玻利維亞 戈巴加巴那莊園 有機 【水洗】",
+        "country": "玻利維亞",
+        "eng_name": "Bolivia"
+    },
+    {
+        "name": "哥倫比亞 梅德琳 上級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 薇菈 頂級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 梅德琳 頂級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 波帕楊 頂級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 娜玲瓏 頂級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 薇菈 聖奧古斯丁 頂級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 印地安 雪峰 頂級【水洗】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 薇菈 希望莊園 亞歷山大 藝妓【全水洗處理】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 薇菈 希望莊園 粉紅波旁【水洗處理】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 安蒂奧基亞 哥倫比亞莊園 藝妓【水洗處理】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 托利馬 聖特奧多羅莊園 Wush-Wush【厭氧水...",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥倫比亞 薇菈 瓜可比亞莊園 粉紅波旁【紅蜜處理】",
+        "country": "哥倫比亞",
+        "eng_name": "Colombia"
+    },
+    {
+        "name": "哥斯大黎加 塔拉樹 捷豹 圓豆 FSHB【水洗處理】",
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica"
+    },
+    {
+        "name": "哥斯大黎加 塔拉樹 捷豹 FSHB【日曬處理】",
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica"
+    },
+    {
+        "name": "哥斯大黎加 塔拉樹 SHB 【水洗】",
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica"
+    },
+    {
+        "name": "哥斯大黎加 塔拉樹 紅眼翠蛙 FSHB【全水洗處理】",
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica"
+    },
+    {
+        "name": "哥斯大黎加 塔拉樹 捷豹 FSHB【黑蜜處理】",
+        "country": "哥斯大黎加",
+        "eng_name": "Costa Rica"
+    },
+    {
+        "name": "夏威夷 希望山丘莊園 可娜【水洗處理】",
+        "country": "夏威夷",
+        "eng_name": "Hawaii"
+    },
+    {
+        "name": "衣索匹亞 利姆藝妓四級【日曬】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 吉馬摩卡五級【日曬】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 耶家雪夫二級 【日曬】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 西達摩四級【日曬】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 卡法森林 水仙百合 藝伎 一級【水洗...",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 卡法森林 香水檸檬 藝伎 一級【水洗...",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 拾卡 莓果繽紛 一級【紅蜜處理】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 西達摩 白色尼羅河 一級【日曬】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 蜜桃 耶加雪夫 一級【水洗】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 西達摩 藍色尼羅河 一級【水洗】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 非洲之星 粉紅蜜桃 耶加雪夫一級【水洗】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 獅王 西達摩 阿貝果娜 一級【水洗處理】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 古吉 格蕾娜 茉莉蜜糖 藝妓 一級【水洗處理】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "衣索匹亞 獅王 耶加雪夫 果丁丁 一級【水洗】",
+        "country": "衣索匹亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "瓜地馬拉 薇薇特南果 SHB 規格【水洗】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 安提瓜 貝拉卡摩那莊園 藝妓【水洗】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 安地瓜產區 貝拉卡摩娜莊園 花王子【日曬】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 安地瓜產區 貝拉卡摩娜莊園 花後【蜜處理】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 安地瓜產區 貝拉卡摩那莊園 花神【水洗】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 奇瑪特南果產區 梅賽德斯莊園 橘波旁【水洗...",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 奇瑪特南果產區 梅賽德斯莊園 黃波旁【水洗...",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 安地瓜產區 屋頂莊園 波旁【水洗】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 新東方產區 酒香背影【酒香日曬】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "瓜地馬拉 安地瓜產區 聖塔克拉那莊園 【日曬】",
+        "country": "瓜地馬拉",
+        "eng_name": "Guatemala"
+    },
+    {
+        "name": "印尼 爪哇 阿拉比卡【日曬】",
+        "country": "印尼",
+        "eng_name": "Indonesia"
+    },
+    {
+        "name": "印尼 瓦哈那 一級曼特寧18目【濕剝處理】【三次手選】",
+        "country": "印尼",
+        "eng_name": "Indonesia"
+    },
+    {
+        "name": "印尼 一級曼特寧【濕剝】【二次手選】",
+        "country": "印尼",
+        "eng_name": "Indonesia"
+    },
+    {
+        "name": "印尼 特級曼特寧18目【濕剝】【三次手選】",
+        "country": "印尼",
+        "eng_name": "Indonesia"
+    },
+    {
+        "name": "印尼 迦佑曼特寧18目 【濕剝】【三次手選】",
+        "country": "印尼",
+        "eng_name": "Indonesia"
+    },
+    {
+        "name": "肯亞 卓越處理廠 非洲草原象 AA Top【水洗處理】",
+        "country": "肯亞",
+        "eng_name": "Kenya"
+    },
+    {
+        "name": "肯亞 祈安布 奇馬拉蒂亞合作社 AA TOP【水洗處理】",
+        "country": "肯亞",
+        "eng_name": "Kenya"
+    },
+    {
+        "name": "肯亞 標準 AA【水洗處理】",
+        "country": "肯亞",
+        "eng_name": "Kenya"
+    },
+    {
+        "name": "肯亞 涅裡 標準 AB【水洗處理】",
+        "country": "肯亞",
+        "eng_name": "Kenya"
+    },
+    {
+        "name": "尼加拉瓜 蠻牛莊園 象豆 馬拉戈吉貝【水洗】",
+        "country": "尼加拉瓜",
+        "eng_name": "Nicaragua"
+    },
+    {
+        "name": "尼加拉瓜 蠻牛莊園 H1品種 『綠蠻牛』【水洗】",
+        "country": "尼加拉瓜",
+        "eng_name": "Nicaragua"
+    },
+    {
+        "name": "尼加拉瓜 阿拉比卡 HG【水洗】",
+        "country": "尼加拉瓜",
+        "eng_name": "Nicaragua"
+    },
+    {
+        "name": "盧安達 多門 天空之島 【水洗】",
+        "country": "盧安達",
+        "eng_name": "Rwanda"
+    },
+    {
+        "name": "巴拿馬 卡門莊園 卡杜拉【日曬】",
+        "country": "巴拿馬",
+        "eng_name": "Panama"
+    },
+    {
+        "name": "巴拿馬 卡門莊園 卡杜拉【水洗】",
+        "country": "巴拿馬",
+        "eng_name": "Panama"
+    },
+    {
+        "name": "新幾內亞 Y1【水洗處理】",
+        "country": "新幾內亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "新幾內亞 普蘿沙莊園 豪華天堂A 18+【水洗處理】",
+        "country": "新幾內亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "新幾內亞 天堂鳥莊園 圓豆 PB【水洗】",
+        "country": "新幾內亞",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "牙買加 克里斯戴爾 藍山 No.1 【日曬】",
+        "country": "牙買加",
+        "eng_name": "Jamaica"
+    },
+    {
+        "name": "聖海倫娜 樹籬竹木莊園 圓豆【水洗】",
+        "country": "聖海倫娜",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "聖海倫娜 樹籬竹木莊園 15目【水洗】",
+        "country": "聖海倫娜",
+        "eng_name": "Unknown"
+    },
+    {
+        "name": "坦尚尼亞 克里曼加羅 AA 【水洗】",
+        "country": "坦尚尼亞",
+        "eng_name": "Tanzania"
+    },
+    {
+        "name": "烏干達 盧韋羅 雅格蘭夷處理廠 賴比瑞亞【日曬處理】",
+        "country": "烏干達",
+        "eng_name": "Uganda"
+    },
+    {
+        "name": "泰國 清萊府 梅迪契 小農處理廠【厭氧發酵水洗處理】",
+        "country": "泰國",
+        "eng_name": "Thailand"
+    }
+]
