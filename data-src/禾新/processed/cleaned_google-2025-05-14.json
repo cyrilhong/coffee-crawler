@@ -1,0 +1,770 @@
+[
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "班奇馬吉",
+    "name": "衣索比亞 班奇馬吉 藝伎 日曬 G1",
+    "flavor": "柑橘、杏桃、百合花香、 尾韻薄荷甜、滑順口感 、細緻花香",
+    "price_info": {
+      "units": [
+        {
+          "origin": 510,
+          "weight": "3kg",
+          "promo": 510,
+          "sold_out": false
+        },
+        {
+          "origin": 490,
+          "weight": "30kg",
+          "promo": 490,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E7%8F%AD%E5%A5%87%E9%A6%AC%E5%90%89-%E8%97%9D%E4%BC%8E-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "果利藝伎森林",
+    "name": "衣索比亞 果利藝伎森林 凱蕾莊園 水洗 G1",
+    "flavor": "青蘋果、芒果、紅茶、番石榴、檸檬、茉莉花、西瓜、酸度適中、口感乾淨滑順",
+    "price_info": {
+      "units": [
+        {
+          "origin": 600,
+          "weight": "3kg",
+          "promo": 600,
+          "sold_out": false
+        },
+        {
+          "origin": 580,
+          "weight": "30kg",
+          "promo": 580,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E6%9E%9C%E5%88%A9%E8%97%9D%E4%BC%8E%E6%A3%AE%E6%9E%97-%E5%87%B1%E8%95%BE%E8%8E%8A%E5%9C%92-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "果利藝伎森林",
+    "name": "衣索比亞 果利藝伎森林 格拉莊園 水洗 G1",
+    "flavor": "柑橘、微果酸、淡蔗甜、杏桃、花香和森林系香氛、口感乾淨細緻",
+    "price_info": {
+      "units": [
+        {
+          "origin": 600,
+          "weight": "3kg",
+          "promo": 600,
+          "sold_out": false
+        },
+        {
+          "origin": 580,
+          "weight": "30kg",
+          "promo": 580,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E6%9E%9C%E5%88%A9%E8%97%9D%E4%BC%8E%E6%A3%AE%E6%9E%97-%E6%A0%BC%E6%8B%89%E8%8E%8A%E5%9C%92-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "果利藝伎森林",
+    "name": "衣索比亞 果利藝伎森林 南布莎莊園 日曬 G1",
+    "flavor": "柑橘、莓果、葡萄、淡花香、熟果香，櫻桃的微酸甜感、口感滑潤帶香韻",
+    "price_info": {
+      "units": [
+        {
+          "origin": 510,
+          "weight": "3kg",
+          "promo": 510,
+          "sold_out": false
+        },
+        {
+          "origin": 490,
+          "weight": "30kg",
+          "promo": 490,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E6%9E%9C%E5%88%A9%E8%97%9D%E4%BC%8E%E6%A3%AE%E6%9E%97-%E5%8D%97%E5%B8%83%E8%8E%8E%E8%8E%8A%E5%9C%92-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "果利藝伎森林",
+    "name": "衣索比亞 果利藝伎森林 柯瑪奇莊園 日曬 G1",
+    "flavor": "柑橘、茉莉花香、荔枝、薄荷、杏仁可可",
+    "price_info": {
+      "units": [
+        {
+          "origin": 490,
+          "weight": "3kg",
+          "promo": 490,
+          "sold_out": false
+        },
+        {
+          "origin": 470,
+          "weight": "30kg",
+          "promo": 470,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E6%9E%9C%E5%88%A9%E8%97%9D%E4%BC%8E%E6%A3%AE%E6%9E%97-%E6%9F%AF%E7%91%AA%E5%A5%87%E8%8E%8A%E5%9C%92-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "科契爾",
+    "name": "衣索比亞 科契爾",
+    "flavor": "蜂蜜甜、胡桃香氣、乾淨、柚香",
+    "price_info": {
+      "units": [
+        {
+          "origin": 470,
+          "weight": "3kg",
+          "promo": 470,
+          "sold_out": false
+        },
+        {
+          "origin": 450,
+          "weight": "30kg",
+          "promo": 450,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E7%A7%91%E5%A5%91%E7%88%BE-%E7%A2%A7%E6%B4%9B%E9%9B%85-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "科契爾",
+    "name": "衣索比亞 科契爾 哈瑪 日曬 G1",
+    "flavor": "莓果、 蜜桃、花香、 490   水果調性豐富",
+    "price_info": {
+      "units": [
+        {
+          "origin": 490,
+          "weight": "3kg",
+          "promo": 490,
+          "sold_out": false
+        },
+        {
+          "origin": 470,
+          "weight": "30kg",
+          "promo": 470,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E7%A7%91%E5%A5%91%E7%88%BE-%E5%93%88%E7%91%AA-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "科契爾",
+    "name": "衣索比亞 科契爾 羅絲堤 日曬 G1",
+    "flavor": "柑橘、 葡萄、淡花香、水果風味、紅茶調",
+    "price_info": {
+      "units": [
+        {
+          "origin": 480,
+          "weight": "3kg",
+          "promo": 480,
+          "sold_out": false
+        },
+        {
+          "origin": 460,
+          "weight": "30kg",
+          "promo": 460,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E7%A7%91%E5%A5%91%E7%88%BE-%E7%BE%85%E7%B5%B2%E5%A0%A4-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "谷吉",
+    "name": "衣索比亞 谷吉 班蒂嫩卡 日曬 G1",
+    "flavor": "香蕉、可可、草莓奶昔、水果香氣",
+    "price_info": {
+      "units": [
+        {
+          "origin": 480,
+          "weight": "3kg",
+          "promo": 480,
+          "sold_out": false
+        },
+        {
+          "origin": 460,
+          "weight": "30kg",
+          "promo": 460,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%B0%B7%E5%90%89-%E7%8F%AD%E8%92%82%E5%AB%A9%E5%8D%A1-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "谷吉",
+    "name": "衣索比亞 谷吉 罕貝拉 沐雨 水洗 G1",
+    "flavor": "青檸 、百合花香、柚香、荔枝、杏仁可可、甘蔗甜感",
+    "price_info": {
+      "units": [
+        {
+          "origin": 470,
+          "weight": "3kg",
+          "promo": 470,
+          "sold_out": false
+        },
+        {
+          "origin": 450,
+          "weight": "30kg",
+          "promo": 450,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%B0%B7%E5%90%89-%E7%BD%95%E8%B2%9D%E6%8B%89-%E6%B2%90%E9%9B%A8-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "谷吉",
+    "name": "衣索比亞 谷吉 罕貝拉 晨曦 日曬 G1",
+    "flavor": "柑橘、花香、仙草、杏仁可可、柑橘酒體、甘蔗甜感",
+    "price_info": {
+      "units": [
+        {
+          "origin": 460,
+          "weight": "3kg",
+          "promo": 460,
+          "sold_out": false
+        },
+        {
+          "origin": 480,
+          "weight": "30kg",
+          "promo": 480,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%B0%B7%E5%90%89-%E7%BD%95%E8%B2%9D%E6%8B%89-%E6%99%A8%E6%9B%A6-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "谷吉",
+    "name": "衣索比亞 谷吉 烏拉嘎 黃蜜  G1",
+    "flavor": "檸檬、果香、焦糖、奶油、核桃、口感圓潤",
+    "price_info": {
+      "units": [
+        {
+          "origin": 580,
+          "weight": "3kg",
+          "promo": 580,
+          "sold_out": false
+        },
+        {
+          "origin": 550,
+          "weight": "30kg",
+          "promo": 550,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%B0%B7%E5%90%89-%E7%83%8F%E6%8B%89%E5%98%8E-%E9%BB%83%E8%9C%9C-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "谷吉",
+    "name": "衣索比亞 谷吉 烏拉嘎 紅蜜 G1",
+    "flavor": "淡花香、檸檬皮、葡萄柚、黑麥酒體飽滿",
+    "price_info": {
+      "units": [
+        {
+          "origin": 580,
+          "weight": "3kg",
+          "promo": 580,
+          "sold_out": false
+        },
+        {
+          "origin": 550,
+          "weight": "30kg",
+          "promo": 550,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%B0%B7%E5%90%89-%E7%83%8F%E6%8B%89%E5%98%8E-%E7%B4%85%E8%9C%9C-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "耶加",
+    "name": "衣索比亞 耶加 孔加 汐蝶 水洗 G1",
+    "flavor": "柑橘、花蜜、香草、甜桃",
+    "price_info": {
+      "units": [
+        {
+          "origin": 450,
+          "weight": "3kg",
+          "promo": 450,
+          "sold_out": false
+        },
+        {
+          "origin": 470,
+          "weight": "30kg",
+          "promo": 470,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%80%B6%E5%8A%A0-%E5%AD%94%E5%8A%A0-%E6%B1%90%E8%9D%B6-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "耶加",
+    "name": "衣索比亞 耶加 科契爾 日曬 G1",
+    "flavor": "葡萄乾、莓果、果味、蜂蜜、焦糖、微微的柑橘和藍莓",
+    "price_info": {
+      "units": [
+        {
+          "origin": 480,
+          "weight": "3kg",
+          "promo": 480,
+          "sold_out": false
+        },
+        {
+          "origin": 460,
+          "weight": "30kg",
+          "promo": 460,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%80%B6%E5%8A%A0-%E7%A7%91%E5%A5%91%E7%88%BE-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "耶加",
+    "name": "衣索比亞 耶加 果丁丁 日曬 G1",
+    "flavor": "土鳳梨、青蘋果酸、杏仁可可、茶香、莓果香甜感、水蜜桃、熱帶水果風味",
+    "price_info": {
+      "units": [
+        {
+          "origin": 460,
+          "weight": "3kg",
+          "promo": 460,
+          "sold_out": false
+        },
+        {
+          "origin": 440,
+          "weight": "30kg",
+          "promo": 440,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%80%B6%E5%8A%A0-%E6%9E%9C%E4%B8%81%E4%B8%81-%E6%97%A5%E6%9B%AC-g1-2023?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "耶加",
+    "name": "衣索比亞 耶加 雪莓 厭氧發酵 G1",
+    "flavor": "檸檬、莓果、橙香、焦糖奶油、蜜餞甜香、龍眼乾、熱帶水果酒體",
+    "price_info": {
+      "units": [
+        {
+          "origin": 680,
+          "weight": "3kg",
+          "promo": 680,
+          "sold_out": false
+        },
+        {
+          "origin": 660,
+          "weight": "30kg",
+          "promo": 660,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%80%B6%E5%8A%A0-%E9%9B%AA%E8%8E%93-%E5%8E%AD%E6%B0%A7%E7%99%BC%E9%85%B5-g1?authuser=0"
+  },
+  {
+    "country": "日曬",
+    "eng_name": "日曬",
+    "region": "",
+    "name": "日曬",
+    "flavor": "柑橘、黑莓、薄荷、紅葡萄酒體、口感圓潤順滑",
+    "price_info": {
+      "units": [
+        {
+          "origin": 480,
+          "weight": "3kg",
+          "promo": 480,
+          "sold_out": false
+        },
+        {
+          "origin": 460,
+          "weight": "30kg",
+          "promo": 460,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E6%A0%BC%E6%8B%89%E8%8E%8A%E5%9C%92-%E6%97%A5%E6%9B%AC-74112-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "西達摩",
+    "name": "衣索比亞 西達摩 波莉夏 日曬 G1",
+    "flavor": "柑橘茶、水梨、橙子酸香、淡薄荷、熱帶水果風味、桂圓、回甘甜感",
+    "price_info": {
+      "units": [
+        {
+          "origin": 420,
+          "weight": "3kg",
+          "promo": 420,
+          "sold_out": false
+        },
+        {
+          "origin": 440,
+          "weight": "30kg",
+          "promo": 440,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%A5%BF%E9%81%94%E6%91%A9-%E6%B3%A2%E8%8E%89%E5%A4%8F-%E6%97%A5%E6%9B%AC-g1?authuser=0"
+  },
+  {
+    "country": "肯亞",
+    "eng_name": "Kenya",
+    "region": "PB",
+    "name": "肯亞 PB 標準圓豆",
+    "flavor": "",
+    "price_info": {
+      "units": [
+        {
+          "origin": 390,
+          "weight": "3kg",
+          "promo": 390,
+          "sold_out": true
+        },
+        {
+          "origin": 370,
+          "weight": "60kg",
+          "promo": 370,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E9%9D%9E%E6%B4%B2/%E8%82%AF%E4%BA%9E-pb-%E6%A8%99%E6%BA%96%E5%9C%93%E8%B1%86?authuser=0"
+  },
+  {
+    "country": "巴拿馬",
+    "eng_name": "Panama",
+    "region": "聖塔莊園",
+    "name": "巴拿馬 聖塔莊園 極硬豆 水洗",
+    "flavor": "黑巧克力、紅櫻桃、甜瓜、檸檬",
+    "price_info": {
+      "units": [
+        {
+          "origin": 330,
+          "weight": "3kg",
+          "promo": 330,
+          "sold_out": true
+        },
+        {
+          "origin": 310,
+          "weight": "30kg",
+          "promo": 310,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E4%B8%8B%E6%9E%B6%E5%8D%80/%E5%9D%A6%E5%B0%9A%E5%B0%BC%E4%BA%9E-%E5%90%89%E5%8A%9B%E9%A6%AC%E6%9C%AD%E7%BE%85-aa?authuser=0"
+  },
+  {
+    "country": "哥斯大黎加",
+    "eng_name": "Costa Rica",
+    "region": "沛拉斯莊園",
+    "name": "哥斯大黎加 沛拉斯莊園 雨林聯盟 水洗",
+    "flavor": "黑巧克力、核果、甘草、櫻桃",
+    "price_info": {
+      "units": [
+        {
+          "origin": 370,
+          "weight": "69kg",
+          "promo": 370,
+          "sold_out": false
+        },
+        {
+          "origin": 390,
+          "weight": "3kg",
+          "promo": 390,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E4%B8%AD%E7%BE%8E%E6%B4%B2/%E5%93%A5%E6%96%AF%E5%A4%A7%E9%BB%8E%E5%8A%A0-%E6%B2%9B%E6%8B%89%E6%96%AF%E8%8E%8A%E5%9C%92-%E9%9B%A8%E6%9E%97%E8%81%AF%E7%9B%9F-%E6%B0%B4%E6%B4%97?authuser=0"
+  },
+  {
+    "country": "巴布亞新幾內亞",
+    "eng_name": "Papua New Guinea",
+    "region": "基梅爾莊園",
+    "name": "巴布亞新幾內亞  基梅爾莊園 A",
+    "flavor": "柑橘、可可、堅果、微蜂蜜甜感",
+    "price_info": {
+      "units": [
+        {
+          "origin": 395,
+          "weight": "3kg",
+          "promo": 395,
+          "sold_out": false
+        },
+        {
+          "origin": 375,
+          "weight": "30kg",
+          "promo": 375,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E4%BA%9E%E6%B4%B2/%E5%B7%B4%E5%B8%83%E4%BA%9E%E6%96%B0%E5%B9%BE%E5%85%A7%E4%BA%9E-%E5%9F%BA%E6%A2%85%E7%88%BE%E8%8E%8A%E5%9C%92-a?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "西達摩",
+    "name": "衣索比亞 西達摩 日曬 G3",
+    "flavor": "檸檬、柑橘茶香、熱帶水果、橘子酒",
+    "price_info": {
+      "units": [
+        {
+          "origin": 270,
+          "weight": "3kg",
+          "promo": 270,
+          "sold_out": false
+        },
+        {
+          "origin": 250,
+          "weight": "30kg",
+          "promo": 250,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%A5%BF%E9%81%94%E6%91%A9-%E6%97%A5%E6%9B%AC-g3?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "耶加",
+    "name": "衣索比亞 耶加 雪列圖 水洗 G1",
+    "flavor": "莓果、檸檬清香、花果味、蔗甜感、優雅尾韻",
+    "price_info": {
+      "units": [
+        {
+          "origin": 360,
+          "weight": "3kg",
+          "promo": 360,
+          "sold_out": false
+        },
+        {
+          "origin": 340,
+          "weight": "30kg",
+          "promo": 340,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%80%B6%E5%8A%A0-%E9%9B%AA%E5%88%97%E5%9C%96-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "耶加",
+    "name": "衣索比亞 耶加 果波塔村 水洗 G1",
+    "flavor": "柑橘、花香、青蘋果酸、烤榛果、莓果甘甜、黑糖、奶油、梨子",
+    "price_info": {
+      "units": [
+        {
+          "origin": 360,
+          "weight": "3kg",
+          "promo": 360,
+          "sold_out": false
+        },
+        {
+          "origin": 340,
+          "weight": "30kg",
+          "promo": 340,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E8%80%B6%E5%8A%A0-%E6%9E%9C%E6%B3%A2%E5%A1%94%E6%9D%91-%E6%B0%B4%E6%B4%97-g1?authuser=0"
+  },
+  {
+    "country": "衣索比亞",
+    "eng_name": "Ethiopia",
+    "region": "格拉",
+    "name": "衣索比亞 格拉 水洗 74110 G1",
+    "flavor": "青蘋果、花香、薄荷、柔順果酸、麥芽糖香氣",
+    "price_info": {
+      "units": [
+        {
+          "origin": 390,
+          "weight": "3kg",
+          "promo": 390,
+          "sold_out": false
+        },
+        {
+          "origin": 370,
+          "weight": "30kg",
+          "promo": 370,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E8%A1%A3%E7%B4%A2%E6%AF%94%E4%BA%9E-%E6%A0%BC%E6%8B%89-%E6%B0%B4%E6%B4%97-74110-g1?authuser=0"
+  },
+  {
+    "country": "肯亞",
+    "eng_name": "Kenya",
+    "region": "AA",
+    "name": "肯亞 AA TOP 卡拉蒂娜處理廠 微批次",
+    "flavor": "葡萄柚、烏梅、山核桃、紅糖",
+    "price_info": {
+      "units": [
+        {
+          "origin": 410,
+          "weight": "3kg",
+          "promo": 410,
+          "sold_out": false
+        },
+        {
+          "origin": 390,
+          "weight": "30kg",
+          "promo": 390,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E8%82%AF%E4%BA%9E-aa-top-%E5%8D%A1%E6%8B%89%E8%92%82%E5%A8%9C%E8%99%95%E7%90%86%E5%A0%B4-%E5%BE%AE%E6%89%B9%E6%AC%A1?authuser=0"
+  },
+  {
+    "country": "坦尚尼亞",
+    "eng_name": "Tanzania",
+    "region": "吉力馬札羅",
+    "name": "坦尚尼亞 吉力馬札羅 曼薩拉合作社 PB FAQ",
+    "flavor": "青橘、葡萄乾、黑莓、甘草、可可、焦糖",
+    "price_info": {
+      "units": [
+        {
+          "origin": 340,
+          "weight": "3kg",
+          "promo": 340,
+          "sold_out": false
+        },
+        {
+          "origin": 320,
+          "weight": "60kg",
+          "promo": 320,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E5%9D%A6%E5%B0%9A%E5%B0%BC%E4%BA%9E-%E5%90%89%E5%8A%9B%E9%A6%AC%E6%9C%AD%E7%BE%85-%E6%9B%BC%E8%96%A9%E6%8B%89%E5%90%88%E4%BD%9C%E7%A4%BE-pb-faq?authuser=0"
+  },
+  {
+    "country": "瓜地馬拉",
+    "eng_name": "Guatemala",
+    "region": "夢蕾拉",
+    "name": "瓜地馬拉 夢蕾拉 水洗",
+    "flavor": "黑巧克力、葡萄乾、黑醋栗、蜂蜜、甘草、豐潤多汁口感",
+    "price_info": {
+      "units": [
+        {
+          "origin": 350,
+          "weight": "3kg",
+          "promo": 350,
+          "sold_out": false
+        },
+        {
+          "origin": 330,
+          "weight": "30kg",
+          "promo": 330,
+          "sold_out": true
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E7%93%9C%E5%9C%B0%E9%A6%AC%E6%8B%89-%E5%A4%A2%E8%95%BE%E6%8B%89-%E6%B0%B4%E6%B4%97?authuser=0"
+  },
+  {
+    "country": "宏都拉斯",
+    "eng_name": "Honduras",
+    "region": "SHG",
+    "name": "宏都拉斯 SHG EP 科潘 雨林聯盟",
+    "flavor": "烤花生、杏、桃、柑橘、麥芽、圓潤平衡、持久的餘味",
+    "price_info": {
+      "units": [
+        {
+          "origin": 310,
+          "weight": "3kg",
+          "promo": 310,
+          "sold_out": false
+        },
+        {
+          "origin": 290,
+          "weight": "69kg",
+          "promo": 290,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E5%AE%8F%E9%83%BD%E6%8B%89%E6%96%AF-shg-ep-%E7%A7%91%E6%BD%98-%E9%9B%A8%E6%9E%97%E8%81%AF%E7%9B%9F?authuser=0"
+  },
+  {
+    "country": "肯亞",
+    "eng_name": "Kenya",
+    "region": "PB",
+    "name": "肯亞 PB TOP 恩甘杜處理廠 微批次",
+    "flavor": "葡萄柚、檸檬、山核桃、紅糖",
+    "price_info": {
+      "units": [
+        {
+          "origin": 410,
+          "weight": "3kg",
+          "promo": 410,
+          "sold_out": false
+        },
+        {
+          "origin": 390,
+          "weight": "60kg",
+          "promo": 390,
+          "sold_out": false
+        }
+      ]
+    },
+    "link": "https://sites.google.com/hohsin.com/quo/%E7%89%B9%E5%83%B9%E5%8D%80/%E8%82%AF%E4%BA%9E-pb-top-%E6%81%A9%E7%94%98%E6%9D%9C%E8%99%95%E7%90%86%E5%BB%A0-%E5%BE%AE%E6%89%B9%E6%AC%A1?authuser=0"
+  }
+]
