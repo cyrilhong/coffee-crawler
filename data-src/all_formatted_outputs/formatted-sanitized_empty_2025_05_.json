@@ -1,0 +1,2117 @@
+[
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞 涅里產區 卡洛圖處理廠 AB 級",
+    "eng_name": "Kenya Nyeri Karogoto Washed AB",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞 奇里雅加產區 凱恩處理廠 AB 級",
+    "eng_name": "Kenya Kirinyaga Kiangombe Washed AB",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda Western Province Nyamasheke Kilimbi A1 Honey",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda WPR Nyamasheke Kilimbi A1 Natural",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense La Guaca Black Honey",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Finca Vista al Chirripo Natural Geisha",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "葉門 薩奈省 赫拉茲 馬娜卡 日曬",
+    "eng_name": "Yemen Sana'a Haraaz Manakha Natural",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 考卡山谷省 無暇莊園 經典系列",
+    "eng_name": "Colombia Cauca Finca Inmaculada Family Reserve",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 托利馬省 二氧化碳浸漬",
+    "eng_name": "Colombia Tolima Carbonic Maceration Natural Red",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 娜玲瓏 社區小農 希望批次",
+    "eng_name": "Colombia Narino La Esperanza Washed",
+    "country": "",
+    "category": null,
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎 聖塔維尼村",
+    "eng_name": "Ethiopia Sidama Bensa Shantawene Buncho Washed G1",
+    "country": "",
+    "category": "衣索比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎鎮 薩佳拉",
+    "eng_name": "Ethiopia Sidama Bensa Sagara Hechi Washed G1",
+    "country": "",
+    "category": "衣索比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎鎮 達摩村",
+    "eng_name": "Ethiopia Sidama Bensa Damo Washed G1",
+    "country": "",
+    "category": "衣索比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 蓋德奧 耶加雪菲 科契爾鎮",
+    "eng_name": "Ethiopia Gedeo Yirgacheffe Kochere Washed G2",
+    "country": "",
+    "category": "衣索比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎鎮 水洗 G2",
+    "eng_name": "Ethiopia Sidama Bensa Washed G2",
+    "country": "",
+    "category": "衣索比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 蓋德奧 耶加雪菲 維娜果鎮",
+    "eng_name": "Ethiopia Gedeo Yirgacheffe Wenago Mokanisa Washed G2",
+    "country": "",
+    "category": "衣索比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎鎮 康卡納處理廠",
+    "eng_name": "Ethiopia Sidama Bensa Qonqona Orange Blossom Double",
+    "country": "",
+    "category": "衣索比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎鎮 康卡納處理廠",
+    "eng_name": "Ethiopia Sidama Bensa Qonqona Rose Double Anaerobic",
+    "country": "",
+    "category": "衣索比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎鎮 康卡納處理廠",
+    "eng_name": "Ethiopia Sidama Bensa Qonqona Lychee Double Anaerobic",
+    "country": "",
+    "category": "衣索比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎 聖塔維尼村",
+    "eng_name": "Ethiopia Sidama Bensa Shantawene Gatta Honey G1",
+    "country": "",
+    "category": "衣索比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 蓋德奧 耶加雪菲 喬蓓莎村",
+    "eng_name": "Ethiopia Gedeo Yirgacheffe Gedeb Chelbesa Danche",
+    "country": "",
+    "category": "衣索比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 班莎 聖塔維尼村",
+    "eng_name": "Ethiopia Sidama Bensa Shantawene Buncho Honey G1",
+    "country": "",
+    "category": "衣索比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 西阿爾西區 卡卡夏鎮",
+    "eng_name": "Ethiopia Sidama West Arsi Kokosa Yiromnesh Roba",
+    "country": "",
+    "category": "衣索比亞 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞 西達馬 水豚君 日曬",
+    "eng_name": "Ethiopia Sidama Natural PB G1",
+    "country": "",
+    "category": "衣索比亞 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞 涅里產區 蜂蜜 Top AA 級",
+    "eng_name": "Kenya Nyeri Asali Top Washed AA",
+    "country": "",
+    "category": "非洲 / 肯亞",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞 奇里雅加產區 卡姆旺處理廠 AA 級",
+    "eng_name": "Kenya Kirinyaga Kamwangi Washed AA",
+    "country": "",
+    "category": "非洲 / 肯亞",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞 涅里產區 蜂蜜 Top AB 級",
+    "eng_name": "Kenya Nyeri Asali Top Washed AB",
+    "country": "",
+    "category": "非洲 / 肯亞",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞 AA 級 FAQ",
+    "eng_name": "Kenya FAQ Washed AA",
+    "country": "",
+    "category": "非洲 / 肯亞",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 西部省 亞瑪雪克",
+    "eng_name": "Rwanda Western Province Nyamasheke Rugali",
+    "country": "",
+    "category": "盧安達 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 北部省 亞畢胡 席拉處理廠",
+    "eng_name": "Rwanda Northern Province Nyabihu Shyira A1 Honey",
+    "country": "",
+    "category": "盧安達 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 北部省 如霖朶 天空之城",
+    "eng_name": "Rwanda Northern Province Rulindo Juru A1 Sc 15+ Honey",
+    "country": "",
+    "category": "盧安達 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda Western Province Nyamasheke Kilimbi A1 Honey",
+    "country": "",
+    "category": "盧安達 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 北部省 亞畢胡 席拉處理廠",
+    "eng_name": "Rwanda Northern Province Nyabihu Shyira A1 Natural",
+    "country": "",
+    "category": "盧安達 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "盧安達 西部省 亞瑪雪克 其林比處理廠",
+    "eng_name": "Rwanda WPR Nyamasheke Kilimbi A1 Natural",
+    "country": "",
+    "category": "盧安達 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 聖伊西多羅處理場",
+    "eng_name": "Costa Rica Los Santos San Isidro Labrador WH Geisha",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Bojo Los Tucanes White",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Bojo Los Tucanes Red",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 里瓦斯人處理廠",
+    "eng_name": "Costa Rica Brunca Rivense Finca Vista al Chirripo",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 西部谷地 安潔莉娜莊園 黃蜜",
+    "eng_name": "Costa Rica West Valley Finca Angelina Yellow Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense La Guaca Passion Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 里瓦斯人處理廠",
+    "eng_name": "Costa Rica Brunca Rivense Vista al Chirripo Black Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense Las Torres Passion Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Red Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 西部谷地 葉爾莎處理廠",
+    "eng_name": "Costa Rica West Valley Helsar White Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 西部谷地 葉爾莎處理廠",
+    "eng_name": "Costa Rica West Valley Helsar De Zarcero Yellow Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense Yellow Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 布蘭卡 奇里波山谷",
+    "eng_name": "Costa Rica Brunca Rivense Red Honey",
+    "country": "",
+    "category": "哥斯大黎加 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 聖伊西多羅處理廠",
+    "eng_name": "Costa Rica Los Santos San Isidro Labrador Natural Geisha",
+    "country": "",
+    "category": "哥斯大黎加 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 聖伊西多羅處理廠",
+    "eng_name": "Costa Rica Los Santos Labrador Geisha Anaerobic Natural",
+    "country": "",
+    "category": "哥斯大黎加 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 塔拉珠 唐梅奧處理廠",
+    "eng_name": "Costa Rica Tarrazu Don Mayo Bajo Los Tucanes Natural",
+    "country": "",
+    "category": "哥斯大黎加 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥斯大黎加 西部谷地 葉爾莎處理廠",
+    "eng_name": "Costa Rica West Valley Helsar Santa Luica Natural",
+    "country": "",
+    "category": "哥斯大黎加 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 薩爾莎莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente La Salsa Benjamin Paz",
+    "country": "",
+    "category": "宏都拉斯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 因堤布卡 薩波特莊園",
+    "eng_name": "Honduras Intibuca El Zapote Wilmer Alexi Grau Montoya",
+    "country": "",
+    "category": "宏都拉斯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 大腳怪莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Arturo Paz Washed",
+    "country": "",
+    "category": "宏都拉斯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Pedro Sagastume",
+    "country": "",
+    "category": "宏都拉斯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Pedro Sagastume",
+    "country": "",
+    "category": "宏都拉斯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Pedro Sagastume",
+    "country": "",
+    "category": "宏都拉斯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖塔芭芭拉 蜂巢莊園 大衛小農",
+    "eng_name": "Honduras Santa Barbara La Colmena David Omar Muñoz",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 鞏瑪雅瓜 小樹莊園 荷西小農",
+    "eng_name": "Honduras Comayagua El Rentono Jose Luis Suazo",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 花漾梅洛莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Miraflores Juan",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠",
+    "eng_name": "Honduras Santa Barbara San Vicente Famila Sagastume",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 美景莊園",
+    "eng_name": "Honduras La Paz Buena Vista Alfredo Benitez Honey",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 花漾梅洛莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Miraflores Juan",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 創世莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Genesis Belarmino",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 美景莊園",
+    "eng_name": "Honduras Santa Barbara San Vicente Bella Vista Alex",
+    "country": "",
+    "category": "宏都拉斯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 金松莊園 埃德",
+    "eng_name": "Honduras Santa Barbara San Vicente Pino de Oro",
+    "country": "",
+    "category": "宏都拉斯 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 里約莊園",
+    "eng_name": "Honduras La Paz El Rio Agustin Bonilla Natural",
+    "country": "",
+    "category": "宏都拉斯 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "宏都拉斯 聖文森處理廠 托爾莊園",
+    "eng_name": "Honduras La Paz El Toril Fremin Reyes Natural",
+    "country": "",
+    "category": "宏都拉斯 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "瓜地馬拉 阿卡特南果 美妙莊園 水洗",
+    "eng_name": "Guatemala Acatenango Finca La Hermosa Geisha",
+    "country": "",
+    "category": "瓜地馬拉 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "瓜地馬拉 安提瓜 聖艾格尼絲莊園 日曬",
+    "eng_name": "Guatemala Antigua Santa Inés Bourbon Geisha Natural",
+    "country": "",
+    "category": "瓜地馬拉 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 小毛驢莊園 水洗 藝妓",
+    "eng_name": "Panama Boquete El Burro Washed Geisha #170323",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 科特瓦 女巫莊園 水洗",
+    "eng_name": "Panama Boquete Kotowa Las Brujas Washed Geisha",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 瓦肯山谷 卡門 帕洛瑪莊園",
+    "eng_name": "Panama Volcan Palomar Washed Geisha #C5",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 阿爾鐵里莊園 艾爾地塊",
+    "eng_name": "Panama Boquete Altieri Ale Washed Geisha",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 凱薩路易斯精選",
+    "eng_name": "Panama Boquete Casa Ruiz Candela Washed Geisha",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 蕾利達莊園 水洗 藝妓",
+    "eng_name": "Panama Boquete Lerida Estate Washed Geisha Lot#4",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 科特瓦 鄧肯莊園 水洗",
+    "eng_name": "Panama Boquete Kotowa Duncan Washed Geisha #A322",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 科特瓦 鄧肯莊園 精選",
+    "eng_name": "Panama Boquete Kotowa Duncan Selection Washed Geisha",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 瓦肯山谷 卡門莊園 半水洗",
+    "eng_name": "Panama Volcan Carmen Estate Semi Washed Geisha",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 艾利達莊園 水洗 卡杜",
+    "eng_name": "Panama Boquete Elida Washed Catuai #2 301223",
+    "country": "",
+    "category": "巴拿馬 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 阿爾鐵里莊園",
+    "eng_name": "Panama Boquete Altieri Alessa Natural Dry Fermentation",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 阿布 珈尼凡帝斯莊園",
+    "eng_name": "Panama Boquete Abu Double Anaerobic Natural Geisha",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 科特瓦 女巫莊園 日曬",
+    "eng_name": "Panama Boquete Kotowa Las Bruhas Natural Geisha",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 馬林塞福斯莊園",
+    "eng_name": "Panama Boquete Marine Service Ruben Anaerobic",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 凱薩路易斯精選 德里亞斯莊園",
+    "eng_name": "Panama Casa Ruiz Las Delicias Natural Geisha",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 凱薩路易斯精選",
+    "eng_name": "Panama Boquete Casa Ruiz Palma's Natural Geisha",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 科特瓦 鄧肯莊園",
+    "eng_name": "Panama Boquete Kotowa Duncan Selection Natural",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 艾利達精選 科切亞 厭氧",
+    "eng_name": "Panama Boquete Elida Selction Cochea Natural ASD",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 科特瓦 卡羅萊納莊園 日",
+    "eng_name": "Panama Boquete Kotowa Carolina Natural Geisha #1801-",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 艾利達莊園",
+    "eng_name": "Panama Boquete Elida ASD Natural Catuai #291222",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 密涅瓦莊園 日曬",
+    "eng_name": "Panama Boquete Finca Minerva Natural Pacamara Lot5",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 堂貝托莊園 日曬",
+    "eng_name": "Panama Boquete Don Beto Natural Pacamara",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 艾利達莊園 日曬",
+    "eng_name": "Panama Boquete Elida Natural Catuai #42 310124",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 凱薩路易斯 日曬",
+    "eng_name": "Panama Boquete Casa Ruiz Natural Caturra Catuai",
+    "country": "",
+    "category": "巴拿馬 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "巴拿馬 波奎特 艾利達莊園 卡杜艾種 果乾",
+    "eng_name": "Panama Boquete Elida Catuai Cascara Natural",
+    "country": "",
+    "category": "巴拿馬 / 果乾",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "薩爾瓦多 阿帕內卡山脈 莉茉莊園 厭氧日曬",
+    "eng_name": "Salvador Ahuachapan El Limo Anaerobic Natural Icatu",
+    "country": "",
+    "category": "薩爾瓦多 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "薩爾瓦多 阿帕內卡山脈 神祇莊園",
+    "eng_name": "Salvador Ahuachapan El Guarumal Anaerobic Natural",
+    "country": "",
+    "category": "薩爾瓦多 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "薩爾瓦多 阿帕內卡山脈 雅塔斯莊園",
+    "eng_name": "Salvador Ahuachapan Las LLantas Anaerobic Natural",
+    "country": "",
+    "category": "薩爾瓦多 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "薩爾瓦多 阿帕內卡山脈 神祇莊園 厭氧日曬",
+    "eng_name": "Salvador Ahuachapan Finca La Providencia Anaerobic",
+    "country": "",
+    "category": "薩爾瓦多 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Washed Geisha",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Washed Pacamara",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 薇拉省 獵鷹計畫 水洗",
+    "eng_name": "Colombia Huila La Argentina Las Aguilas Washed Chiroso",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 薇拉省 深紅花語 水洗",
+    "eng_name": "Colombia Huila El Silencio Red Washed Pink Bourbon",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 薇拉省 卡門佐社區",
+    "eng_name": "Colombia Huila Timana Camenzo Community Aerobic",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 考卡省 薇拉省 方程式精選",
+    "eng_name": "Colombia Cauca Huila Equation Washed Caturra #00192",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 金迪奧省 聖塔莫尼卡 盧茲",
+    "eng_name": "Colombia Quindio Santa Monica Luz Helena Salazar",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 娜玲瓏 社區小農 希望批次",
+    "eng_name": "Colombia Narino La Esperanza Washed",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 薇拉省 水洗 Supremo 級",
+    "eng_name": "Colombia Huila Washed Supremo",
+    "country": "",
+    "category": "哥倫比亞 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 金迪奧省 蘋果馬丁尼 蜜處理",
+    "eng_name": "Colombia Quindio Casa Negra Appletini Honey Castillo",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 金迪奧省 杏桃芒果 蜜處理",
+    "eng_name": "Colombia Quindio Casa Negra Appricot Mango Honey",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Lychee Fruit Honey",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Strawberry Honey",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Peach Fruit Honey",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Mango Fruit Honey",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Honey Dew Honey",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 金迪奧省 香蕉蛋糕 蜜處理",
+    "eng_name": "Colombia Quindio Blue Java Banana Honey Castillo",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 安蒂奧基亞省 露易莎莊園",
+    "eng_name": "Colombia Antioquia Finca La Luisa Banana Crepe Fruit",
+    "country": "",
+    "category": "哥倫比亞 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 考卡山谷省 無暇莊園 經典系列",
+    "eng_name": "Colombia Cauca Finca Inmaculada Family Reserve",
+    "country": "",
+    "category": "哥倫比亞 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞 托利馬省 二氧化碳浸漬",
+    "eng_name": "Colombia Tolima Carbonic Maceration Natural Red",
+    "country": "",
+    "category": "哥倫比亞 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "厄瓜多 洛哈省 諾莉雅莊園",
+    "eng_name": "Ecuador Loja Noria DF Anaerobic Washed Green Geisha",
+    "country": "",
+    "category": "厄瓜多 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "厄瓜多 洛哈省 伊萊莎莊園",
+    "eng_name": "Ecuador Loja Eliza DF Anaerobic Washed Green Geisha",
+    "country": "",
+    "category": "厄瓜多 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "厄瓜多 洛哈省 薇卡莊園 厭氧水洗",
+    "eng_name": "Sidra 厄瓜多金盃 No.6",
+    "country": "",
+    "category": "厄瓜多 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 卡哈瑪卡 聖胡安 曠野花鳴",
+    "eng_name": "Peru Cajamarca San Juan Washed Geisha",
+    "country": "",
+    "category": "秘魯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 亞馬遜 米拉弗洛雷斯莊園",
+    "eng_name": "Peru Amazonas Miraflores Washed Geisha",
+    "country": "",
+    "category": "秘魯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 卡哈瑪卡 墨提斯莊園 水洗 藝妓",
+    "eng_name": "Lot 1",
+    "country": "",
+    "category": "秘魯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 卡哈瑪卡 啟研之芽 水洗 紅藝妓",
+    "eng_name": "Peru Cajamarca Experimental Seed Washed Red Geisha",
+    "country": "",
+    "category": "秘魯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 亞馬遜 桑托斯莊園 水洗 藝妓",
+    "eng_name": "Peru Amazonas Los Santos Washed Geisha",
+    "country": "",
+    "category": "秘魯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 卡哈瑪卡 墨提斯莊園 水洗 卡杜拉",
+    "eng_name": "Lot 1",
+    "country": "",
+    "category": "秘魯 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 亞馬遜 桑托斯莊園 黑蜜 藝妓",
+    "eng_name": "Peru Amazonas Los Santos Black Honey Geisha",
+    "country": "",
+    "category": "秘魯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 亞馬遜 桑托斯莊園 蜜處理 藝妓",
+    "eng_name": "Peru Amazonas Los Santos Honey Geisha",
+    "country": "",
+    "category": "秘魯 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "秘魯 卡哈瑪卡 阿巴卡小農 日曬",
+    "eng_name": "Peru Cajamarca Luis Abarca Natural Caturra Lot 1",
+    "country": "",
+    "category": "秘魯 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區 瑟雷寧",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Serinen Hybrid Washed",
+    "country": "",
+    "category": "印尼 / 濕剝 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區",
+    "eng_name": "Gilbas X 厭氧濕剝",
+    "country": "",
+    "category": "印尼 / 濕剝 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 蘇北省 林東區",
+    "eng_name": "Indonesia Sumatra SUM-North Lintong TP GLBS",
+    "country": "",
+    "category": "印尼 / 濕剝 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區 黃金曼",
+    "eng_name": "Indonesia SUM ACEH Gayo GLBS Sc20",
+    "country": "",
+    "category": "印尼 / 濕剝 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 百花島 圖拉加吉 厭氧水洗",
+    "eng_name": "Indonesia Flores Ende Tura Jaji Anaerobic Washed",
+    "country": "",
+    "category": "印尼 / 濕剝 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 迦佑區 經典曼特寧",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Mandheling TP G1 GLBS",
+    "country": "",
+    "category": "印尼 / 濕剝 / 水洗",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區 蜜處理",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Honey",
+    "country": "",
+    "category": "印尼 / 蜜處理",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 爪哇島 西爪哇省 加魯 日曬",
+    "eng_name": "Indonesia Java West Java Garut Natural",
+    "country": "",
+    "category": "印尼 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 蘇門答臘 亞齊省 迦佑區",
+    "eng_name": "Indonesia Sumatra Aceh Gayo Arkhan Natural",
+    "country": "",
+    "category": "印尼 / 日曬",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "葉門 薩奈省 赫拉茲 馬娜卡 日曬",
+    "eng_name": "Yemen Sana'a Haraaz Manakha Natural",
+    "country": "",
+    "category": "亞洲 / 葉門",
+    "process": "",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": []
+    }
+  }
+]

@@ -1,0 +1,2553 @@
+[
+  {
+    "product_code": "Huila_歐畢根_Las_Brisas_Bourbon_Rayado",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila 歐畢根",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_帕帕約_Cultivares_Caturra_Chiroso",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila 帕帕約",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_奇利波本_Los_Guaduales_Geisha",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila 奇利波本",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_波本西德拉_Cultivares_Sudan_Rume",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila 波本西德拉",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_碧卡波本_El_Cielo_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_紅波本_La_Pradera_Red_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_塔比_Las_Acacias_Java",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila 塔比",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_維拉卡琳娜_Geisha",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_洛斯德利西亞斯_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Villa_Clara_Estate_奇奇納_Caldas_Caturra_Yellow_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas 奇奇納",
+    "process": "未知",
+    "specs": {},
+    "description": "未知",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 365
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Delicias_Caturra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 810
+    },
+    "description": "葡萄．黃桃．百香果．楊桃．洛神花",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 495
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 525
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Marlen_Caturra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "10.9%",
+      "density": 825
+    },
+    "description": "紅葡萄酒．黑莓．威士忌．鳳梨",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 510
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 540
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Esmeralda_Typica",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "11.2%",
+      "density": 851
+    },
+    "description": "白葡萄酒．黃桃．芒果．葡萄汁",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 630
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 660
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Acacias_Papayo",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "12%",
+      "density": 847
+    },
+    "description": "木瓜．藍莓醬．糖漬鳳梨．芒果優格",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 690
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Acacias_Ombilgon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.9%",
+      "density": 845
+    },
+    "description": "花香．莓果果醬．芭樂．香蕉牛奶．焦糖布丁",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 690
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Los_Guaduales_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.9%",
+      "density": 857
+    },
+    "description": "蔓越莓酸質．蔗糖甜．櫻桃．百香果．奶油",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 820
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 850
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_El_Triunfo_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧三重奏日曬",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 854
+    },
+    "description": "紫羅蘭．甜橙．紅莓．蜜桃．櫻桃．琴酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 850
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 880
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Herencia_Bourbon_Sidra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧慢速發酵日曬",
+    "specs": {
+      "moisture": "10.6%",
+      "density": 819
+    },
+    "description": "粉紅香檳．玫瑰．波羅蜜．黃桃．葡萄",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 880
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 910
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Varietales_Geisha",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 854
+    },
+    "description": "葡萄．莓果．藍莓果醬．覆盆莓",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1260
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1290
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Caldas_San_Jose_SL28",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "13.1%",
+      "density": 676
+    },
+    "description": "紫花香．紫色葡萄．芒果．楊桃．黑莓．水果酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 720
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 750
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Mirador_del_Gigante_Yellow_Caturra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧水洗, 三重奏",
+    "specs": {
+      "moisture": "11.6%",
+      "density": 804
+    },
+    "description": "酒浸蔓越莓．櫻桃酸質．鳳梨．百香果．可可",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 680
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 710
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Quebradita_Colombia",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水蜜桃菌種, 酵母水洗",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 822
+    },
+    "description": "麝香葡萄．靑森蘋果汁．靑蘋果．黑糖冬瓜茶",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 930
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 960
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Los_Nogales_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "巧克力莓果, 水洗",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 798
+    },
+    "description": "草莓慕斯．新鮮草莓．水蜜桃．草莓巧克力",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1230
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1200
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Quebradita_Caturra_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "菌種酵母, 水洗",
+    "specs": {
+      "moisture": "11.4%",
+      "density": 834
+    },
+    "description": "花蜜．柳橙．小玉西瓜．百香果．黃金糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 720
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 750
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Flores_Bourbon_Sidra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "熱衝擊酵母, 厭氧水洗",
+    "specs": {
+      "moisture": "10.6%",
+      "density": 840
+    },
+    "description": "桂花釀．荔枝．淡淸酒．黃檸檬．尤加利葉．綠葡萄甜",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1150
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1180
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Los_Nogales_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "熱衝擊, 厭氧水洗",
+    "specs": {
+      "moisture": "11%",
+      "density": 854
+    },
+    "description": "哈密瓜．檸檬糖．砂糖橘．草莓牛奶, 花蜜．香草冰淇淋",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1300
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1330
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_Monteverde_WushWush",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "厭氧赤焰, 日曬",
+    "specs": {
+      "moisture": "11.2%",
+      "density": 801
+    },
+    "description": "洛神花．肉桂巧克力．熱紅酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 990
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 960
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_El_Diviso_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "熱衝擊, 菌種酵母, 發酵日曬",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 848
+    },
+    "description": "玫瑰．水蜜桃汁．芒果．百香果．鳳梨．莓果果醬",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1300
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1330
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_Monteverde_Geisha",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "酵素有氧, 靛藍日曬",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 815
+    },
+    "description": "波羅蜜．芒果．木瓜．山竹．紅葡萄酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1290
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1260
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Caldas_Finca_San_Jose_Castillo",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas",
+    "process": "蘭姆日曬",
+    "specs": {
+      "moisture": "13.1%",
+      "density": 676
+    },
+    "description": "桂花釀．蘭姆酒．黑莓．葡萄乾",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1450
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1350
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Mchana_SL28_Ruiru11_K7_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.5%",
+      "density": 885
+    },
+    "description": "熟成櫻桃．紅酒香氣．黑麥．杏桃．黑莓果醬．香吉士．蘭姆酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 710
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 680
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Reura_SL28_Ruiru11_K7_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.5%",
+      "density": 877
+    },
+    "description": "粉色香檳．草莓．葡萄．芒果．水蜜桃沙瓦",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 730
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 700
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Muranga",
+    "process": "黃蜜處理",
+    "specs": {
+      "moisture": "9.4%",
+      "density": 861
+    },
+    "description": "蘋果．蜂蜜．柑橘皮．靑醋栗．軟糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian_2",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Muranga",
+    "process": "黑蜜處理",
+    "specs": {
+      "moisture": "9.8%",
+      "density": 879
+    },
+    "description": "黑莓果醬．櫻桃果醬．艾爾啤酒．瑪拉斯奇諾櫻桃．金莎巧克力",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 520
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Kamuchege_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "水洗",
+    "specs": {
+      "moisture": "8.9%",
+      "density": 884
+    },
+    "description": "醋栗．茂谷柑．蘋果．鳶尾花．明亮淸爽酸質",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 520
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Ndaroini_SL28_SL34_Ruiru11",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.3%",
+      "density": 881
+    },
+    "description": "紅醋栗．蘋果果醬．紫羅蘭．砂糖橘．水蜜桃軟糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 520
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Kiamabara_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "8.7%",
+      "density": 874
+    },
+    "description": "紫花．桃子．小紅莓．柑橘．楊桃",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 560
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 530
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Muranga_Marimira_SL28_Ruiru11_K7_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Muranga",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.0%",
+      "density": 882
+    },
+    "description": "紅醋栗．柑橘．白葡萄．水蜜桃果醬．生可可",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 590
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 560
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Nyeri_Hill_SL28_SL34_Ruiru11",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "8.6%",
+      "density": 885
+    },
+    "description": "玫瑰．黑醋栗果醬．香吉士．富士蘋果．結構扎實",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 620
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 590
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Gititu_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.8%",
+      "density": 877
+    },
+    "description": "紫羅蘭．帝王柑．黑醋栗軟糖．橘子糖．橙花．甜感飽滿",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 630
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 600
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Delicias_Caturra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 810
+    },
+    "description": "葡萄．黃桃．百香果．楊桃．洛神花",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 495
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 525
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Marlen_Caturra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "10.9%",
+      "density": 825
+    },
+    "description": "紅葡萄酒．黑莓．威士忌．鳳梨",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 510
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 540
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Esmeralda_Typica",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "11.2%",
+      "density": 851
+    },
+    "description": "白葡萄酒．黃桃．芒果．葡萄汁",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 630
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 660
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Acacias_Papayo",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "12%",
+      "density": 847
+    },
+    "description": "木瓜．藍莓醬．糖漬鳳梨．芒果優格",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 690
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Acacias_Ombilgon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.9%",
+      "density": 845
+    },
+    "description": "花香．莓果果醬．芭樂．香蕉牛奶．焦糖布丁",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 690
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Los_Guaduales_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.9%",
+      "density": 857
+    },
+    "description": "蔓越莓酸質．蔗糖甜．櫻桃．百香果．奶油",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 820
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 850
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_El_Triunfo_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧三重奏日曬",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 854
+    },
+    "description": "紫羅蘭．甜橙．紅莓．蜜桃．櫻桃．琴酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 850
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 880
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Herencia_Bourbon_Sidra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧慢速發酵日曬",
+    "specs": {
+      "moisture": "10.6%",
+      "density": 819
+    },
+    "description": "粉紅香檳．玫瑰．波羅蜜．黃桃．葡萄",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 880
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 910
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Varietales_Geisha",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 854
+    },
+    "description": "葡萄．莓果．藍莓果醬．覆盆莓",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1260
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1290
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Caldas_San_Jose_SL28",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "13.1%",
+      "density": 676
+    },
+    "description": "紫花香．紫色葡萄．芒果．楊桃．黑莓．水果酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 720
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 750
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Mirador_del_Gigante_Yellow_Caturra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧水洗, 三重奏",
+    "specs": {
+      "moisture": "11.6%",
+      "density": 804
+    },
+    "description": "酒浸蔓越莓．櫻桃酸質．鳳梨．百香果．可可",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 680
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 710
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Quebradita_Colombia",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水蜜桃菌種, 酵母水洗",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 822
+    },
+    "description": "麝香葡萄．靑森蘋果汁．靑蘋果．黑糖冬瓜茶",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 930
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 960
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Los_Nogales_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "巧克力莓果, 水洗",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 798
+    },
+    "description": "草莓慕斯．新鮮草莓．水蜜桃．草莓巧克力",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1230
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1200
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_La_Quebradita_Caturra_Pink_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "菌種酵母, 水洗",
+    "specs": {
+      "moisture": "11.4%",
+      "density": 834
+    },
+    "description": "花蜜．柳橙．小玉西瓜．百香果．黃金糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 720
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 750
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Las_Flores_Bourbon_Sidra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "熱衝擊酵母, 厭氧水洗",
+    "specs": {
+      "moisture": "10.6%",
+      "density": 840
+    },
+    "description": "桂花釀．荔枝．淡淸酒．黃檸檬．尤加利葉．綠葡萄甜",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1150
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1180
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Los_Nogales_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "熱衝擊, 厭氧水洗",
+    "specs": {
+      "moisture": "11%",
+      "density": 854
+    },
+    "description": "哈密瓜．檸檬糖．砂糖橘．草莓牛奶, 花蜜．香草冰淇淋",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1300
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1330
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_Monteverde_WushWush",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "厭氧赤焰, 日曬",
+    "specs": {
+      "moisture": "11.2%",
+      "density": 801
+    },
+    "description": "洛神花．肉桂巧克力．熱紅酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 990
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 960
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_El_Diviso_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "熱衝擊, 菌種酵母, 發酵日曬",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 848
+    },
+    "description": "玫瑰．水蜜桃汁．芒果．百香果．鳳梨．莓果果醬",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 1300
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1330
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Tolima_Monteverde_Geisha",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Tolima",
+    "process": "酵素有氧, 靛藍日曬",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 815
+    },
+    "description": "波羅蜜．芒果．木瓜．山竹．紅葡萄酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1290
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1260
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Caldas_Finca_San_Jose_Castillo_Rum",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas",
+    "process": "蘭姆日曬",
+    "specs": {
+      "moisture": "13.1%",
+      "density": 676
+    },
+    "description": "桂花釀．蘭姆酒．黑莓．葡萄乾",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1450
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1350
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Caldas_Finca_San_Jose_Castillo_Ginger",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas",
+    "process": "薑餅人, 汽水",
+    "specs": {
+      "moisture": "11%",
+      "density": 811
+    },
+    "description": "薄荷．檸檬汽水．金桔．蜂蜜",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 650
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 590
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Caldas_Finca_San_Jose_Castillo_Amaro",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Caldas",
+    "process": "杏仁甜酒, 低咖啡因水洗",
+    "specs": {
+      "moisture": "12%",
+      "density": 817
+    },
+    "description": "杏仁甜酒．貝里斯奶酒．提拉米蘇．生可可",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 1200
+        },
+        {
+          "type": "袋裝",
+          "weight": "22KG",
+          "price": 1120
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_El_Placer_Chili_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "厭氧, 蜜處理",
+    "specs": {
+      "moisture": "10.5%",
+      "density": 814
+    },
+    "description": "薰衣草．佛手柑．靑蘋果．綠葡萄．康福草",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 650
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 720
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_El_Cedron_Bourbon_Sidra",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "菌種酵母, 厭氧水洗",
+    "specs": {
+      "moisture": "11.0%",
+      "density": 811
+    },
+    "description": "百香果．芒果．柳橙．櫻桃．蘋果酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "35KG",
+          "price": 850
+        },
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 920
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Monteblanco_Purple_Caturra_Pineapple",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "鳳梨, 水洗",
+    "specs": {
+      "moisture": "11.5%",
+      "density": 815
+    },
+    "description": "紅蘋果．香蕉．鳳梨罐．黃金糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 650
+        },
+        {
+          "type": "袋裝",
+          "weight": "24KG",
+          "price": 590
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Huila_Monteblanco_Purple_Caturra_Mint",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "薄荷, 水洗",
+    "specs": {
+      "moisture": "11.7%",
+      "density": 837
+    },
+    "description": "薄荷巧克力．香蕉淸冰．肉桂．冰糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 650
+        },
+        {
+          "type": "袋裝",
+          "weight": "24KG",
+          "price": 590
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Mchana_SL28_Ruiru11_K7_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.5%",
+      "density": 885
+    },
+    "description": "熟成櫻桃．紅酒香氣．黑麥．杏桃．黑莓果醬．香吉士．蘭姆酒",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 710
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 680
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Reura_SL28_Ruiru11_K7_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "日曬",
+    "specs": {
+      "moisture": "10.5%",
+      "density": 877
+    },
+    "description": "粉色香檳．草莓．葡萄．芒果．水蜜桃沙瓦",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 730
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 700
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Muranga",
+    "process": "黃蜜處理",
+    "specs": {
+      "moisture": "9.4%",
+      "density": 861
+    },
+    "description": "蘋果．蜂蜜．柑橘皮．靑醋栗．軟糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 420
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Muranga_Kangoya_SL28_SL34_Ruiru11_Batian_2",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Muranga",
+    "process": "黑蜜處理",
+    "specs": {
+      "moisture": "9.8%",
+      "density": 879
+    },
+    "description": "黑莓果醬．櫻桃果醬．艾爾啤酒．瑪拉斯奇諾櫻桃．金莎巧克力",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 520
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Kamuchege_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "水洗",
+    "specs": {
+      "moisture": "8.9%",
+      "density": 884
+    },
+    "description": "醋栗．茂谷柑．蘋果．鳶尾花．明亮淸爽酸質",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 520
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Ndaroini_SL28_SL34_Ruiru11",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.3%",
+      "density": 881
+    },
+    "description": "紅醋栗．蘋果果醬．紫羅蘭．砂糖橘．水蜜桃軟糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 520
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 490
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Kiamabara_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "8.7%",
+      "density": 874
+    },
+    "description": "紫花．桃子．小紅莓．柑橘．楊桃",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 560
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 530
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Muranga_Marimira_SL28_Ruiru11_K7_Batian",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Muranga",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.0%",
+      "density": 882
+    },
+    "description": "紅醋栗．柑橘．白葡萄．水蜜桃果醬．生可可",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 590
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 560
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Nyeri_Hill_SL28_SL34_Ruiru11",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "8.6%",
+      "density": 885
+    },
+    "description": "玫瑰．黑醋栗果醬．香吉士．富士蘋果．結構扎實",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 620
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 590
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kiambu_Gititu_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kiambu",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.8%",
+      "density": 877
+    },
+    "description": "紫羅蘭．帝王柑．黑醋栗軟糖．橘子糖．橙花．甜感飽滿",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 630
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 600
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Nyeri_Kangocho_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Nyeri",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.7%",
+      "density": 840
+    },
+    "description": "白花．柑橘．新鮮藍莓．桃子．可爾必思乳酸",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 430
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 400
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Embu_Kevote_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Embu",
+    "process": "水洗",
+    "specs": {
+      "moisture": "10.2%",
+      "density": 838
+    },
+    "description": "茂谷柑．洛神．醋栗．黃金糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 530
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 500
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Kirinyaga_Karimikui_SL28_SL34",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "肯亞",
+    "category": "Kirinyaga",
+    "process": "水洗",
+    "specs": {
+      "moisture": "9.6%",
+      "density": 833
+    },
+    "description": "橙花．覆盆莓．帝王柑．柑橘．紅莓．伯爵奶茶",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 590
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 560
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Yirgacheffe_G2_74112_74110",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Yirgacheffe",
+    "process": "水洗",
+    "specs": {
+      "moisture": "10.6%",
+      "density": 817
+    },
+    "description": "杏桃．雞蛋花．檸檬紅茶．柳橙",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 370
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 340
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Guji_Hambela_Dekitu_74110_74112_Kurume",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Guji Hambela",
+    "process": "日曬",
+    "specs": {
+      "moisture": "11.1%",
+      "density": 846
+    },
+    "description": "紫羅蘭．甜橙．橘子果醬．楓糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 480
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 450
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Guji_Hambela_Buleye_74110_74112_74158",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Guji Hambela",
+    "process": "日曬",
+    "specs": {
+      "moisture": "11.6%",
+      "density": 831
+    },
+    "description": "橙花．玫瑰．芒果汁．草莓",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 510
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 480
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Yirgacheffe_Chelchele_74110_74112",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Yirgacheffe",
+    "process": "厭氧日曬",
+    "specs": {
+      "moisture": "11.4%",
+      "density": 826
+    },
+    "description": "香吉士．百香果．香檳葡萄．金鑽鳳梨．芒果．綿長的果汁感",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 560
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 530
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Guji_Shakiso_74110_74112_Heirloom",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Guji",
+    "process": "水洗",
+    "specs": {
+      "moisture": "11.4%",
+      "density": 844
+    },
+    "description": "百合花．柑橘．紅蘋果．脆桃",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 430
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 400
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Yirgacheffe_Chelchele_Heirloom",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Yirgacheffe",
+    "process": "水洗",
+    "specs": {
+      "moisture": "12.5%",
+      "density": 850
+    },
+    "description": "茉莉．柑橘．杏桃．莓果．香瓜甜",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 500
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 470
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Yirgacheffe_Banko_Tartu_74112_74110",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Yirgacheffe",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "11.5%",
+      "density": 813
+    },
+    "description": "芒果．蜜桃．蘋果西打．雞尾酒．草莓牛奶",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 540
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 510
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Guji_Hambela_Buleye_74112_74158",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Guji Hambela",
+    "process": "厭氧, 日曬",
+    "specs": {
+      "moisture": "11.4%",
+      "density": 838
+    },
+    "description": "藍莓．草莓．柳丁．葡萄柚",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 650
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 620
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "South_Shan_State_Aromatic_Catimor_Catuai_Caturra_Bourbon",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "緬甸",
+    "category": "South Shan State",
+    "process": "厭氧, 水洗",
+    "specs": {
+      "moisture": "10.4%",
+      "density": 805
+    },
+    "description": "黑李．紅棗．甘蔗汁",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 360
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 330
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Cerrado_Brownie_Yellow_Bourbon_Red_Catual_Obatan_Yellow_Catuai",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "巴西",
+    "category": "Cerrado",
+    "process": "日曬",
+    "specs": {
+      "moisture": "9.8%",
+      "density": 809
+    },
+    "description": "核桃．榛果．奶油",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 390
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 360
+        }
+      ]
+    }
+  }
+]

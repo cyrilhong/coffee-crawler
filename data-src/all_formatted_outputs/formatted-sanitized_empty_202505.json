@@ -1,0 +1,602 @@
+[
+  {
+    "product_code": "O25011",
+    "year": "2025",
+    "new": false,
+    "name": "巴西日曬 NY2/3 SC14/16",
+    "eng_name": "Brazil Natural NY2/3 SC14/16",
+    "country": "巴西",
+    "category": "",
+    "process": "日曬",
+    "specs": {},
+    "description": "巧克力、堅果、奶油、焦糖、配方首選",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25012",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞夏茉卡水洗 TOP G2",
+    "eng_name": "Ethiopia Chelba Washed TOP G2",
+    "country": "衣索比亞",
+    "category": "Gedeo",
+    "process": "水洗",
+    "specs": {},
+    "description": "甜橙、果汁、茉莉花、葡萄柚、果乾、紅糖",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25013",
+    "year": "2025",
+    "new": false,
+    "name": "巴西日曬 NY2 SC17/18",
+    "eng_name": "Brazil Natural NY2 SC17/18",
+    "country": "巴西",
+    "category": "",
+    "process": "日曬",
+    "specs": {},
+    "description": "牛奶巧克力、焦糖、堅果、核桃，醇厚，融合度極高",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25014",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞夏茉卡日曬 TOP G3",
+    "eng_name": "Ethiopia Chelba Natural TOP G3",
+    "country": "衣索比亞",
+    "category": "Gedeo",
+    "process": "日曬",
+    "specs": {},
+    "description": "甜橙、檸檬熟果、葡萄果汁、紅糖",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O24025",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞西達摩 TOP G4",
+    "eng_name": "Ethiopia Sidamo TOP G4 Natural",
+    "country": "衣索比亞",
+    "category": "Sidamo",
+    "process": "日曬",
+    "specs": {},
+    "description": "柑橘果肉、淡雅花香、熱帶熟果、咖啡果肉，酸甜平衡，入配絕佳選擇",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25015",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞多門處理廠 SUPER C",
+    "eng_name": "Kenya Dorman SUPER C Washed",
+    "country": "肯亞",
+    "category": "",
+    "process": "Kenyan Washed",
+    "specs": {},
+    "description": "樹莓、咖啡果肉、烏梅、柑橘",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25016",
+    "year": "2025",
+    "new": false,
+    "name": "衣索比亞水洗",
+    "eng_name": "Ethiopia Sidamo Washed",
+    "country": "衣索比亞",
+    "category": "Sidamo",
+    "process": "水洗",
+    "specs": {},
+    "description": "柑橘、檸檬、紅糖、牛奶巧克力、核桃",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25017",
+    "year": "2025",
+    "new": false,
+    "name": "哥倫比亞歐規特選 EXCELSO",
+    "eng_name": "Colombia Huila Excelso Washed",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗",
+    "specs": {},
+    "description": "巧克力、堅果、蔗糖、咖啡果肉，甜度及乾淨度高",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25018",
+    "year": "2025",
+    "new": false,
+    "name": "瓜地馬拉-薇薇特南果SHB歐規特選",
+    "eng_name": "Guatemala Huehuetenango SHB Excelso",
+    "country": "瓜地馬拉",
+    "category": "Huehuetenango",
+    "process": "水洗",
+    "specs": {},
+    "description": "牛奶巧克力、核果、奶油、柑橘、淡雅花香，甜度高，酸值平衡",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25019",
+    "year": "2025",
+    "new": false,
+    "name": "露西藝伎水洗",
+    "eng_name": "Ethiopia Lucy Geisha Washed",
+    "country": "衣索比亞",
+    "category": "Bench-maji",
+    "process": "水洗",
+    "specs": {},
+    "description": "接骨木花、茉莉花、橙花、白玫瑰、百合花、蘋果、野莓果醬、檸檬、百香果",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25020",
+    "year": "2025",
+    "new": false,
+    "name": "印尼蘇門答臘曼特寧",
+    "eng_name": "Indonesia Sumatra Mandheling",
+    "country": "印尼",
+    "category": "Sumatra",
+    "process": "Wet Hulling",
+    "specs": {},
+    "description": "巧克力、雪松、肉桂、焦糖、蜂蜜甜感",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25021",
+    "year": "2025",
+    "new": false,
+    "name": "露西藝伎日曬",
+    "eng_name": "Ethiopia Lucy Geisha Natural",
+    "country": "衣索比亞",
+    "category": "Bench-maji",
+    "process": "日曬",
+    "specs": {},
+    "description": "野薑花、咖啡花、接骨木花、檸檬熟果、蘋果、野莓果醬、百香果",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25022",
+    "year": "2025",
+    "new": false,
+    "name": "牙買加藍山 NO.1",
+    "eng_name": "Jamaica Blue Mountain No.1",
+    "country": "牙買加",
+    "category": "Blue Mountain",
+    "process": "水洗",
+    "specs": {},
+    "description": "牛奶巧克力、榛果、櫻桃、糖果、細膩清甜的果酸",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25023",
+    "year": "2025",
+    "new": false,
+    "name": "寶貝藝伎水洗",
+    "eng_name": "Ethiopia Baby Geisha Washed",
+    "country": "衣索比亞",
+    "category": "Djimma Limu",
+    "process": "水洗",
+    "specs": {},
+    "description": "橙花、蜂蜜、藍莓、葡萄、野莓，酸值柔和，甜度高且 BODY 乾淨厚實",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25024",
+    "year": "2025",
+    "new": false,
+    "name": "寶貝藝伎日曬",
+    "eng_name": "Ethiopia Baby Geisha Natural",
+    "country": "衣索比亞",
+    "category": "Djimma Limu",
+    "process": "日曬",
+    "specs": {},
+    "description": "芒果、芒果乾、檸檬糖、熱帶水果、咖啡熟果、葡萄、白色花香、甜奶油",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25025",
+    "year": "2025",
+    "new": false,
+    "name": "金寶藝伎水洗",
+    "eng_name": "Ethiopia Gimbo Geisha Washed",
+    "country": "衣索比亞",
+    "category": "Kaffa",
+    "process": "水洗",
+    "specs": {},
+    "description": "雞蛋花、葡萄、肉桂、小白花、黑醋栗",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25026",
+    "year": "2025",
+    "new": false,
+    "name": "金寶藝伎日曬",
+    "eng_name": "Ethiopia Gimbo Geisha Natural",
+    "country": "衣索比亞",
+    "category": "Kaffa",
+    "process": "日曬",
+    "specs": {},
+    "description": "柑橘、熱帶水果、咖啡果肉、葡萄、野莓",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25027",
+    "year": "2025",
+    "new": false,
+    "name": "茉香柚水洗",
+    "eng_name": "Ethiopia Uraga Washed Kurume",
+    "country": "衣索比亞",
+    "category": "Guji",
+    "process": "水洗",
+    "specs": {},
+    "description": "熱帶熟果、柚子皮、柚子果肉、甜柚、咖啡果肉、接骨木花香、檸檬果肉",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25028",
+    "year": "2025",
+    "new": false,
+    "name": "茉香柚日曬",
+    "eng_name": "Ethiopia Uraga Natural Kurume",
+    "country": "衣索比亞",
+    "category": "Guji",
+    "process": "日曬",
+    "specs": {},
+    "description": "濃郁茉莉花香、野薑花、百合花、熱帶水果、百香果、蘋果、葡萄，酸甜平衡，餘韻綿長",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25029",
+    "year": "2025",
+    "new": false,
+    "name": "花貝果娜水洗",
+    "eng_name": "Ethiopia Arbegona Washed",
+    "country": "衣索比亞",
+    "category": "Sidamo",
+    "process": "水洗",
+    "specs": {},
+    "description": "野薑花、杏桃、百合花、熱帶果汁、百香果、荔枝、覆盆子、玫瑰",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25030",
+    "year": "2025",
+    "new": false,
+    "name": "花貝果娜日曬",
+    "eng_name": "Ethiopia Arbegona Natural",
+    "country": "衣索比亞",
+    "category": "Sidamo",
+    "process": "日曬",
+    "specs": {},
+    "description": "玫瑰花、紫羅蘭、百香果、葡萄、蘋果、杏桃、水果甜",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25031",
+    "year": "2025",
+    "new": false,
+    "name": "夏茉卡水洗 TOP G1",
+    "eng_name": "Ethiopia Chelba Washed TOP G1",
+    "country": "衣索比亞",
+    "category": "Gedeo",
+    "process": "水洗",
+    "specs": {},
+    "description": "橙花、茉莉花、百香果、血橙、葡萄、熟果",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25032",
+    "year": "2025",
+    "new": false,
+    "name": "夏茉卡日曬 TOP G1",
+    "eng_name": "Ethiopia Chelba Natural TOP G1",
+    "country": "衣索比亞",
+    "category": "Gedeo",
+    "process": "日曬",
+    "specs": {},
+    "description": "甜橙、血橙、果汁、茉莉花、百香果、熱帶水果、葡萄柚、果乾、紅糖",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25033",
+    "year": "2025",
+    "new": false,
+    "name": "天使藝伎水洗",
+    "eng_name": "Ethiopia Gotiti Geisha Washed",
+    "country": "衣索比亞",
+    "category": "Yirgacheffe",
+    "process": "水洗",
+    "specs": {},
+    "description": "茉莉花、野薑花、甜桃、蘋果、檸檬、櫻桃",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25034",
+    "year": "2025",
+    "new": false,
+    "name": "天使藝伎日曬",
+    "eng_name": "Ethiopia Gotiti Geisha Natural",
+    "country": "衣索比亞",
+    "category": "Yirgacheffe",
+    "process": "日曬",
+    "specs": {},
+    "description": "芳香萬壽菊、百香果、葡萄、蘋果、檸檬",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25035",
+    "year": "2025",
+    "new": false,
+    "name": "芭絲特藝伎水洗",
+    "eng_name": "Ethiopia Hambella Buku Abel Geisha Washed",
+    "country": "衣索比亞",
+    "category": "Guji/Hambella",
+    "process": "水洗",
+    "specs": {},
+    "description": "牡丹花、紫羅蘭、葡萄、柑橘糖果、檸檬、甜柚",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25036",
+    "year": "2025",
+    "new": false,
+    "name": "芭絲特藝伎日曬",
+    "eng_name": "Ethiopia Hambella Buku Abel Geisha Natural",
+    "country": "衣索比亞",
+    "category": "Guji/Hambella",
+    "process": "日曬",
+    "specs": {},
+    "description": "梔子花、晚香玉、百香果、熱帶熟果、蘋果、甜梨",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25037",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞辛巴水洗",
+    "eng_name": "Kenya Cimba Geisha Washed",
+    "country": "肯亞",
+    "category": "Kirinyaga County",
+    "process": "水洗",
+    "specs": {},
+    "description": "蘋果、檸檬、白花香、甜橙、黑醋栗、青梅",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25038",
+    "year": "2025",
+    "new": false,
+    "name": "肯亞辛巴日曬",
+    "eng_name": "Kenya Cimba Geisha Natural",
+    "country": "肯亞",
+    "category": "Kirinyaga County",
+    "process": "日曬",
+    "specs": {},
+    "description": "熱帶水果、百香果、鳳梨、甜橙、葡萄、茉莉花香",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25039",
+    "year": "2025",
+    "new": false,
+    "name": "水果拼盤 - 葡萄",
+    "eng_name": "Colombia Huila Fruit Blend - Grape",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "葡萄果肉、野莓、葡萄果醬",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25040",
+    "year": "2025",
+    "new": false,
+    "name": "水果拼盤 - 鳳梨",
+    "eng_name": "Colombia Huila Fruit Blend - Pineapple",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "鳳梨、土鳳梨、鳳梨果肉、鳳梨果醬，可做單品也可以做為配方使用",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25041",
+    "year": "2025",
+    "new": false,
+    "name": "水果拼盤 - 荔枝",
+    "eng_name": "Colombia Huila Fruit Blend - Lychee",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "荔枝果肉、莓果、甜桃",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25042",
+    "year": "2025",
+    "new": false,
+    "name": "水果拼盤 - 草莓",
+    "eng_name": "Colombia Huila Fruit Blend - Strawberry",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "濃郁草莓香氣、草莓醬、草莓奶油夾心餅乾，可做單品也可以做為配方使用",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25043",
+    "year": "2025",
+    "new": false,
+    "name": "水果拼盤 - 百香果",
+    "eng_name": "Colombia Huila Fruit Blend - Passion Fruit",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "百香果糖漿、百香果肉、百香果汁、葡萄，可做單品也可以做為配方使用",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25044",
+    "year": "2025",
+    "new": false,
+    "name": "水果拼盤 - 水蜜桃",
+    "eng_name": "Colombia Huila Fruit Blend - Peach",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "水蜜桃果肉、杏桃、香草、水蜜桃醬，可做單品也可以做為配方使用",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25045",
+    "year": "2025",
+    "new": false,
+    "name": "長老的最愛：小米酒咖啡豆",
+    "eng_name": "Colombia Huila Millet Wine Washed",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "Millet Wine Tank Washed",
+    "specs": {},
+    "description": "小米酒香、威士忌、甜麥芽、蘋果、葡萄，甜度高且口感厚實",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25046",
+    "year": "2025",
+    "new": false,
+    "name": "釀酒人-01特調",
+    "eng_name": "Colombia Huila Brewer - Special Blend",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "葡萄果肉、威士忌、紅酒、香檳、熱帶熟果，酒味適中且可客製化調整，口感滑順，酸甜平衡",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25047",
+    "year": "2025",
+    "new": false,
+    "name": "釀酒人-02香檳",
+    "eng_name": "Colombia Huila Brewer - Champagne",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "葡萄果肉、紅酒、香檳、熱帶熟果，酒味較輕，口感滑順，酸值明亮甜度高",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25048",
+    "year": "2025",
+    "new": false,
+    "name": "釀酒人-03紅酒",
+    "eng_name": "Colombia Huila Brewer - Red Wine",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "葡萄果肉、紅酒、威士忌、熱帶熟果，酒味較重、口感厚實、甜度高",
+    "price_info": {
+      "units": []
+    }
+  },
+  {
+    "product_code": "O25049",
+    "year": "2025",
+    "new": false,
+    "name": "釀酒人-04元氣",
+    "eng_name": "Colombia Huila Brewer - Energy",
+    "country": "哥倫比亞",
+    "category": "Huila",
+    "process": "水洗特殊後製",
+    "specs": {},
+    "description": "葡萄果汁、龍眼蜜、香蕉、威士忌、熱帶熟果，酒味適中，酸甜平衡，口感順滑",
+    "price_info": {
+      "units": []
+    }
+  }
+]

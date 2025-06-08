@@ -1,0 +1,455 @@
+[
+  {
+    "product_code": "衣索比亞_古吉_布谷_高棚_日曬_G1",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "古吉 Buku",
+    "process": "日曬",
+    "specs": {},
+    "description": "草莓、藍莓、熱帶水果、酸甜平衡",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 535
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "衣索比亞_古吉_罕貝拉_水洗_G1",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "古吉 Hambela",
+    "process": "水洗",
+    "specs": {},
+    "description": "柑橘、紅茶、花香、酸甜平衡",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 535
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "衣索比亞_1931_藝妓_日曬_G1",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "未知",
+    "process": "日曬",
+    "specs": {},
+    "description": "藍莓、花香、熱帶水果、酸甜平衡",
+    "price_info": {
+      "units": [
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 570
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "秘藍_Jazz_塔拉珠_畢哈瓜_日曬",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥斯大黎加",
+    "category": "塔拉珠",
+    "process": "日曬",
+    "specs": {},
+    "description": "藍莓、蜂蜜、葡萄、葡萄乾、無花果，熱帶水果風味，層次豐富",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 670
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 650
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "哥斯大黎加_蜜月_卡里薩爾_蜜處理",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥斯大黎加",
+    "category": "中央谷地",
+    "process": "蜜處理",
+    "specs": {},
+    "description": "焦糖、紅糖、柑橘、葡萄、蜂蜜，整體口感豐富多汁",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 870
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 850
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "土元素_烏列爾_神木莊園_維拉羅伯_紅蜜處理",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥斯大黎加",
+    "category": "西部山谷",
+    "process": "紅蜜處理",
+    "specs": {},
+    "description": "榛果、葡萄、柳橙、蜂蜜、紅糖、焦糖、杏仁，均衡風味",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 430
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 350
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "火元素_米歇爾_卡里薩爾_卡杜拉_水洗",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥斯大黎加",
+    "category": "中央山谷",
+    "process": "水洗",
+    "specs": {},
+    "description": "桃子、杏桃、焦糖、榛子、蜂蜜、奶油、櫻桃、柳橙，豐富多汁、圓潤飽滿口感，乾淨清爽",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 380
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 350
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "水元素_加百列_康波斯_藝妓_日曬",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "哥斯大黎加",
+    "category": "布倫卡",
+    "process": "日曬",
+    "specs": {},
+    "description": "草莓、桃子、柑橘、葡萄、奶油、茉莉花、楓糖漿",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 830
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 0
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "漫漫春風_印尼_亞齊_迦佑_全水洗_Alinagata",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "亞齊 迦佑",
+    "process": "全水洗",
+    "specs": {},
+    "description": "雪松，柑橘、夏威夷果、檸檬紅茶、紅糖，酸值溫和，尾韻綿長，整體平衡乾淨",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 450
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 0
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "綠幽靈_印尼_亞齊_迦佑_半水洗_Alinagata",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "亞齊 迦佑",
+    "process": "半水洗",
+    "specs": {},
+    "description": "雪松、香草牛奶，帶點熱帶水果風味，可可、黑糖，口感圓潤，尾韻綿長",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 350
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 0
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "印尼_亞齊_迦佑_蜜處理_Alinagata",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "亞齊 迦佑",
+    "process": "蜜處理",
+    "specs": {},
+    "description": "焦糖紅茶、蜂蜜、紅糖",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 370
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "印尼_亞齊_迦佑_Bourbon_半水洗_Alinagata",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "亞齊 迦佑",
+    "process": "半水洗",
+    "specs": {},
+    "description": "木質草本調性帶點堅果，柑橘酸值，黑糖甜感，整體風味乾淨",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 385
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 360
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "印尼_亞齊_迦佑_Timtim_半水洗_Alinagata",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "亞齊 迦佑",
+    "process": "半水洗",
+    "specs": {},
+    "description": "乾香奶油、起司香氣，入口木質草本調性，李子、烏龍茶、尾韻淡淡熟果味，乾淨度高",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 405
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 380
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "印尼_亞齊_迦佑_酒香處理_Alinagata",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "亞齊 迦佑",
+    "process": "酒香處理",
+    "specs": {},
+    "description": "蘭姆葡萄、莓果、紅酒、李子、酸值明亮、乾淨度高",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 485
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 0
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "Gerbata_厭氧日曬_G1",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "Gerbata",
+    "process": "厭氧日曬",
+    "specs": {},
+    "description": "花香、藍莓、黑莓、水果軟糖、可可，整體平衡，耐喝且餘韻持久",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 420
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 395
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "西達摩_龐貝_水洗",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "西達摩",
+    "process": "水洗",
+    "specs": {},
+    "description": "茉莉花香、橘皮、青檸檬、橙花、蜂蜜紅茶，風味具層次且細緻",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 505
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 480
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "衣索比亞_古吉_科查_高棚日曬_G2",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "衣索比亞",
+    "category": "古吉 科查",
+    "process": "高棚日曬",
+    "specs": {},
+    "description": "焦糖紅茶、玫瑰、草莓、紅蘋果，風味明亮且層次豐富",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 395
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 375
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "貝貝卡_班奇馬吉_藝妓原生種_日曬",
+    "year": "2025",
+    "new": false,
+    "name": "",
+    "eng_name": "",
+    "country": "未知",
+    "category": "貝貝卡 班奇馬吉",
+    "process": "日曬",
+    "specs": {},
+    "description": "香草、茉莉、熱帶水果，整體平衡乾淨",
+    "price_info": {
+      "units": [
+        {
+          "type": "散裝",
+          "weight": "5KG",
+          "price": 405
+        },
+        {
+          "type": "袋裝",
+          "weight": "30KG",
+          "price": 380
+        }
+      ]
+    }
+  }
+]

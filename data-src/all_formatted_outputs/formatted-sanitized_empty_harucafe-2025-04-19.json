@@ -1,0 +1,128 @@
+[
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 爪哇 阿拉比卡 G1 水洗　Indonesia Java Arabica G1 Washed",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "",
+    "process": "水洗",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": [
+        {
+          "type": "包裝",
+          "weight": "30KG",
+          "price": null
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 阿拉比卡 G1 半水洗　Indonesia Flores Arabica G1 Semi Washed",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "",
+    "process": "半水洗",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": [
+        {
+          "type": "包裝",
+          "weight": "30KG",
+          "price": null
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印尼 羅布斯塔 EK1　Indonesia Sumatra Robusta EK1",
+    "eng_name": "",
+    "country": "印尼",
+    "category": "",
+    "process": "日曬",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": [
+        {
+          "type": "包裝",
+          "weight": "30KG",
+          "price": null
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "東帝汶 阿拉比卡 FAQ 水洗　Timor Arabica FAQ Washed",
+    "eng_name": "",
+    "country": "東帝汶",
+    "category": "",
+    "process": "水洗",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": [
+        {
+          "type": "包裝",
+          "weight": "30KG",
+          "price": null
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印度 季風 馬拉巴 AA　Indian Monsooned Malabar AA",
+    "eng_name": "",
+    "country": "印度",
+    "category": "",
+    "process": "其它",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": [
+        {
+          "type": "包裝",
+          "weight": "30KG",
+          "price": null
+        }
+      ]
+    }
+  },
+  {
+    "product_code": "",
+    "year": "2025",
+    "new": false,
+    "name": "印度 羅布斯塔　India Robusta",
+    "eng_name": "",
+    "country": "印度",
+    "category": "",
+    "process": "日曬",
+    "specs": {},
+    "description": "",
+    "price_info": {
+      "units": [
+        {
+          "type": "包裝",
+          "weight": "30KG",
+          "price": null
+        }
+      ]
+    }
+  }
+]
